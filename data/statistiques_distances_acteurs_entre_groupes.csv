@@ -1,0 +1,11 @@
+groupe_1,groupe_2,nb_projets,nb_paires_acteurs,distance_q25_km,distance_mediane_km,distance_q75_km
+Maître d'ouvrage,Maître d'ouvrage,12,18,4.29,14.57,109.37
+Maître d'ouvrage,Études et ingénieries,131,505,13.28,31.58,74.88
+Maître d'ouvrage,entreprise de construction,124,292,11.16,21.15,41.41
+Maître d'ouvrage,entreprises de transformation,130,330,31.09,58.6,127.96
+Études et ingénieries,Études et ingénieries,134,890,12.68,42.27,82.8
+Études et ingénieries,entreprise de construction,159,1066,20.38,39.96,76.23
+Études et ingénieries,entreprises de transformation,166,1242,42.54,75.58,141.61
+entreprise de construction,entreprise de construction,98,237,23.68,43.44,74.18
+entreprise de construction,entreprises de transformation,159,697,25.06,50.29,123.73
+entreprises de transformation,entreprises de transformation,87,344,51.32,110.71,306.37

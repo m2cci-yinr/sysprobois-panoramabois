@@ -1,0 +1,705 @@
+id_projet,nom_projet,commune,departement,has_scierie_industriel,has_bois_pose,raison_retrait
+1000,Chalet bois en station,Combloux,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1002,Ecole ALICE,Prevessin-Moens,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1021,Cahute en coeur de Lyon,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1024,La chapelle,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1049,Espace sportif et culturel de Lantriac,Lantriac,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1050,curtille,Saint-Andre-D'apchon,Loire,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1052,Maison de Santé Communauté de Communes du Pays de Vernoux,Vernoux-En-Vivarais,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1062,L'Onde,La Chapelle-D'alagnon,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1066,Migration - des unités de travail mobiles et démontables,Vaulx-En-Velin,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1067,restaurant scolaire à st symphorien d'ozon,Saint-Symphorien-D'ozon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1086,Maison Passive La Chapelle en Vercors,La Chapelle-En-Vercors,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1220,maison dans les vignes,Gervans,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1238,Construction d'une nouvelle école communale à Grézieu la Varenne,Grezieu-La-Varenne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1239,Requalification du groupe scolaire Berthelot à Villeurbanne (69),Villeurbanne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1258,Villa Saint Rambert,Lyon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+128,Les Anémones,Autrans-Meaudre En Vercors,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1284,ST ALBAN HOTEL & SPA,La Clusaz,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1306,Hotel Alparena,Montvalezan,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+131,CHAMAREL - COOPERATIVE D'HABITANTS,Vaulx-En-Velin,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1340,Patinoire de VALLOIRE,Valloire Galibier,Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1380,Mountain House,Manigod,Haute-Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1388,bureaux d'un paysagiste à Chevry,Chevry,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1399,EURRE Siège de la Communauté de Communes du Val de Drôme,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1400,LowCal,Pont-De-Barret,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1402,Ecole maternelle Marlène Jobert,Chaponnay,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1404,Maison de Val Thorens,Les Belleville,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1415,ENTRAMADA,Faverges-Seythenex,Haute-Savoie,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+1423,Pôle enfance de Goncelin,Goncelin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+146,Maison Grand angle,Merindol-Les-Oliviers,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1466,PREAU DE L'ECOLE TARENTELLES A CHASSIEU,Chassieu,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1467,LA CAVERNE FORTIFIÉE,Mercury,Savoie,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+1468,La Pastorale,La Motte-Servolex,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1482,Extension et réhabilitation de l'Ecole de Lablachère,Lablachere,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+15,Maison de services de Viverols,Viverols,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1509,Extension et réhabilitation de l'école Sainte-Croix,Aubenas,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1513,Construction de 3 éco-logements communaux locatifs,Devesset,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1523,Maison individuelle,Saint-Etienne-De-Boulogne,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1577,Maison A,Corenc,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1588,Réhabilitation d'un ensemble de 2 bâtiments composé d'une ancienne forge écurie et d'un garage en un bâtiment de bureaux,Riom,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1592,Devanture de l'épicerie Le Galta à Saint-Nicolas-de-Véroce,Saint-Nicolas-De-Veroce,Haute Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1594,La Maison du Jardin-Forêt Comestible,Cobonnes,Drome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1597,Construction d'un Espace de Vie Rurale à Saint Gervais d'Auvergne,Saint-Gervais-D'auvergne,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1600,Scierie des combrailles,Montel-De-Gelat,Puy-de-Dome,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+1611,Administration et centre de documentation du lycée Georges Sand,Yssingeaux,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1647,Gendarmerie et locaux associés,Saint-Symphorien-Sur-Coise,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1666,Maison V,Beaumont,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1673,Extension de la Mairie,Entraigues,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1686,salle multi-drôme,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1702,L'impluvium,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1717,"construction d'une Médiathèque, d'une salle polyvalente et d'un espce jeunesse à MONTBONNOT ST-MARTIN",Montbonnot-Saint-Martin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1750,People Hostel aux Deux Alpes,Les Deux Alpes,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1764,CONSTRUCTION D'UN RESTAURANT SCOLAIRE AVEC POLE ADMINISTRATIF ET AUDITORIUM - COLLEGE SAINTE MARIE A LA ROCHE SUR FORON,La Roche-Sur-Foron,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1779,CONSTRUCTION D'UN CHALET INDIVIDUEL - COMBLOUX 74920,Combloux,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1834,Groupe scolaire BOGEVE,Bogeve,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1868,Aire couverte automobile,Beaujeu,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1892,Collège du Chéran,Rumilly,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1900,Bâtiment agricole vaches laitières à Cibeins,Miserieux,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1910,ALSH de Vinsobres,Vinsobres,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1911,Rénovation d’un ancien corps de ferme à Echenevex,Echenevex,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1920,MEDIATHEQUE D'ARNAS,Arnas,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+1922,Maison Cadalles,Saint-Denis-Les-Bourg,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1940,Symbiose à la Montagne,Saint-Martin-D'uriage,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1968,Gymnase du Clos Jouvin,Jarrie,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1969,Complexe sportif,Courchevel,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1973,MELICEM,Lucinges,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1974,La Passerelle,La Tour-Du-Pin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1975,Aire de services de Ceignes Haut Bugey,Ceignes,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1976,Salle hors-sac,Le Touvet,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1977,Ecole de musique et Ateliers municipaux,Voglans,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1979,Les Jardins de Normandie Construction de 44 logements BBC et de commerces,Chambery,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1980,Maison W,Prevessin-Moens,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1981,Médiathèque de Faverges de la Tour,Faverges-De-La-Tour,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1982,Réhabilitation de la Maïsou et de ses abords,Sinard,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1983,Passerelle de la Combe d' Ire,Chevaline,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1987,ecole des granges gontardes,Les Granges-Gontardes,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1989,Maison des lycéens passive,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1991,LE LODGE,Bourg-Saint-Maurice,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1992,Transformation d'une grange en habitation,Saint-Martin-D'uriage,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1994,A LA DECOUPE,Dieulefit,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1995,THE RAMEN,Limonest,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1996,ANGKOR DUBOIS,La Tour-De-Salvagny,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1997,CHAP'S,Beligneux,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1998,Gymnase ZAC du Bon Lait,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+1999,Pont routier en BOIS DES ALPES,Cognin,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2000,Villa dans le Genevois français,Jonzier-Epagny,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2003,HARAS DES GRILLONS,Ratieres,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2004,Tennis couverts et Club house de Grenoble,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2007,Construction des nouveaux ateliers - Lycée DESCHAUX,Sassenage,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2009,Ô' Saône,Lyon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2010,Puits de Lumière - Extension G,Chassieu,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2011,bureaux WORKSHOP,Thonon-Les-Bains,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2013,TERRA NOSTRA,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2014,Relais Assistantes Maternelles,Saint-Didier-Sur-Chalaronne,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2015,HALLE COUVERTE,Chaponnay,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2016,Centre de loisirs de Devorah,Bourg-En-Bresse,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2019,CENTRE EQUESTRE DU LAC DES SAPINS,Cublize,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2020,CENTRE AQUATIQUE D'ANNEMASSE,Annemasse,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2022,Médiathèque de Chaponost,Chaponost,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2023,CENTRE DU VOL A VOILE,Saint-Leger-Sur-Roanne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2024,"""La Galachère"", Logements locatifs sociaux passifs",Saint-Heand,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2025,CONSTRUCTION DU GYMNASE DU COLLEGE D'ALLEVARD,Allevard,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2026,Construction d'un espace multi-accueil RAM/LAEP,Roybon,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2027,Construction du centre du Vol à Voile,Saint-Leger-Sur-Roanne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2028,Pole Médical Saint-Jean,Saint-Jean-D'ardieres,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2083,CLAUSTRA PAYS SAGE,Pardines,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2128,Four Seasons - Megève,Megeve,Haute-Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2195,GROUPE SCOLAIRE JOSEPH BRENIER,Saint-Priest,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2196,Maison en porte à faux,Rochetaillee-Sur-Saone,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2198,Préau scolaire - Halle couverte à ossature bois,Nantes-En-Ratier,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2199,MAISON PASSIVE DANS LE PILAT,Pelussin,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2200,CRECHE ET JARDIN D'ENFANTS COMMUNAUTAIRES,Bourg-Argental,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2201,Grange individuelle,Saint-Quentin-Sur-Isere,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2202,Espace Multi Activités,Gresy-Sur-Isere,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2203,Refuge du Col du Vanoise,Pralognan-La-Vanoise,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2204,STELANDRE : 8 chalets individuels en accession,Chamonix-Mont-Blanc,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2206,Pont de Pyrimont,Challonges,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+229,RESTAURANT SCOLAIRE DE GRANGES-LES-BEAUMONT,Granges-Les-Beaumont,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2297,Centre Sportif Intercommunal des Voirons,Bons-En-Chablais,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2298,Mont-Blanc Basecamp,Les Houches,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2299,Maison Charly,Andilly,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2300,HALLE DE PIERRE-CHATEL,Pierre-Chatel,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2302,Cabinet Ostéopathe,Vallon-Pont-D'arc,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2303,CENTRE TECHNIQUE MUNICIPAL,Araches-La-Frasse,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2304,Extension en balcon sur la montagne,Val-Maravel,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2307,Maison Zig Zag,Bourg-En-Bresse,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2308,Requalification du centre village à Bourgneuf,Bourgneuf,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2309,Salle des fêtes de Saint-Pierre-de-Genebroz,Saint-Pierre-De-Genebroz,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+231,Transport Fontanon à Cournon-d'Auvergne,Cournon-D'auvergne,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2311,Magasin Gamm Vert,Die,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2316,maison Wallis-Talbot,Villard-De-Lans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2381,Logements Tores,Villard-De-Lans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2382,STELYBOIS,Saint-Chamond,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2385,MAISON S,Le Touvet,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2386,Pôle Santé Grande Ile,Sarras,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2388,SALLE MULTIFONCTION,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2390,cinéma éphémère - CHAMBRE NOIRE,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2391,Maison du lac,Le Bourget-Du-Lac,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2392,MEDIATHEQUE DE SEEZ,Seez,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2394,MUR D'ESCALADE LIONEL DAUDET,Pollionnay,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2395,Aménagement et traitement acoustique d'une chapelle,Saint-Egreve,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2398,maison à lentilly,Lentilly,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2399,20 logements les Seringas,Loriol-Sur-Drome,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+24,"Bâtiment multi-activités ""B37""",Annemasse,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2400,Duplex de Cécile et Pierre,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2401,Maison de Muriel et Jean,Saint-Jorioz,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2402,AGORA,Saint-Didier-De-Formans,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2404,AWAY HOSTEL AND COFFEE SHOP,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2415,TABLE DU CONSEIL DE LA MAIRIE DE NOTRE DAME DE COMMIERS,Notre-Dame-De-Commiers,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2416,Mairie de NOTRE DAME DE COMMIERS,Notre-Dame-De-Commiers,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2417,HGC - HABITAT GROUPE CASTORS,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2418,Immeuble CK3,Grenoble,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2419,MAISON D'ACCUEIL DU LAC DU RONZEY,Yzeron,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2420,Chambres avec vue - internat du Lycée André Paillot,Saint-Genis-Laval,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2423,Chalet haute-couture à Crest-Voland,Crest-Voland,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2424,WESTING,Limonest,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2425,Extension du groupe scolaire Mil'fleurs,Millery,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2430,Chalet passif à Beaune (73),Beaune (Commune De Saint Michel De Maurienne),Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+248,Les Rosiers,Annonay,Ardeche,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2485,LEAP Vallon Bonnevaux,Saint-Jean-De-Bournay,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2486,Etablissement d'accueil du jeune enfant (EAJE),Bully,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2487,Extension à Lancié,Lancie,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2489,Siège de la Fédération du Bâtiment et des Travaux Publics de l'Isère,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2490,Un paravent pour cuisiner,Savigneux,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2491,Aménagement intérieur d'un appartement,Villard-De-Lans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2492,Maison Bois à Chasse sur Rhône,Chasse-Sur-Rhone,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2495,Nouvelle Chambre pour Isabelle & Hervé,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2496,Maison sous serre,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2498,construction d'une école à energie positive,Les Granges-Gontardes,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2499,Cité Scolaire végétalisée,Montpezat-Sous-Bauzon,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2500,Groupe scolaire Antonin Laborde,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2501,ECOLE DE SAINT GIROD,Saint-Girod,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2511,Maison à Viviers,Viviers-Du-Lac,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2519,Aménagement du site du lac volcanique du Bouchet-Construction Maison du Site,Cayres,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2521,AMENAGEMENT D'UNE CHAUFFERIE BOIS ET D'UN RESEAU DE CHALEUR ET D'UNE HALLE COUVERTE DANS UN BATIMENT EXISTANT,Champs-Sur-Tarentaine-Marchal,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2527,Pôle Enfance Jeunesse Intercommunal,Saint-Germain-Lembron,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+255,Atelier de transformation de légumes biologique - Les jardins de Lucie,Communay,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2550,CHALET ECONTRE,Chamonix-Mont-Blanc,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2554,ANTENNE CONSEIL GENERAL,Montbrison,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2568,Mont Blanc,Les Houches,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2629,Maison à Tresserve,Tresserve,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2630,Construction d'un atelier relais CCIT 07,Ardoix,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2632,LA GRANGE,Saint-Basile,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2634,Lycée le Marais Sainte - Thérèse - Maison des Lycéens -,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2635,Parc Musée de la Mine du Puits Couriot,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2636,Maison Wagstaff,Hautecourt-Romaneche,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2640,Réhabilitation maison J,Venon,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2641,Jardin du Thé - Local de vente,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2642,MICRO CRECHE / multi accueil,Lepin-Le-Lac,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2667,Gymnase Cherifi,Rillieux-La-Pape,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2668,FACE B,Lyon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2669,PLEIN CADRE,Saint-Didier-Au-Mont-D'or,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2670,DGAC / SNA,Colombier-Saugnieu,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2701,LE PETIT ROUVIERE,Nyons,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2703,Construction de logements locatif sociaux à Crolles,Crolles,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2704,Cité Scolaire à énergie positive en bois et paille,Saint-Cirgues-En-Montagne,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2716,MAISON DES FORESTIERS ET DU BOIS - (MFB),Deux-Grosnes,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2717,Médiathèque,La Cote-Saint-Andre,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2719,Maison sur un talus,Rochetaillee-Sur-Saone,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2720,Bellegarde - Beauséjour,Valserhone,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2721,MAISON 1203,Saint-Etienne-De-Serre,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2722,Crèche Les P'tits Mômes,Amberieu-En-Bugey,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2723,Villa LJ,Nozieres,Ardeche,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2724,CENTRE DE RESSOURCES SUR L'HABITAT DURABLE DU PARC DU PILAT,Pelussin,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2725,Réhabilitation d'une bâtisse en pierre,Besse,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2726,Centre Eau & Nature l'Iloz,Meyzieu,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2727,Sanitaires au Lac du Lit du Roi,Massignieu-De-Rives,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2728,LE NOIR TESSIER,Ecully,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2729,"LOGEMENTS PASSIFS BOIS & PAILLE: ""AMPERE""",Oullins-Pierre-Benite,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2731,Siège du Syndicat Intercommunal d'Energies du département de la Loire,Saint-Priest-En-Jarez,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2732,École maternelle publique Georges Charpak,Montelier,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2733,Construction de 18 logements,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2734,Hepburn House,Collonges-Au-Mont-D'or,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2735,Cabinet médical,Romans-Sur-Isere,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2736,extension de la bibliothèque publique,Challex,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2737,Réhabilitation et rénovation du Refuge Albert 1er,Chamonix-Mont-Blanc,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2738,Halle dans un parc périurbain,Crolles,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2739,Halle dans un parc périurbain,Crolles,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2762,Pole sportif et festif de St Jean Bonnefonds,Saint-Jean-Bonnefonds,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2767,Centre culturel de Lans en Vercors,Lans-En-Vercors,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2768,HAMEAU FOURNELLA,Correncon-En-Vercors,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2769,Maison atelier dans une pente en Isère,Rochetoirin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2770,Groupe Scolaire Marie Bordas,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2771,Aménagement de l'espace d'accueil de la base de loisirs du BOIS FRANÇAIS,Saint-Ismier,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2772,les maisons au bord de l'eau,Chatillon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2773,EXTENSION ET RÉHABILITATION DU COLLÈGE DU GRESIVAUDAN,Saint-Ismier,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2774,Cité scolaire végétalisée àénergie positive,Montpezat-Sous-Bauzon,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2778,SCI des AIRES,La Salette-Fallavaux,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2779,Maison témoin,La Biolle,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2780,Pavillon accueil,Flaine,Haute Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2782,Ecole élémentaire de 4 classes avec salle d'activités et bibliothèque,Sainte-Helene-Du-Lac,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2784,GUINGUETTE DES CHAVANTS,Les Houches,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2785,maison Lebrix,Saint-Martin-D'heres,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2786,Extension de la Bibliothèque,Saint-Alban-De-Roche,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2787,OGEC Saint Michel,Bourgoin-Jallieu,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2788,Le Refuge,Les Belleville,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2789,Accueil de l'Ecole d'Architecture de Lyon (ENSAL),Vaulx-En-Velin,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2790,Le Domaine du Bois,Mions,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2791,CHAMP des CIMES,Passy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2792,RESTAURANT SCOLAIRE,Mery,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2793,Locaux d'activitéà Avignonet,Avignonet,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2795,Le Pôle enfance des Cèdres,La Fouillouse,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2798,Passerelle Caméléon,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2799,Maison avec vue sur les montagnes,Saint-Joseph-De-Riviere,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2800,"Création de locaux techniques, Construction d'une salle des fêtes, Réhabilitation du bâtiment Mairie et Requalification des abords",Bourgneuf,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2801,Réhabilitation de la Maison Berthod en pôle de services,Vinay,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2802,EXTENSION RIVOIRE,Aoste,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2806,"Immeuble de 42 logements, bureaux et commerces",Aurillac,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2826,Le Galet,Reyrieux,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2827,Construction de l'école de La Rivière et extension du restaurant,La Riviere,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2829,Halle de marché et sanitaires Place Perdtemps,Divonne-Les-Bains,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2831,BRIGNAIS - LA BOULE JOYEUSE - Club House et jeux,Brignais,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2832,Maison en KLH à Brignais,Brignais,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2833,La maison dans la prairie,Le Touvet,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2835,Pôle multi-associatif construction d'une M.J.C,Tassin-La-Demi-Lune,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2836,Groupe Scolaire Beauvert,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2837,La Montagne,La Motte-Servolex,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2838,TRANSFORMATION D'UNE GRANGE EN HABITATION,Saint-Andre,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2840,MAISON DE LA VIE ASSOCIATIVE,Roanne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2841,MAISON DU LAC D'AIGUEBELETTE,Nances,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2842,MJC CONFLUENCE,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2843,LIEU DE VIE ETUDIANTE,Jacob-Bellecombette,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2844,Maison de la Mécatronique,Annecy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2845,SALLE DES SPORTS INTERCOMMUNALE,Saint-Etienne-Du-Bois,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2846,Gare aval 3S Prodains Express,Morzine,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2847,Restaurant et garderie péri-scolaire,Saint-Andeol-Le-Chateau,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2850,Bâtiment demi-pension du Lycée Lalande,Bourg-En-Bresse,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2851,Nouvelle école à PUGNY CHATENOD2013,Pugny-Chatenod,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2856,Construction du gymnase de Saint Chef,Saint-Chef,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2862,Groupe scolaire des terres d'Ain,Poncin,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2863,Une bibliothèque médiathèque à Treffort Cuisiat,Val-Revermont,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2864,Ecovillage de Virignin - 31 logements locatif sociaux,Virignin,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2865,Auvent dans le cadre de l'aménagement de l'aire d'accueil du site des Cascades du Ray-Pic,Pereyres,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2866,Groupe Scolaire Marie Bordas,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2873,Apprendre à vivre dehors,Caluire-Et-Cuire,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2875,Little Wood,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2876,Maison des Arts,Montbonnot-Saint-Martin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2882,"ECO-IMMEUBLE ""LE JARDIN DE JULES""",Villeurbanne,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2884,Miniclub,Le Bourget-Du-Lac,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2885,Lycée des Eaux Claires,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2886,des crêtes à crest,Crest,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2888,Groupe Scolaire de St Pierre d'Entremont,Saint-Pierre-D'entremont,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2889,BEAU FIXE,Limonest,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2891,FABRIQUE DE LUNETTES à OYONNAX,Oyonnax,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2893,Passerelle du Domaine de Découverte de la Vallée d'Aulps,Saint-Jean-D'aulps,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2894,Espace Multi Activité,Saint-Pierre-D'entremont,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2895,Centre médico-social Pont de Beauvoisin,Le Pont-De-Beauvoisin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2896,Jean Jaurès I ZAC triangle,Saint-Priest,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2897,Transformation de maison 1975,Chaponost,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2898,Réaménagement du 1er étage de l'école Zenoni,Saint-Gingolph,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2902,Groupe scolaire de St Denis Village,Saint-Denis-Les-Bourg,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2904,Habitat groupé pour trois familles,Saint-Pierre-D'albigny,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2905,"Maisons des Associations, de la jeunesse et plateau d'activités",Taluyers,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2908,Maison du Conseil Général du Trièves à Mens,Mens,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2909,Maison eKo - Maison en L optimisé,Vonnas,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2910,Maison eKo - Maison double de 2X85m2,Haut Valromey,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2911,SURELEVATION D'UN BATIMENT ARTISANAL,Hermillon,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2912,Auchan Caluire 2,Caluire-Et-Cuire,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2917,Restaurant entreprise CEA H1,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2920,VISIOBOIS,Plateau D'hauteville,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2922,SALLE POLYVALENTE,La Ravoire,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2923,Médiatheque tête de réseau de Saint Just Saint Rambert,Saint-Just-Saint-Rambert,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2963,La bibliothèque Gérard Pélisson,Ecully,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2964,Groupe scolaire Paul Chevallier à Rillieux-la-Pape,Rillieux-La-Pape,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2965,LOGEMENTS DE LA SAUVEGARDE,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2966,école primaire,Alby-Sur-Cheran,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2967,Ferme du Mûrier,Gieres,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2968,Maison eKo - Maison & Atelier d'artiste,Brindas,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+2969,CONSTRUCTION D'UN ABRI A SEL,Plateau D'hauteville,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2970,Centre aquatique et de remise en forme des Carroz d'Arâches,Araches-La-Frasse,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2971,Kiosque à Friandise,Vizille,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2972,Maison du Parc National du Tourisme de la Vanoise,Pralognan-La-Vanoise,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+2975,SALLE D'ANIMATION,Les Houches,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3017,Surélévation à Valence,Bourg-Les-Valence,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3022,Poteaux-poutres au bord du Lac,Saint-Jorioz,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3023,Toiture cintrée et végétalisation,Saint-Jean-De-Gonville,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3026,Residence Lacustres pour Pécheurs,Chanaz,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3027,4 HLL en Bois de Chartreuse,Entremont-Le-Vieux,Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3031,Base de Sports et Loisirs au Lac d'Aiguebelette 73,Nances,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3032,ateliers municipaux,Crest-Voland,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3033,Chalet de vacances,Hauteluce,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3034,chalet pointu,Bourg-Saint-Maurice,Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3035,Domaine du Baron,Montriond,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3037,Falaise et Crozats,Avoriaz,Haute Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3039,aXis house,Sciez,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3041,Robbiani,Messery,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3043,Refuge du Goûter,St Gervais,Haute Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3044,Construction d'une maison passive et de deux cabinets de médecins,Passy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3045,Quasi-Passive,Lyaud,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3048,Villa Bois,Thonon-Les-Bains,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3049,Maison A+D,Veyrier-Du-Lac,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+305,Thé Ramen,Limonest,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3050,Extension de l'Ecomusée du Lac d'Annecy,Sevrier,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3051,Chalet L'Orignal,Chamonix-Mont-Blanc,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3055,Construction d'une crèche et des locaux administratifs,St Jeoire,Haute Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3056,Stade de foot de Publier,Publier,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3057,villa,Publier,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3058,Hangar à sel et Base de vie,Viry,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3078,Maison ossature bois,Viry,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3081,Chalet,Combloux,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3082,Pôle périscolaire Espace Foron,Reignier-Esery,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3084,Siège mondial des skis Rossignol,Saint-Jean-De-Moirans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3085,Salle d'évolution au sol,Vif,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3086,VIEO,Villemoirieu,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3087,centre technique municipal,Coublevie,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3089,Construction d'un Internat au Lycée Ferdinand Buisson,Voiron,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3090,Maison du droit de visite,Voiron,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3092,maison ADFX,Le Sappey-En-Chartreuse,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3126,Maison Bi-Familiale,La Tronche,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3127,Maison des parents,La Tronche,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3128,Pôle Enfance,Crets En Belledonne,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3129,Collège 600,Chirens,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+313,PAVILLON DE TOURISME EN DOMBES,Chatillon-Sur-Chalaronne,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3130,B2O,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3131,Greenspace Bureaux et ateliers,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3133,lycée,Chazelles-Sur-Lyon,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3134,l'île aux coissoux,Bonson,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3135,Maison Belvédère,Saint-Just-Saint-Rambert,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3136,Salle d'activités de plein air,La Versanne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3138,l'Aubier : Construction de 20 logements locatifs BBC,Sorbiers,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3139,Collège de Veauche,Veauche,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+314,BUREAUX DANS LA PENTE,Chatillon-Sur-Chalaronne,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3140,Tricube,Saint-Symphorien-De-Lay,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3141,Extension Grand Charlieu,Saint-Genest-Lerpt,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3142,"EHPAD, Marhles",Marhles,Loire,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3143,Gymnase,Saint-Genest-Malifaux,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3144,Bayard Confluence,Lyon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3146,La Maison de Rodolphe,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3147,maison BBC,Lyon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3148,Restructuration et Extension du Groupe Scolaire Jules Ferry,Villeurbanne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3149,Ecole Langevin,Vaulx-En-Velin,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+315,LOGEMENTS ET COMMERCES DANS LA CITE MÉDIÉVALE DE CHALAMONT,Chalamont,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3150,Maison Atelier,Brindas,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3152,Deux maisons à ossature bois,Rillieux-La-Pape,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3154,Espace 140,Rillieux-La-Pape,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3155,Sauver l'arbre à tout prix,Rillieux-La-Pape,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3157,Pépinière d'entreprise de Tarare,Tarare,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3159,La passerelle,Lentilly,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3160,Maison Marcy l'Etoile,Marcy-L'etoile,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3162,Gymnase Jean Boistard,Francheville,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3163,En pente douce,Saint-Didier-Au-Mont-D'or,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3164,Ateliers Municipaux,Taluyers,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3165,maison étirée,Saint-Cyr-Au-Mont-D'or,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3166,Maison contemporaine à niveaux à Saint Forgeux,Saint-Forgeux,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3167,maison en ville à patios,Bron,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3168,MOB . Fevre / Deshayes,Bron,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3169,Container bois,Thurins,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3170,l'Héliotrope,Orlienas,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3172,Ecole maternelle,Cublize,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3174,maison cube,Saint-Germain-Au-Mont-D'or,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3176,Maison Etienne,Limonest,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3211,Construction éco-immeuble àénergie positive,Propieres,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3212,Bibliothèque et salle associative avec cinéma itinérant,Duerne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3213,Gymnase multisports,St Martin En Haut,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3214,Maison des pêcheurs,Viviers-Du-Lac,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3217,Centre des Finances Publiques d'Albertville,Albertville,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3218,Eco-hameau du Villard,Saint-Jean-D'arvey,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3219,collège La Forêt,Saint Genix Sur Guiers,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3221,Maison individuelle,Saint-Pancrace,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3223,Construction de 19 logements collectifs et intermédiaires,Bourg-En-Bresse,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3225,Panoramalac,Divonne-Les-Bains,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3226,Unité de soins Alzheimer de Pont de Veyle,Pont-De-Veyle,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3229,Le Modul'Hab Schneider,Chasselay,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3272,maison individuelle,Montrevel-En-Bresse,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3273,Bureaux et ateliers de charpente,Beard-Geovreissiat,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3274,Salle polyvalente de Valgorge,Valgorge,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3275,le hameau des buis,Berrias-Et-Casteljau,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3276,Centre Medicaux Social,St Donat Sur L'herbasse,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3277,La maison de la Fontaine d'Annibal / Village Vacances,Buis-Les-Baronnies,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3278,Céribois,Chateauneuf-Sur-Isere,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3280,Homelib,Espenel,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3281,3 logements avec atelier d'artisant d'art,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3282,Bureaux àénergie positive,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3283,Gymnase Chareyre,Crest,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3284,la maison dans le vercors,Saint-Martin-En-Vercors,Drome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3285,Ecole élémentaires des Chirouzes,Bourg-Les-Valence,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3286,Réhabilitation de l'IME du Domaine de Lorient,Monteleger,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3287,La Salière,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3288,Logements sociaux du Clos des Fleurs,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3289,Logements sociaux Le Tournesol,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3290,Maison individuelle en milieu urbain,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3291,Restaurant H1 CEA,Grenoble Cedex 7,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3292,Restaurant L'alouette,Bonnefamille,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3293,Caserne de Bonne / Halle bioclimatique du centre commercial,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3294,Logements Zac teisseire à Grenoble,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3296,ALPHA,Echirolles,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3297,Maison individuelle sur pilotis,Seyssins,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3298,Maison Delphine & Henri,Bernin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3299,Ecole maternelle Charles Perrault,Charvieu-Chavagneux,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3300,Bureaux Canopée,Meylan,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3301,Ciré scolaire Jean Prévost,Villard-De-Lans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3302,Siège de la Communauté de Communes du Massif du Vercors,Villard-De-Lans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3303,Restaurant d'altitude,Lans-En-Vercors,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3304,Local associatif,La Cote-Saint-Andre,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+3305,Le Monolythe,Ruy,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3306,Maison Paroissiale,Bourgoin-Jallieu,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3307,Métamorphose bois,Les Angonnes,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3308,Regroupement des écoles communales - Le Barlatier,Brie-Et-Angonnes,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3309,les tonelles,Chapareillan,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3311,Villa solaire,Morzine,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3312,Cancellieri,Sallanches,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3313,Extension du pôle culturel du Briscope,Brignais,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3314,Centre Hygée - Canceropôle de Saint -Etienne,Saint-Priest-En-Jarez,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3315,Collège 600 de Chirens,Chirens,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3318,Chalet Beaufortain,Beaufort,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+336,"Grande stabulation, site de Laqueuille, INRA",Laqueuille,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+363,Ecole de JOB,Job,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+364,Ecole de NOUSTOULET,Saint-Germain-Laprade,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3904,"L'annexe, espace multifonctions dans le jardin",Veigy-Foncenex,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3910,habitation bois à Châtel Guyon,Chatel-Guyon,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3944,Les chèvres de Savoyères,Claix,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3946,LA COMBE GOURMANDE,Saint-Martin-D'uriage,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3968,Rénovation Arpin,Montvalezan,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3971,Halle Louise Michel,Belleville-En-Beaujolais,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3975,Bâtiment Multi-service - ARC2000,Bourg-Saint-Maurice,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3995,groupe scolaire et salle communale,Alex,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+3996,Salle multi-activité,Saint-Sauveur,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4004,Réhabilitation et extension d'une ancienne scierie en gîte de groupe,Saint-Gervais,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4014,Atelier de maintenance de la montagne Ardéchoise,Saint-Etienne-De-Lugdares,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4094,hôtel HELIOS,Les Allues,Savoie,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+4098,Halle économique et culturelle,Faverges-Seythenex,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4099,réhabilitation d'une ancienne usine de tissage,Succieu,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4154,MAISON AUBERT,Ecotay-L'olme,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4156,Les jardins Clemenceau 2,Saint-Etienne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4158,Salle des fêtes de Lucinges,Lucinges,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4163,BONNECABANE,Grenoble,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4170,Aménagement de l’aire d’accueil du site de Gardiol – ENS du Plateau d’Ambel,Ombleze,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4180,Salle multi activités de Notre Dame de Vaulx,Notre-Dame-De-Vaulx,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4190,BATIMENTS D'ACCUEIL - Parc médiéval de Montcornelles,Aranc,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4206,Construction d'une école maternelle,Duerne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4222,Crèche EAJE Chatelet,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4223,DELE - UNITE DE PRODUCTION EN BOIS,Vaulnavey Le Bas,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4232,Maison d'habitation,Saint-Leger-Sur-Roanne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4234,Maison médicale de Siaugues Sainte Marie,Siaugues-Sainte-Marie,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4241,Eden Blanc,Huez,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4264,La maison du lac,Lugrin,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4274,Apollo 2,Clermont-Ferrand,Puy-de-Dome,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+428,salle de sport,Saint-Quentin-Sur-Isere,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4284,MAISON LB,Thonon-Les-Bains,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4297,Agence CAAZ architecture,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4317,Réhabilitation d'un ancien corps de ferme bugiste,Bouvesse-Quirieu,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4344,Maison de l'enfance,Albertville,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4352,Bivouac,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4353,Réhabilitation de l'école élémentaire César Terrier,Pontcharra,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+436,Pôle multi-accueil de Tencin,Tencin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4360,Paille d'or,Curis-Au-Mont-D'or,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4361,Surelévation en ossature bois,Clermont-Ferrand,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4384,Réhabilitation et extension de l'école maternelle et restaurant scolaire César Terrier,Pontcharra,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4398,Extension D'une Maison de Pavillon,Saint-Just-Pres-Brioude,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+440,Au Clair du Quartier,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4404,"En "" Passif"", vivre, dans et face au Grand Paysage",Aydat,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4410,MAM - Construction d'une maison d'été à Marsat,Marsat,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4417,BASE DE VOILE DU LAC DES SAPINS,Ronno,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4422,Gymnase de Retournac,Retournac,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4425,Restructuration et rénovation énergétique de la salle polyvalente du Vernet,Virignin,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4440,Cabinet BESSON immobilier,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4441,Halle polyvalente,Marcy-L'etoile,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4443,Cube bois et acier corten,Sainte-Foy-Les-Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4467,Logements collectifs bois - site de Sonod,Belley,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4469,La maison dans la pente,Le Lyaud,Haute Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4478,SIEGE SOCIAL INOVALP,St Honore,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4480,SALLE POLYVALENTE,La Renaudie,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4494,Extension et rénovation de la Caserne des sapeurs pompiers,Chapareillan,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4498,Ecole des collines,Miribel,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4520,Centre d'art,Ugine,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4533,Maison dans la ruine,Sergy,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4547,"""Mon rêve, ma cabane""",Chassignolles,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+455,Salle de Badminton,Voiron,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4555,Maison des communes de la Drôme (26),Bourg-Les-Valence,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4576,Local de Chasse à Senilhes,Arpajon-Sur-Cere,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4581,Abri à sel et boxes de rangement,Chavanod,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4608,Maison avec vue,Nantes-En-Ratier,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4622,LYCEE ROGER CLAUSTRES,Clermont-Ferrand,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4629,LYON - FONDATION RENAUD - EXTENSION AU FORT DE VAISE,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+4639,"« La Ruche », le nouveau siège du groupe Bjorg, Bonneterre et Compagnie",Saint-Genis-Laval,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4641,Extension à Isserteaux,Isserteaux,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+4642,Piscine des balcons du Dauphiné - Morestel,Morestel,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+469,CONSTRUCTION D'UNE CRÈCHE MULTI ACCUEIL,Saint-Gervais-Les-Bains,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+484,College du Bugey et Médiathèque départementale,Belley,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+504,Ellipse,Saint-Jean-De-Vaulx,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+507,Habitat groupé Agnelas,La Tronche,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+509,Complexe cinématographique REX de Montbrison,Montbrison,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+52,Immeuble le Soleil Ilot CJ4 Zac Cambridge,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+525,La halle de Lamure-sur-Azergues,Lamure-Sur-Azergues,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+541,Construction d'un internat Lycée Roger Clautres à Clermont-Ferrand,Clermont-Ferrand,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+542,Construction de la Maison des Parents,Clermont-Ferrand,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+543,EHPAD Foyer Saint-Dominique,Vals-Pres-Le-Puy,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+547,Ecocentre,Crolles,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+568,Bureaux FE2C,Chatillon-Sur-Chalaronne,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5693,EDUT,Caluire-Et-Cuire,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5694,MPA - MAISON OSSATURE BOIS DANS LA PENTE,Saint-Vallier,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5700,Projet API : Rénovation et aménagement d'un appartement Annecien,Annecy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5707,Sentier de la Forêt des Expériences,Chambost-Allieres,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5719,Maison de santé,Villerest,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5720,Réhabilitation et extension salle des fêtes,Viverols,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5728,Restructuration d'une cantine,Neuilly-Le-Real,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+573,Rénovation du presbytère de Sainte Marguerite Lafigère,Sainte-Marguerite-Lafigere,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5740,Rénover avec le bois,Pleaux,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5789,Local de services au port de Thonon,Thonon-Les-Bains,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5804,Maison ossature bois mélèze,Gresse-En-Vercors,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+5825,"Demi-Pension, Internat et logements de fonction pour le lycée Vaugelas de Chambéry (Savoie)",Chambery,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5851,Rénovation de l'école maternelle d'Aydat,Aydat,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+5873,Pôle Sportif de Pierre-Bénite - La Canopée,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+596,Le Phare à Borne,Borne,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+597,Construction d'un complexe cinématographique à Rumilly,Rumilly,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+600,Espace Copamo,Mornant,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6001,Halle commerçante de Fillinges,Fillinges,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6003,Collège André Lassagne,Caluire-Et-Cuire,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6009,K7,Crolles,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6013,EXTENSION ET RECONSTRUCTION DE L'ECOLE MATERNELLE DE VILLARS LES DOMBES,Villars-Les-Dombes,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6026,Salle multi-activités - La Gavotine,Saint-Paul-En-Chablais,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6043,Centre de loisirs Lachal,Saint-Martin-Le-Vinoux,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+605,Etablissement Rural d'Animation de Saint Symphorien de Lay (42),Saint-Symphorien-De-Lay,Loire,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+607,XXS / CONSTRUCTION D'UNE BUVETTE GUINGUETTE ET DE SANITAIRES,Cliousclat,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6071,Reconstruction de la Maison Rey,Tence,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6072,La Guinguette - VIONS,Vions,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6078,LA SERRE - LA DUCHERE - 47 LOGEMENTS,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+608,Pole enfance & dance à Sainte Sigolene (43),Sainte-Sigolene,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6108,Construction d'une Halle de marché à Lancrans,Valserhone,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6115,MAISON MATHIVET,St Georges D'esperanche,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+612,ANIMA MOTRIX,Monteleger,Drome,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+6133,Hôtel d'entreprises du Pays de Salers,Sainte-Eulalie,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6139,"60 logements sociaux, écoquartier du Petit Mortaix",Pont-Du-Chateau,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6148,Halle de la Place du Champ de Foire,Gannat,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6183,PRN-extension,Rillieux-La-Pape,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+622,ECOLE COMMUNALE ECHALAS,Echalas,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+6222,REHABILATION MAISON ANNEE 80,Nancy-Sur-Cluses,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6236,Quartier des 5 passages - rénovation du parc pasteur – Oyonnax,Oyonnax,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6244,Salle des mariages,Saint-Jean-De-Moirans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6256,Chat perché,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6262,GOST 28147-89,Gleize,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6273,Quartier sénior à Espinasse Vozelle,Espinasse-Vozelle,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6276,LA MAISON DU CERISIER,Pougny,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+628,Eco-quartier Trémonteix à Clermont-Ferrand,Clermont-Ferrand,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6281,Construction d'un Centre Périscolaire en surélévation de l'école de Parcieux,Parcieux,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6296,Restaurant scolaire à Quincieux,Quincieux,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6357,Piscine du Stade Auvergne-Rhône-Alpes,Chambery,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6373,Salle Hors Sac de Montriond,Montriond,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6459,Centre de Loisirs Bibliothèque,Segny,Ain,FALSE,TRUE,Aucun acteur Scierie/Industriel
+647,Aménagement du Mont Brouilly,Odenas,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+6472,Maison individuelle Bétinas,Saint-Julien-Du-Serre,Ardeche,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+6519,Plateformes d'observation aux tourbières de l'Herretang,Saint-Laurent-Du-Pont,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6523,Centre d'accueil et d'hébergement - requalification du site de la Bastide,Jaujac,Ardeche,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+6593,Cabinet d'orthodontie à Brioude,Brioude,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6611,le 38b,Fontaine,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6623,EQUIPEMENT INDUSTRIEL,Cusset,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6630,VALORISATION TOURISTIQUE ET PAYSAGERE DU SITE DE LA TERRASSE,Chiroubles,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+6651,COURSIVE DU CHALET DE PLAINE JOUX,Passy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6671,Julieta by Trans-Bois,Brioude,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6698,Ökofen France,Saint-Baldoph,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+670,GROUPE SCOLAIRE JULES GUESDE - VILLEURBANNE,Villeurbanne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+671,LES CHAUVINS,Teyssieres,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6713,PARK&PLAY,Beynost,Ain,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+672,Multi-accueil à Montmeyran,Montmeyran,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6741,Ecole de Chantesse,Chantesse,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6742,Ecole Jean Racine,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6760,Le Haut-Bois,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6764,Construction des I-LOFTS,Chanaz,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+681,GYMNASE DE RUMILLY,Rumilly,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6819,MAISON POUR TOUS ET CENTRE DE LOISIRS SANS HÉBERGEMENT,Saint-Jean-De-Moirans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6821,Maison LK,Saint-Martin-D'uriage,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6836,"PÔLE ENFANCE ""FORMES ET COULEURS""",Aulnat,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6850,Maison des Millets,Saint-Ismier,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6858,Pôle de consultations en modulaire bois pour l’Hôpital Nord-Ouest de Villefranche-sur-Saône,Villefranche-Sur-Saone,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6878,Aménagement du foyer des compagnons,Villefontaine,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6885,MANÈGE,Villeurbanne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6891,Collège Simone Veil à St-Priest (69),Saint-Priest,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6903,Groupe Scolaire et Salle Polyvalente Les Eparres,Les Eparres,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6945,Ecole Quai Pasteur,Vienne,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6958,Tour ludique en bois,Saint-Antheme,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+696,Brasserie du Slalom,La Chapelle-En-Vercors,Drome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+6972,Les Garçons en Cuisine - Un écrin d'épicéa,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+6995,"Construction de 6 logements intermédiaires et aménagement des extérieurs, au cœur du bourg de Meys (69)",Meys,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7010,Extension de la Chêvrerie des Petites Roches,Plateau-Des-Petites-Roches,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7016,Reconstruction du gite d'hébergement du Col de Légal,Saint-Projet-De-Salers,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7032,abri,Le Brethon,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7037,CASAPART CHAMPROND,Saint-Franc,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+707,Extension d'une Maison,Caluire-Et-Cuire,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7098,EVEIL DES PUYS,Ceyssat,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7102,Piscine Intercommunale du Néron,Saint-Egreve,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7115,LIEU DE VIE POLYMORPHE à DIMENSION COLLECTIVE,Villeurbanne,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7152,Tribune et club house du stade de Saint-Cernin,Saint-Cernin,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7155,GAEC des Gentianes,Saint-Andeol,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7157,MAISON DE WEEK-END,Saint-Theoffrey,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7169,Extension Eglise Protestant à Oullins,Oullins-Pierre-Benite,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7170,Travaux de reconstruction de la toiture du bâtiment Pomel à Issoire (63) suite à un incendie,Issoire,Puy-de-Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7182,Réhabilitation de l’Hôtel Calemard de Montjoly (ISMH) en médiathèque municipale et deux logements,Craponne-Sur-Arzon,Haute-Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7187,Place du Château,Vizille,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7189,PARC LILATTE,Le Versoud,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7190,CCSTI LA CASEMATE,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7198,Ecole Katherine Johnson,Vaulx-En-Velin,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7204,Eden Sud_ Villard-de-Lans,Villard-De-Lans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7205,Office de tourisme,Les Belleville,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7209,Tennis Club,Saint-Jorioz,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7216,Construction d'une villa,Sevrier,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7225,Môle de Mayres-Savel,Mayres-Savel,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7332,"En cherchant la vue, j'ai trouvé la forêt - Louis Cayol et Angel Aguilera",Faverges-Seythenex,Haute-Savoie,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+7333,Maison passive,Francheville,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7387,Le Paravue,Saint-Germain-Laval,Loire,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+74,Centre Audition Mutualiste,Aurillac,Cantal,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7408,Refuge du Vercors,La Chapelle-En-Vercors,Drome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7469,INSTITUT DE FORMATION EN SOINS INFIRMIERS,Epagny Metz-Tessy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7471,Ecole élémentaire d'Amancy,Amancy,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7486,Résidences lacustres insolites,Chanaz,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7490,Mairie de GONCELIN,Goncelin,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7504,Cantine Ephémère,Saint-Georges-Les-Bains,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7533,L'éclosoir,Bourg-Argental,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7549,In Between,Dommartin,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7571,Aménagement d'un parcours didactique à Fillinges,Fillinges,Haute-Savoie,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7582,Stand Osez les arts,Chambery,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7584,Parc saint martin,Montbonnot-Saint-Martin,Isere,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+7586,"Maison de site et Aménagement Paysager, Forêt de Saoû",Saou,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7591,Lycée Gergovie,Clermont-Ferrand,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7610,Pavillon de l'éternité - Cranves Sales,Cranves-Sales,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7615,Rénovation Grange privée,Bonneville,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7624,Le Kraken,Lyon,Rhone,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7626,Extension de maison à Brindas,Brindas,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7643,Les refuges du plateau d'Ambel sur le Vercors,Ombleze,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7658,MAISON DE LA RIVIERE - MOULINS (03),Moulins,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7661,Rehabilitation des Communs Est du Château de Saint Marcel de Félines (42),Saint-Marcel-De-Felines,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7671,Pôle petite enfance,Apprieu,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7681,"Internat en modulaire bois pour le lycée agricole Etienne Gautier Ressins, à Nandax (42)",Nandax,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7689,VILLA D. SASSENAGE,Sassenage,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7701,Lycée Agricole de Roanne-Chervé,Perreux,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7721,Habitat écologique et participatif LA DRAYE,Nyons,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7780,CENTRE TECHNIQUE INTERCOMMUNAL,Eurre,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7815,Maison du Département de Barraux,Barraux,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7827,sauna Die,Die,Drome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7828,Office de tourisme et gîte en bois brûlé,Orelle,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7870,MAISON DE SANTE PLURIDISIPLINAIRE,L'etrat,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7873,ECOLE PRIMAIRE ET CANTINE,Saint-Clair-De-La-Tour,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7890,Café/Bibliothèque à la Plagne Tarentaise,La Plagne Tarentaise,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7892,EXTENSION CERFRANCE LA TOUR DU PIN,La Tour-Du-Pin,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7898,Maison à la campagne,Proveysieux,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7899,internat-logement collège 6 vallées,Le Bourg-D'oisans,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7908,DESIMPERMEABLISATION DE LA COUR D'ECOLE WALDECK ROUSSEAU - FIRMINY (42),Firminy,Loire,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+7948,"""RD2029"" Aménagement de l'entrée de ville de Riom en Voie verte",NA,Puy de Dome,FALSE,TRUE,Aucun acteur Scierie/Industriel
+7995,Maison ossature bois bioclimatique,Venas,Allier,FALSE,TRUE,Aucun acteur Scierie/Industriel
+80,Romagnat Tocqueville,Romagnat,Puy-de-Dome,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+8028,Création d'une cuverie au Domaine du château de Pougelon,Saint-Etienne-Des-Oullieres,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+8035,Sous le grill,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+8040,CENTRE D'ENTRETIEN ET D'INTERVENTION ROUTIER,Barberaz,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+8045,Ecole élémentaire Marianne Cohn,Grenoble,Isere,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+8049,Rénovation des bâtiments communaux,Saint Antoine L'abbaye,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+8063,EXTENSION DU CENTRE SOCIAL SOLEIL LEVANT,Firminy,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+8068,BRASSERIE DU PILAT : EXTENSION DU BATIMENT DE PRODUCTION ARTISANLE,Saint-Julien-Molin-Molette,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+8072,Une chapelle tressée et la reconversion des lieux de vie étudiants du centre Laennec Lyon,Lyon,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+824,"CHANTIER PARTICIPATIF d'ISOLATION à ND des NEIGES, SUSVILLE",Susville,Isere,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+833,Construction d'un abribus par les jeunes du village,St Etienne De St Geoirs,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+834,Habitation,Oyeu,Isere,TRUE,FALSE,Aucun acteur Charpentier/Constructeur bois/Menuisier
+836,Basilique du Sacré Coeur de Grenoble,Grenoble,Isere,FALSE,TRUE,Aucun acteur Scierie/Industriel
+841,Maison de celliers,La Lechere,Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+88,Pole culturel et sportif d'Alby sur Cheran,Alby-Sur-Cheran,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9017,Antenne Locale d'Insertion et de Probation (ALIP) de Bonneville.,Bonneville,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9021,Belvédère sur les coteaux viticoles de Condrieu,Tupin-Et-Semons,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9155,2201-PERONNAS-MFR,Peronnas,Ain,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+9156,2118-PK41-VILLEFRANCHE-Bureaux du Port Fluvial du Beaujolais,Villefranche-Sur-Saone,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9350,Accueil de la Mairie de Roanne,Roanne,Loire,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9545,Pierres & Châtaigniers,NA,Ardeche,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9665,"Vestiaires de foot et club-house, centrale photovoltaïque",Dingy-Saint-Clair,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+967,Patinoire Samoëns,Samoens,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+97,Extension-Réhabilitation de la Maison des Associations de Thyez,Thyez,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9727,Aménagement du square de la Paix et de la place d'Enroussou - Le Banc Monumental,Pleaux,Cantal,FALSE,FALSE,Aucun acteur Scierie/Industriel ni Charpentier/Constructeur bois/Menuisier
+992,Centre de loisirs,Givors,Rhone,FALSE,TRUE,Aucun acteur Scierie/Industriel
+9935,Tribune de stade & vestiaires - Stade de Vongy,Thonon-Les-Bains,Haute-Savoie,FALSE,TRUE,Aucun acteur Scierie/Industriel

@@ -1,0 +1,729 @@
+id_projet,id_acteur,acteur_id,nom_acteur,role,dept_acteur,identite_source,participation_id
+1014,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,1014::id:1669::Menuisier
+1014,3121,id:3121,LALLIARD (74),Scierie,74,id_acteur,1014::id:3121::Scierie
+1014,3464,id:3464,MANCA CHARPENTE SAS (38),Charpentier,38,id_acteur,1014::id:3464::Charpentier
+1014,4292,id:4292,SAMSE - SAINT MARTIN D'HERES (38),Scierie,38,id_acteur,1014::id:4292::Scierie
+1014,4512,id:4512,WEISROCK VOSGES (88),Scierie,88,id_acteur,1014::id:4512::Scierie
+1025,4422,id:4422,KIT FORET (69),Charpentier,69,id_acteur,1025::id:4422::Charpentier
+1025,4425,id:4425,SCIERIE DULAC (69),Scierie,69,id_acteur,1025::id:4425::Scierie
+1025,4453,id:4453,NATUR'BOIS (69),Menuisier,69,id_acteur,1025::id:4453::Menuisier
+1025,NA,nom:jacquet freres (69),JACQUET FRERES (69),Scierie,69,cle_ou_nom_sans_id,1025::nom:jacquet freres (69)::Scierie
+1137,3504,id:3504,PARET EBENISTERIE (38),Menuisier,38,id_acteur,1137::id:3504::Menuisier
+1137,3715,id:3715,ENTREPRISE MICHELI CHRISTOPHE (38),Charpentier,38,id_acteur,1137::id:3715::Charpentier
+1137,3715,id:3715,ENTREPRISE MICHELI CHRISTOPHE (38),Constructeur bois,38,id_acteur,1137::id:3715::Constructeur bois
+1137,3716,id:3716,SCIERIE BARTHALAY TREMINIS (38),Scierie,38,id_acteur,1137::id:3716::Scierie
+1252,3464,id:3464,MANCA CHARPENTE SAS (38),Charpentier,38,id_acteur,1252::id:3464::Charpentier
+1252,5051,id:5051,D.M.B.P DISPANO CHAMBERY (73),Industriel,73,id_acteur,1252::id:5051::Industriel
+1252,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,1252::id:6601::Scierie
+1252,NA,nom:cristal charpente (38),CRISTAL CHARPENTE (38),Charpentier,38,cle_ou_nom_sans_id,1252::nom:cristal charpente (38)::Charpentier
+1252,NA,nom:sarl atelier a (38),SARL ATELIER A (38),Menuisier,38,cle_ou_nom_sans_id,1252::nom:sarl atelier a (38)::Menuisier
+1252,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,1252::nom:scierie bottarel (38)::Scierie
+1254,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,1254::id:1597::Industriel
+1254,26085,id:26085,SCIERIE NEOFOR BONNEVILLE BETEMPS (74),Scierie,74,id_acteur,1254::id:26085::Scierie
+1254,64670,id:64670,MAURIS BOIS (ARGONAY) (74),Industriel,74,id_acteur,1254::id:64670::Industriel
+1254,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Charpentier,74,cle_ou_nom_sans_id,1254::nom:entreprise andre roux (74)::Charpentier
+1261,2618,id:2618,BOISSIF (69),Scierie,69,id_acteur,1261::id:2618::Scierie
+1261,3394,id:3394,ETABLISSEMENTS BERNARD ET FILS (07),Charpentier,07,id_acteur,1261::id:3394::Charpentier
+1269,1680,id:1680,JOHN SAUVAJON (38),Charpentier,38,id_acteur,1269::id:1680::Charpentier
+1269,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,1269::id:1996::Scierie
+1286,2146,id:2146,MOULIN CHARPENTE (07),Charpentier,07,id_acteur,1286::id:2146::Charpentier
+1286,2146,id:2146,MOULIN CHARPENTE (07),Constructeur bois,07,id_acteur,1286::id:2146::Constructeur bois
+1286,2686,id:2686,SIMONIN SAS (25),Industriel,25,id_acteur,1286::id:2686::Industriel
+1315,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,1315::id:1188::Charpentier
+1315,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,1315::id:1996::Scierie
+1315,4490,id:4490,MENUISERIE LAURENT (38),Menuisier,38,id_acteur,1315::id:4490::Menuisier
+1331,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,1331::id:3112::Menuisier
+1331,457,id:457,ERIC GRENIER (30),Scierie,30,id_acteur,1331::id:457::Scierie
+1376,4342,id:4342,ACDF INDUSTRIE (25),Industriel,25,id_acteur,1376::id:4342::Industriel
+1376,4672,id:4672,BEZACIER SAS (42),Charpentier,42,id_acteur,1376::id:4672::Charpentier
+1376,4674,id:4674,MENUISERIE GENEVRIER (42),Menuisier,42,id_acteur,1376::id:4674::Menuisier
+1376,4854,id:4854,SCIERIE LION (42),Scierie,42,id_acteur,1376::id:4854::Scierie
+1487,2686,id:2686,SIMONIN SAS (25),Industriel,25,id_acteur,1487::id:2686::Industriel
+1487,5020,id:5020,MAISONS BOIS MIRBEY (70),Constructeur bois,70,id_acteur,1487::id:5020::Constructeur bois
+1487,5021,id:5021,FRANCOMTOISE D'OSSATURE BOIS (70),Scierie,70,id_acteur,1487::id:5021::Scierie
+1565,1346,id:1346,GIROD MORETTI (01),Scierie,01,id_acteur,1565::id:1346::Scierie
+1565,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,1565::id:3112::Menuisier
+1565,NA,nom:lifteam (73),LIFTEAM (73),Charpentier,73,cle_ou_nom_sans_id,1565::nom:lifteam (73)::Charpentier
+1565,NA,nom:lifteam (73),LIFTEAM (73),Constructeur bois,73,cle_ou_nom_sans_id,1565::nom:lifteam (73)::Constructeur bois
+1575,11240,id:11240,VOLCABAT (63),Charpentier,63,id_acteur,1575::id:11240::Charpentier
+1575,11252,id:11252,INOVA TERRE (43),Industriel,43,id_acteur,1575::id:11252::Industriel
+1575,2301,id:2301,MENUISERIE MARC DEFIX SARL (43),Menuisier,43,id_acteur,1575::id:2301::Menuisier
+1575,NA,nom:menuiserie interieure franck vacher (63),MENUISERIE INTERIEURE FRANCK VACHER (63),Menuisier,63,cle_ou_nom_sans_id,1575::nom:menuiserie interieure franck vacher (63)::Menuisier
+1586,5028,id:5028,MOBILIER BOIS DESIGN (01),Industriel,01,id_acteur,1586::id:5028::Industriel
+1586,5224,id:5224,GABAYET ENGINEERING (01),Menuisier,01,id_acteur,1586::id:5224::Menuisier
+1598,4422,id:4422,KIT FORET (69),Industriel,69,id_acteur,1598::id:4422::Industriel
+1598,4514,id:4514,E-SUN-START (69),Constructeur bois,69,id_acteur,1598::id:4514::Constructeur bois
+1675,5156,id:5156,VIRARD CHARPENTE (38),Charpentier,38,id_acteur,1675::id:5156::Charpentier
+1675,NA,nom:guillet-revol charpente (38),GUILLET-REVOL CHARPENTE (38),Charpentier,38,cle_ou_nom_sans_id,1675::nom:guillet-revol charpente (38)::Charpentier
+1675,NA,nom:scierie sourd (38),SCIERIE SOURD (38),Scierie,38,cle_ou_nom_sans_id,1675::nom:scierie sourd (38)::Scierie
+1743,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,1743::id:2447::Scierie
+1743,5058,id:5058,ARBOSPHERE (74),Charpentier,74,id_acteur,1743::id:5058::Charpentier
+1743,5060,id:5060,CHANUT ESPACE LIBRE (38),Menuisier,38,id_acteur,1743::id:5060::Menuisier
+1743,5074,id:5074,ARTISANS DU BOIS REUNIS (74),Scierie,74,id_acteur,1743::id:5074::Scierie
+1743,5106,id:5106,Solarlux France (13),Industriel,13,id_acteur,1743::id:5106::Industriel
+1758,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,1758::id:1597::Industriel
+1758,4454,id:4454,SCHNEIDER BEST WOOD (DE),Scierie,DE,id_acteur,1758::id:4454::Scierie
+1758,4966,id:4966,LOFOTEN (69),Menuisier,69,id_acteur,1758::id:4966::Menuisier
+1758,NA,nom:lifteam (73),LIFTEAM (73),Charpentier,73,cle_ou_nom_sans_id,1758::nom:lifteam (73)::Charpentier
+1758,NA,nom:lifteam (73),LIFTEAM (73),Constructeur bois,73,cle_ou_nom_sans_id,1758::nom:lifteam (73)::Constructeur bois
+180,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,180::id:1597::Industriel
+180,1936,id:1936,GUILHOT CONSTRUCTION BOIS (43),Charpentier,43,id_acteur,180::id:1936::Charpentier
+180,1937,id:1937,CHAPUIS MENUISERIE (43),Menuisier,43,id_acteur,180::id:1937::Menuisier
+180,1940,id:1940,SCIERIE BEAL (43),Scierie,43,id_acteur,180::id:1940::Scierie
+1833,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,1833::id:2644::Industriel
+1833,5015,id:5015,SCIERIE VRAY (42),Scierie,42,id_acteur,1833::id:5015::Scierie
+1833,6897,id:6897,GB BOIS 42 (42),Charpentier,42,id_acteur,1833::id:6897::Charpentier
+1835,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,1835::id:2709::Scierie
+1835,5320,id:5320,J.L.C. MENUISERIE (42),Charpentier,42,id_acteur,1835::id:5320::Charpentier
+1835,5320,id:5320,J.L.C. MENUISERIE (42),Menuisier,42,id_acteur,1835::id:5320::Menuisier
+1835,5325,id:5325,BIOFIB Cavac Biomatériaux (85),Industriel,85,id_acteur,1835::id:5325::Industriel
+1872,1352,id:1352,DUMONTET CHARPENTE HABITAT BOIS (69),Charpentier,69,id_acteur,1872::id:1352::Charpentier
+1872,5197,id:5197,SCIERIE PROVVEDI INDUSTRIE (69),Scierie,69,id_acteur,1872::id:5197::Scierie
+1924,11280,id:11280,SUCHEYRE (63),Charpentier,63,id_acteur,1924::id:11280::Charpentier
+1924,11280,id:11280,SUCHEYRE (63),Constructeur bois,63,id_acteur,1924::id:11280::Constructeur bois
+1924,4526,id:4526,SCIERIE DES COMBRAILLES (63),Scierie,63,id_acteur,1924::id:4526::Scierie
+2916,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,2916::id:1188::Charpentier
+2916,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,2916::id:1830::Scierie
+2916,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,2916::id:1996::Scierie
+2916,NA,nom:dauphinoise de menuiserie (38),DAUPHINOISE DE MENUISERIE (38),Charpentier,38,cle_ou_nom_sans_id,2916::nom:dauphinoise de menuiserie (38)::Charpentier
+296,1333,id:1333,COUTURIER ROBERT (73),Charpentier,73,id_acteur,296::id:1333::Charpentier
+296,1333,id:1333,COUTURIER ROBERT (73),Menuisier,73,id_acteur,296::id:1333::Menuisier
+296,1334,id:1334,SCHILLIGER BOIS (68),Industriel,68,id_acteur,296::id:1334::Industriel
+296,1334,id:1334,SCHILLIGER BOIS (68),Scierie,68,id_acteur,296::id:1334::Scierie
+296,1342,id:1342,ELLIPSE BOIS (69),Menuisier,69,id_acteur,296::id:1342::Menuisier
+344,2301,id:2301,MENUISERIE MARC DEFIX SARL (43),Menuisier,43,id_acteur,344::id:2301::Menuisier
+344,NA,nom:batipack (15),BATIPACK (15),Charpentier,15,cle_ou_nom_sans_id,344::nom:batipack (15)::Charpentier
+344,NA,nom:bois et scierie de la chataigneraie (15),BOIS ET SCIERIE DE LA CHATAIGNERAIE (15),Scierie,15,cle_ou_nom_sans_id,344::nom:bois et scierie de la chataigneraie (15)::Scierie
+353,1936,id:1936,GUILHOT CONSTRUCTION BOIS (43),Charpentier,43,id_acteur,353::id:1936::Charpentier
+353,1936,id:1936,GUILHOT CONSTRUCTION BOIS (43),Constructeur bois,43,id_acteur,353::id:1936::Constructeur bois
+353,1940,id:1940,SCIERIE BEAL (43),Scierie,43,id_acteur,353::id:1940::Scierie
+353,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,353::id:2644::Industriel
+355,1563,id:1563,GATIGNOL (19),Charpentier,19,id_acteur,355::id:1563::Charpentier
+355,1563,id:1563,GATIGNOL (19),Menuisier,19,id_acteur,355::id:1563::Menuisier
+355,1564,id:1564,SCIERIE GATIGNOL (19),Scierie,19,id_acteur,355::id:1564::Scierie
+355,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,355::id:1597::Industriel
+355,2106,id:2106,ABATTAGE-DEBARDAGE MECANISE LIMOUSIN (A.D.M.L) (ADML) (19),Scierie,19,id_acteur,355::id:2106::Scierie
+3800,12607,id:12607,SOCQUET HENRI & FILS (74),Menuisier,74,id_acteur,3800::id:12607::Menuisier
+3800,2701,id:2701,LP CHARPENTE (74),Charpentier,74,id_acteur,3800::id:2701::Charpentier
+3800,2701,id:2701,LP CHARPENTE (74),Constructeur bois,74,id_acteur,3800::id:2701::Constructeur bois
+3800,41543,id:41543,IMEX 360 (74),Scierie,74,id_acteur,3800::id:41543::Scierie
+3824,3140,id:3140,ORLHAC SARL (48),Charpentier,48,id_acteur,3824::id:3140::Charpentier
+3824,3140,id:3140,ORLHAC SARL (48),Constructeur bois,48,id_acteur,3824::id:3140::Constructeur bois
+3824,9439,id:9439,SCIERIE FILAIRE (43),Industriel,43,id_acteur,3824::id:9439::Industriel
+3906,1268,id:1268,FAVRAT CONSTRUCTION BOIS (74),Charpentier,74,id_acteur,3906::id:1268::Charpentier
+3906,1665,id:1665,GB BOIS (38),Menuisier,38,id_acteur,3906::id:1665::Menuisier
+3906,32602,id:32602,FARGES BOIS (19),Scierie,19,id_acteur,3906::id:32602::Scierie
+3956,1680,id:1680,JOHN SAUVAJON (38),Charpentier,38,id_acteur,3956::id:1680::Charpentier
+3956,1680,id:1680,JOHN SAUVAJON (38),Menuisier,38,id_acteur,3956::id:1680::Menuisier
+3956,9241,id:9241,SAUVAJON GERARD (38),Scierie,38,id_acteur,3956::id:9241::Scierie
+3992,1995,id:1995,EURO LAMELLE BOIS (74),Industriel,74,id_acteur,3992::id:1995::Industriel
+3992,2146,id:2146,MOULIN CHARPENTE (07),Charpentier,07,id_acteur,3992::id:2146::Charpentier
+3992,2146,id:2146,MOULIN CHARPENTE (07),Constructeur bois,07,id_acteur,3992::id:2146::Constructeur bois
+3992,2686,id:2686,SIMONIN SAS (25),Charpentier,25,id_acteur,3992::id:2686::Charpentier
+4071,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,4071::id:1188::Charpentier
+4071,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,4071::id:1597::Industriel
+4071,1827,id:1827,SUSCILLON (38),Menuisier,38,id_acteur,4071::id:1827::Menuisier
+4071,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,4071::id:1830::Scierie
+4071,1966,id:1966,Piveteau Bois (85),Industriel,85,id_acteur,4071::id:1966::Industriel
+4071,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,4071::id:1996::Scierie
+4072,12584,id:12584,REVERDY CHARPENTE (38),Charpentier,38,id_acteur,4072::id:12584::Charpentier
+4072,1665,id:1665,GB BOIS (38),Menuisier,38,id_acteur,4072::id:1665::Menuisier
+4072,6635,id:6635,SCIERIES REUNIES DE SAVOIE (73),Scierie,73,id_acteur,4072::id:6635::Scierie
+410,1169,id:1169,KLH Massivholtz GmbH (DE),Industriel,DE,id_acteur,410::id:1169::Industriel
+410,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,410::id:1700::Menuisier
+410,1943,id:1943,ALTI BOIS (74),Charpentier,74,id_acteur,410::id:1943::Charpentier
+410,1945,id:1945,L'ART DU BOIS (38),Menuisier,38,id_acteur,410::id:1945::Menuisier
+410,1995,id:1995,EURO LAMELLE BOIS (74),Industriel,74,id_acteur,410::id:1995::Industriel
+410,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,410::id:1996::Scierie
+410,2059,id:2059,METSA WOOD FRANCE (14),Industriel,14,id_acteur,410::id:2059::Industriel
+410,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,410::nom:scierie bottarel (38)::Scierie
+4124,31470,id:31470,SAS La Maison Qui Chemine (24),Charpentier,24,id_acteur,4124::id:31470::Charpentier
+4124,31470,id:31470,SAS La Maison Qui Chemine (24),Constructeur bois,24,id_acteur,4124::id:31470::Constructeur bois
+4124,31470,id:31470,SAS La Maison Qui Chemine (24),Menuisier,24,id_acteur,4124::id:31470::Menuisier
+4124,31473,id:31473,Art Bois - UMB (33),Industriel,33,id_acteur,4124::id:31473::Industriel
+413,2430,id:2430,CHARROIN TOITURES (69),Charpentier,69,id_acteur,413::id:2430::Charpentier
+413,2431,id:2431,MENUISERIE DU FOREZ (42),Menuisier,42,id_acteur,413::id:2431::Menuisier
+413,2432,id:2432,PMDP (69),Menuisier,69,id_acteur,413::id:2432::Menuisier
+413,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,413::id:2433::Scierie
+415,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,415::id:1188::Charpentier
+415,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,415::id:1830::Scierie
+415,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,415::id:1996::Scierie
+415,2547,id:2547,SCIERIE EYMARD (38),Scierie,38,id_acteur,415::id:2547::Scierie
+415,2550,id:2550,MENUISERIE P-GIRAUD (69),Menuisier,69,id_acteur,415::id:2550::Menuisier
+415,NA,nom:zancanaro (07),ZANCANARO (07),Menuisier,07,cle_ou_nom_sans_id,415::nom:zancanaro (07)::Menuisier
+4188,1894,id:1894,"NICOLLET, CHARPENTE & MENUISERIE (38)",Charpentier,38,id_acteur,4188::id:1894::Charpentier
+4188,1894,id:1894,"NICOLLET, CHARPENTE & MENUISERIE (38)",Scierie,38,id_acteur,4188::id:1894::Scierie
+4200,11280,id:11280,SUCHEYRE (63),Charpentier,63,id_acteur,4200::id:11280::Charpentier
+4200,1597,id:1597,COSYLVA (23),Scierie,23,id_acteur,4200::id:1597::Scierie
+4200,41762,id:41762,LIGNALPES (74),Industriel,74,id_acteur,4200::id:41762::Industriel
+4200,4526,id:4526,SCIERIE DES COMBRAILLES (63),Scierie,63,id_acteur,4200::id:4526::Scierie
+4200,4581,id:4581,MENUISERIES FERREYROLLES (63),Menuisier,63,id_acteur,4200::id:4581::Menuisier
+4217,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,4217::id:1188::Charpentier
+4217,1437,id:1437,SWISS KRONO SAS (45),Scierie,45,id_acteur,4217::id:1437::Scierie
+4217,1699,id:1699,CBMA CONCEPT BOIS MENUISERIE ASSO (38),Menuisier,38,id_acteur,4217::id:1699::Menuisier
+4217,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,4217::id:1830::Scierie
+4217,1966,id:1966,Piveteau Bois (85),Scierie,85,id_acteur,4217::id:1966::Scierie
+4217,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,4217::id:1996::Scierie
+4217,6547,id:6547,GIROD BOIS (38),Scierie,38,id_acteur,4217::id:6547::Scierie
+4313,32572,id:32572,DELTA BOIS (38),Scierie,38,id_acteur,4313::id:32572::Scierie
+4313,32573,id:32573,ECO DESIGN MENUISERIE (73),Menuisier,73,id_acteur,4313::id:32573::Menuisier
+4313,3441,id:3441,VISION BOIS CONSTRUCTION (73),Charpentier,73,id_acteur,4313::id:3441::Charpentier
+4313,3441,id:3441,VISION BOIS CONSTRUCTION (73),Constructeur bois,73,id_acteur,4313::id:3441::Constructeur bois
+4313,4588,id:4588,CHARPENTE ET OUVRAGE BOIS DE SAVOIE (COBS) (73),Industriel,73,id_acteur,4313::id:4588::Industriel
+4385,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,4385::id:2708::Charpentier
+4385,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,4385::id:2709::Scierie
+4385,32742,id:32742,DIDIER VILLANCHER (01),Menuisier,01,id_acteur,4385::id:32742::Menuisier
+4386,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,4386::id:1597::Industriel
+4386,26085,id:26085,SCIERIE NEOFOR BONNEVILLE BETEMPS (74),Scierie,74,id_acteur,4386::id:26085::Scierie
+4386,3121,id:3121,LALLIARD (74),Industriel,74,id_acteur,4386::id:3121::Industriel
+4386,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Charpentier,74,cle_ou_nom_sans_id,4386::nom:entreprise andre roux (74)::Charpentier
+4386,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Constructeur bois,74,cle_ou_nom_sans_id,4386::nom:entreprise andre roux (74)::Constructeur bois
+4386,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Menuisier,74,cle_ou_nom_sans_id,4386::nom:entreprise andre roux (74)::Menuisier
+4389,5051,id:5051,D.M.B.P DISPANO CHAMBERY (73),Industriel,73,id_acteur,4389::id:5051::Industriel
+4389,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,4389::id:6601::Scierie
+4389,NA,nom:cristal charpente (38),CRISTAL CHARPENTE (38),Charpentier,38,cle_ou_nom_sans_id,4389::nom:cristal charpente (38)::Charpentier
+4389,NA,nom:sarl atelier a (38),SARL ATELIER A (38),Menuisier,38,cle_ou_nom_sans_id,4389::nom:sarl atelier a (38)::Menuisier
+4389,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,4389::nom:scierie bottarel (38)::Scierie
+4428,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,4428::id:1669::Menuisier
+4428,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,4428::id:2447::Scierie
+4428,5197,id:5197,SCIERIE PROVVEDI INDUSTRIE (69),Scierie,69,id_acteur,4428::id:5197::Scierie
+4428,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,4428::id:6601::Scierie
+4428,NA,nom:bois en 3 dimensions (73),BOIS EN 3 DIMENSIONS (73),Charpentier,73,cle_ou_nom_sans_id,4428::nom:bois en 3 dimensions (73)::Charpentier
+4446,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,4446::id:2708::Charpentier
+4446,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,4446::id:2709::Scierie
+4446,27163,id:27163,LES MENUISIERS DU RHONE (69),Menuisier,69,id_acteur,4446::id:27163::Menuisier
+4464,27141,id:27141,MENUISERIE BEAL (01),Menuisier,01,id_acteur,4464::id:27141::Menuisier
+4464,8655,id:8655,LES MENUISERIES PHILIBERT (01),Menuisier,01,id_acteur,4464::id:8655::Menuisier
+4464,9364,id:9364,SCIERIE PONCIN (01),Scierie,01,id_acteur,4464::id:9364::Scierie
+4464,NA,nom:apex charpente (01),APEX CHARPENTE (01),Charpentier,01,cle_ou_nom_sans_id,4464::nom:apex charpente (01)::Charpentier
+448,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,448::id:1188::Charpentier
+448,1699,id:1699,CBMA CONCEPT BOIS MENUISERIE ASSO (38),Charpentier,38,id_acteur,448::id:1699::Charpentier
+448,1700,id:1700,DAUPHINE MENUISERIE (38),Charpentier,38,id_acteur,448::id:1700::Charpentier
+448,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,448::id:1830::Scierie
+448,2547,id:2547,SCIERIE EYMARD (38),Scierie,38,id_acteur,448::id:2547::Scierie
+448,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,448::nom:scierie bottarel (38)::Scierie
+4493,27155,id:27155,CBA MONTAGNE (38),Menuisier,38,id_acteur,4493::id:27155::Menuisier
+4493,41573,id:41573,SRC Parquet (71),Scierie,71,id_acteur,4493::id:41573::Scierie
+4515,12436,id:12436,CHARPENTE CHALETS CARME (74),Charpentier,74,id_acteur,4515::id:12436::Charpentier
+4515,12436,id:12436,CHARPENTE CHALETS CARME (74),Menuisier,74,id_acteur,4515::id:12436::Menuisier
+4515,12436,id:12436,CHARPENTE CHALETS CARME (74),Scierie,74,id_acteur,4515::id:12436::Scierie
+4538,31886,id:31886,ATTICORA (38),Constructeur bois,38,id_acteur,4538::id:31886::Constructeur bois
+4538,31886,id:31886,ATTICORA (38),Menuisier,38,id_acteur,4538::id:31886::Menuisier
+4538,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,4538::nom:scierie bottarel (38)::Scierie
+4554,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,4554::id:1188::Charpentier
+4554,12545,id:12545,M.C.D (MENUISERIE CHARPENTE DU DAUPHINE) (38),Menuisier,38,id_acteur,4554::id:12545::Menuisier
+4554,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,4554::id:1597::Industriel
+4554,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,4554::id:1830::Scierie
+4554,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,4554::id:1996::Scierie
+4554,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,4554::id:3112::Menuisier
+4554,6547,id:6547,GIROD BOIS (38),Scierie,38,id_acteur,4554::id:6547::Scierie
+4559,32504,id:32504,MALVAUX ORIGIN (17),Industriel,17,id_acteur,4559::id:32504::Industriel
+4559,41717,id:41717,ATB ARCHITECTURE CONSTRUCTION (69),Charpentier,69,id_acteur,4559::id:41717::Charpentier
+4559,41717,id:41717,ATB ARCHITECTURE CONSTRUCTION (69),Menuisier,69,id_acteur,4559::id:41717::Menuisier
+4559,9223,id:9223,SAINBIOSE (69),Scierie,69,id_acteur,4559::id:9223::Scierie
+4559,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,4559::nom:scierie bottarel (38)::Scierie
+4561,1437,id:1437,SWISS KRONO SAS (45),Industriel,45,id_acteur,4561::id:1437::Industriel
+4561,41846,id:41846,HANOTTE BOIS (38),Scierie,38,id_acteur,4561::id:41846::Scierie
+4561,47625,id:47625,Les Compagnons du Devoir (54),Charpentier,54,id_acteur,4561::id:47625::Charpentier
+4589,1680,id:1680,JOHN SAUVAJON (38),Charpentier,38,id_acteur,4589::id:1680::Charpentier
+4589,1680,id:1680,JOHN SAUVAJON (38),Constructeur bois,38,id_acteur,4589::id:1680::Constructeur bois
+4589,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,4589::id:1700::Menuisier
+4589,2496,id:2496,SIVALBP (74),Scierie,74,id_acteur,4589::id:2496::Scierie
+552,2099,id:2099,BERNARD GAUTHIER MERRANDERIE (18),Scierie,18,id_acteur,552::id:2099::Scierie
+552,2104,id:2104,SCIERIE FOREST (38),Scierie,38,id_acteur,552::id:2104::Scierie
+552,NA,nom:le bois dormant (38),LE BOIS DORMANT (38),Menuisier,38,cle_ou_nom_sans_id,552::nom:le bois dormant (38)::Menuisier
+5681,4976,id:4976,SCIERIE MOUGIN DES MAJORS (25),Scierie,25,id_acteur,5681::id:4976::Scierie
+5681,7395,id:7395,CERTA CHARPENTE (69),Constructeur bois,69,id_acteur,5681::id:7395::Constructeur bois
+5710,1225,id:1225,LE TAVAILLON DE L'ALLIER (03),Industriel,03,id_acteur,5710::id:1225::Industriel
+5710,4561,id:4561,ENTREPRISE MEGEMONT PERE ET FILS (63),Menuisier,63,id_acteur,5710::id:4561::Menuisier
+5710,NA,nom:cirdain charpentes (63),CIRDAIN CHARPENTES (63),Charpentier,63,cle_ou_nom_sans_id,5710::nom:cirdain charpentes (63)::Charpentier
+5745,1966,id:1966,Piveteau Bois (85),Scierie,85,id_acteur,5745::id:1966::Scierie
+5745,2023,id:2023,MARGUERON (01),Charpentier,01,id_acteur,5745::id:2023::Charpentier
+5745,2681,id:2681,CHARPENTE COUVERTURE VAGANAY (69),Charpentier,69,id_acteur,5745::id:2681::Charpentier
+5745,28027,id:28027,Etablissement Gastebois (27),Scierie,27,id_acteur,5745::id:28027::Scierie
+5745,65479,id:65479,L.M.P. (38),Menuisier,38,id_acteur,5745::id:65479::Menuisier
+5746,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,5746::id:1188::Charpentier
+5746,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,5746::id:1597::Industriel
+5746,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,5746::id:1669::Menuisier
+5746,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,5746::id:1830::Scierie
+5746,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,5746::id:1996::Scierie
+5746,2496,id:2496,SIVALBP (74),Industriel,74,id_acteur,5746::id:2496::Industriel
+5746,65025,id:65025,PORALU BOIS (74),Menuisier,74,id_acteur,5746::id:65025::Menuisier
+5746,6547,id:6547,GIROD BOIS (38),Scierie,38,id_acteur,5746::id:6547::Scierie
+5763,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,5763::id:1700::Menuisier
+5763,1940,id:1940,SCIERIE BEAL (43),Scierie,43,id_acteur,5763::id:1940::Scierie
+5763,3325,id:3325,ELAN GIPEN (45),Constructeur bois,45,id_acteur,5763::id:3325::Constructeur bois
+5763,NA,nom:ar construction (38),AR CONSTRUCTION (38),Charpentier,38,cle_ou_nom_sans_id,5763::nom:ar construction (38)::Charpentier
+5793,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,5793::id:1996::Scierie
+5793,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,5793::id:2644::Industriel
+5793,4399,id:4399,TRAVERSIER (07),Charpentier,07,id_acteur,5793::id:4399::Charpentier
+5793,4399,id:4399,TRAVERSIER (07),Constructeur bois,07,id_acteur,5793::id:4399::Constructeur bois
+58,111,id:111,CMI JANNON (38),Charpentier,38,id_acteur,58::id:111::Charpentier
+58,2644,id:2644,COLLADELLO (26),Scierie,26,id_acteur,58::id:2644::Scierie
+58,3118,id:3118,SCIERIE MOCELLIN ET FILS (38),Scierie,38,id_acteur,58::id:3118::Scierie
+5816,1748,id:1748,STRUCTURE BOIS (38),Charpentier,38,id_acteur,5816::id:1748::Charpentier
+5816,20142,id:20142,MAURIS BOIS (SEYSSINS) (38),Scierie,38,id_acteur,5816::id:20142::Scierie
+5816,58130,id:58130,BOIVIN INDUSTRIE (74),Scierie,74,id_acteur,5816::id:58130::Scierie
+5816,65790,id:65790,OUVERTURE S. BIZEC ET FILS (38),Menuisier,38,id_acteur,5816::id:65790::Menuisier
+5816,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,5816::id:6601::Scierie
+5850,11370,id:11370,MENUISERIE BEAL (42),Menuisier,42,id_acteur,5850::id:11370::Menuisier
+5850,11408,id:11408,CECOIA (42),Charpentier,42,id_acteur,5850::id:11408::Charpentier
+5850,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,5850::id:2433::Scierie
+5888,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,5888::id:2708::Charpentier
+5888,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,5888::id:2709::Scierie
+5888,65477,id:65477,LABORATOIRE GUEULE DE BOIS (69),Menuisier,69,id_acteur,5888::id:65477::Menuisier
+5891,1995,id:1995,EURO LAMELLE BOIS (74),Scierie,74,id_acteur,5891::id:1995::Scierie
+5891,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Charpentier,74,cle_ou_nom_sans_id,5891::nom:entreprise andre roux (74)::Charpentier
+5891,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Constructeur bois,74,cle_ou_nom_sans_id,5891::nom:entreprise andre roux (74)::Constructeur bois
+5891,NA,nom:entreprise andre roux (74),ENTREPRISE ANDRE ROUX (74),Menuisier,74,cle_ou_nom_sans_id,5891::nom:entreprise andre roux (74)::Menuisier
+5942,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,5942::id:2708::Charpentier
+5942,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,5942::id:2709::Scierie
+5942,3397,id:3397,MENUISERIE CHARPENTE MEUNIER-MARNAT (42),Menuisier,42,id_acteur,5942::id:3397::Menuisier
+5942,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,5942::id:9439::Scierie
+5949,11263,id:11263,GIRARD FRERES (63),Charpentier,63,id_acteur,5949::id:11263::Charpentier
+5949,11263,id:11263,GIRARD FRERES (63),Menuisier,63,id_acteur,5949::id:11263::Menuisier
+5949,2981,id:2981,SCIERIE MONDIERE FRERES (03),Scierie,03,id_acteur,5949::id:2981::Scierie
+5949,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,5949::id:9439::Scierie
+5959,1268,id:1268,FAVRAT CONSTRUCTION BOIS (74),Charpentier,74,id_acteur,5959::id:1268::Charpentier
+5959,27124,id:27124,MENUISERIE PELLET- JAMBAZ (74),Menuisier,74,id_acteur,5959::id:27124::Menuisier
+5959,27166,id:27166,MENUISERIE FROSSARD (74),Menuisier,74,id_acteur,5959::id:27166::Menuisier
+5959,28363,id:28363,SCIERIE DETRAZ (74),Scierie,74,id_acteur,5959::id:28363::Scierie
+5959,3121,id:3121,LALLIARD (74),Industriel,74,id_acteur,5959::id:3121::Industriel
+5959,64984,id:64984,NOVAMAT (74),Industriel,74,id_acteur,5959::id:64984::Industriel
+5959,8923,id:8923,SCIERIE MONNET (74),Scierie,74,id_acteur,5959::id:8923::Scierie
+5959,NA,nom:scierie tournier vincent et fils (74),SCIERIE TOURNIER VINCENT ET FILS (74),Scierie,74,cle_ou_nom_sans_id,5959::nom:scierie tournier vincent et fils (74)::Scierie
+5975,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,5975::id:1700::Menuisier
+5975,20142,id:20142,MAURIS BOIS (SEYSSINS) (38),Scierie,38,id_acteur,5975::id:20142::Scierie
+5975,2547,id:2547,SCIERIE EYMARD (38),Scierie,38,id_acteur,5975::id:2547::Scierie
+5975,3464,id:3464,MANCA CHARPENTE SAS (38),Charpentier,38,id_acteur,5975::id:3464::Charpentier
+6008,2023,id:2023,MARGUERON (01),Charpentier,01,id_acteur,6008::id:2023::Charpentier
+6008,28027,id:28027,Etablissement Gastebois (27),Scierie,27,id_acteur,6008::id:28027::Scierie
+6008,32602,id:32602,FARGES BOIS (19),Scierie,19,id_acteur,6008::id:32602::Scierie
+6015,2701,id:2701,LP CHARPENTE (74),Charpentier,74,id_acteur,6015::id:2701::Charpentier
+6015,8953,id:8953,SCIERIE NEYRON PERE ET FILS (01),Scierie,01,id_acteur,6015::id:8953::Scierie
+6015,9242,id:9242,SCIERIE FRANCOIS ET FILS (01),Industriel,01,id_acteur,6015::id:9242::Industriel
+6016,65688,id:65688,MENUISERIE CHARPENTE TOURNIER (01),Charpentier,01,id_acteur,6016::id:65688::Charpentier
+6016,8080,id:8080,ECOLE TECHNIQUE DU BOIS (01),Scierie,01,id_acteur,6016::id:8080::Scierie
+6016,8640,id:8640,SCIERIE LES FILS DE CYRILLE DUCRET (01),Scierie,01,id_acteur,6016::id:8640::Scierie
+6029,1437,id:1437,SWISS KRONO SAS (45),Industriel,45,id_acteur,6029::id:1437::Industriel
+6029,20400,id:20400,STEICO FRANCE (67),Industriel,67,id_acteur,6029::id:20400::Industriel
+6029,21182,id:21182,VIVRE EN BOIS TOULOUSE (31),Industriel,31,id_acteur,6029::id:21182::Industriel
+6029,28318,id:28318,MENUISERIE ANDRE (26),Menuisier,26,id_acteur,6029::id:28318::Menuisier
+6029,46778,id:46778,ISONAT (42),Industriel,42,id_acteur,6029::id:46778::Industriel
+6029,64990,id:64990,AVANCEE BOIS (26),Constructeur bois,26,id_acteur,6029::id:64990::Constructeur bois
+6029,NA,nom:menuiserie confort (26),MENUISERIE CONFORT (26),Menuisier,26,cle_ou_nom_sans_id,6029::nom:menuiserie confort (26)::Menuisier
+6050,2496,id:2496,SIVALBP (74),Industriel,74,id_acteur,6050::id:2496::Industriel
+6050,582,id:582,OSSABOIS (42),Constructeur bois,42,id_acteur,6050::id:582::Constructeur bois
+6069,1141,id:1141,BOUYSSE MENUISERIE (15),Menuisier,15,id_acteur,6069::id:1141::Menuisier
+6069,2397,id:2397,DUBOT BOIS ET SCIERIES (63),Scierie,63,id_acteur,6069::id:2397::Scierie
+6069,2980,id:2980,BOIS COLLES D'AUVERGNE (BCA) (63),Industriel,63,id_acteur,6069::id:2980::Industriel
+6069,65755,id:65755,ATELIERS CHAUDRONNERIE CANTAL (15),Charpentier,15,id_acteur,6069::id:65755::Charpentier
+6069,66336,id:66336,DUCROS - GEDIBOIS (63),Industriel,63,id_acteur,6069::id:66336::Industriel
+6069,8070,id:8070,SCIERIE ELP BOIS (63),Scierie,63,id_acteur,6069::id:8070::Scierie
+6069,8139,id:8139,SCIERIE BONHOMME (15),Scierie,15,id_acteur,6069::id:8139::Scierie
+6069,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,6069::id:9439::Scierie
+609,NA,nom:smjm (01),SMJM (01),Charpentier,01,cle_ou_nom_sans_id,609::nom:smjm (01)::Charpentier
+609,NA,nom:smjm (01),SMJM (01),Constructeur bois,01,cle_ou_nom_sans_id,609::nom:smjm (01)::Constructeur bois
+609,NA,nom:smjm (01),SMJM (01),Scierie,01,cle_ou_nom_sans_id,609::nom:smjm (01)::Scierie
+6101,1748,id:1748,STRUCTURE BOIS (38),Charpentier,38,id_acteur,6101::id:1748::Charpentier
+6101,4342,id:4342,ACDF INDUSTRIE (25),Scierie,25,id_acteur,6101::id:4342::Scierie
+6101,65199,id:65199,MARMONIER MENUISIER MODELEUR (38),Menuisier,38,id_acteur,6101::id:65199::Menuisier
+6101,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,6101::id:6601::Scierie
+6102,1748,id:1748,STRUCTURE BOIS (38),Charpentier,38,id_acteur,6102::id:1748::Charpentier
+6102,20142,id:20142,MAURIS BOIS (SEYSSINS) (38),Scierie,38,id_acteur,6102::id:20142::Scierie
+6102,65199,id:65199,MARMONIER MENUISIER MODELEUR (38),Menuisier,38,id_acteur,6102::id:65199::Menuisier
+6102,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,6102::id:6601::Scierie
+6137,1437,id:1437,SWISS KRONO SAS (45),Scierie,45,id_acteur,6137::id:1437::Scierie
+6137,20400,id:20400,STEICO FRANCE (67),Scierie,67,id_acteur,6137::id:20400::Scierie
+6137,42017,id:42017,Terminal Bois Nord 19 (19),Scierie,19,id_acteur,6137::id:42017::Scierie
+6137,5060,id:5060,CHANUT ESPACE LIBRE (38),Menuisier,38,id_acteur,6137::id:5060::Menuisier
+6137,64599,id:64599,AMENAGEMENTS BOIS RHONE-ALPES (38),Scierie,38,id_acteur,6137::id:64599::Scierie
+6137,65949,id:65949,CIMOB (38),Scierie,38,id_acteur,6137::id:65949::Scierie
+6137,NA,nom:franco denis (38),FRANCO DENIS (38),Charpentier,38,cle_ou_nom_sans_id,6137::nom:franco denis (38)::Charpentier
+6154,1936,id:1936,GUILHOT CONSTRUCTION BOIS (43),Charpentier,43,id_acteur,6154::id:1936::Charpentier
+6154,1940,id:1940,SCIERIE BEAL (43),Scierie,43,id_acteur,6154::id:1940::Scierie
+6154,3397,id:3397,MENUISERIE CHARPENTE MEUNIER-MARNAT (42),Menuisier,42,id_acteur,6154::id:3397::Menuisier
+617,1945,id:1945,L'ART DU BOIS (38),Menuisier,38,id_acteur,617::id:1945::Menuisier
+617,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,617::id:1996::Scierie
+617,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,617::nom:scierie bottarel (38)::Scierie
+6177,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,6177::id:1996::Scierie
+6177,20892,id:20892,GIRAUDIER BOIS CREATION (42),Menuisier,42,id_acteur,6177::id:20892::Menuisier
+6177,2681,id:2681,CHARPENTE COUVERTURE VAGANAY (69),Charpentier,69,id_acteur,6177::id:2681::Charpentier
+6177,8631,id:8631,LES ATELIERS PONCHON FILS (69),Menuisier,69,id_acteur,6177::id:8631::Menuisier
+6195,11406,id:11406,LA CHARPENTERIE DES BOIS NOIRS (42),Charpentier,42,id_acteur,6195::id:11406::Charpentier
+6195,20745,id:20745,ETS LARDON (42),Menuisier,42,id_acteur,6195::id:20745::Menuisier
+6195,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,6195::id:2433::Scierie
+6195,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,6195::id:2644::Industriel
+6195,5015,id:5015,SCIERIE VRAY (42),Scierie,42,id_acteur,6195::id:5015::Scierie
+6195,9312,id:9312,SCIERIE CHORAIN (42),Scierie,42,id_acteur,6195::id:9312::Scierie
+6196,13673,id:13673,LA FABRIQUE (26),Charpentier,26,id_acteur,6196::id:13673::Charpentier
+6196,13673,id:13673,LA FABRIQUE (26),Menuisier,26,id_acteur,6196::id:13673::Menuisier
+6196,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,6196::id:1996::Scierie
+6196,8643,id:8643,LES FORESTIERS RICHARD FILS (38),Scierie,38,id_acteur,6196::id:8643::Scierie
+6204,5060,id:5060,CHANUT ESPACE LIBRE (38),Menuisier,38,id_acteur,6204::id:5060::Menuisier
+6204,64599,id:64599,AMENAGEMENTS BOIS RHONE-ALPES (38),Scierie,38,id_acteur,6204::id:64599::Scierie
+6204,65949,id:65949,CIMOB (38),Scierie,38,id_acteur,6204::id:65949::Scierie
+6204,NA,nom:franco denis (38),FRANCO DENIS (38),Charpentier,38,cle_ou_nom_sans_id,6204::nom:franco denis (38)::Charpentier
+6217,12552,id:12552,LES TOITS DU TRIEVES (38),Charpentier,38,id_acteur,6217::id:12552::Charpentier
+6217,12552,id:12552,LES TOITS DU TRIEVES (38),Menuisier,38,id_acteur,6217::id:12552::Menuisier
+6217,1966,id:1966,Piveteau Bois (85),Scierie,85,id_acteur,6217::id:1966::Scierie
+6220,11406,id:11406,LA CHARPENTERIE DES BOIS NOIRS (42),Charpentier,42,id_acteur,6220::id:11406::Charpentier
+6220,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,6220::id:2433::Scierie
+6245,2157,id:2157,PELTIER BOIS (35),Scierie,35,id_acteur,6245::id:2157::Scierie
+6245,NA,nom:genevrier menuiserie 01 (01),GENEVRIER MENUISERIE 01 (01),Menuisier,01,cle_ou_nom_sans_id,6245::nom:genevrier menuiserie 01 (01)::Menuisier
+6254,14084,id:14084,ECOTIM (73),Industriel,73,id_acteur,6254::id:14084::Industriel
+6254,20526,id:20526,CBS CBT (94),Charpentier,94,id_acteur,6254::id:20526::Charpentier
+6254,NA,nom:lifteam (73),LIFTEAM (73),Charpentier,73,cle_ou_nom_sans_id,6254::nom:lifteam (73)::Charpentier
+6254,NA,nom:lifteam (73),LIFTEAM (73),Constructeur bois,73,cle_ou_nom_sans_id,6254::nom:lifteam (73)::Constructeur bois
+6254,NA,nom:lifteam (73),LIFTEAM (73),Menuisier,73,cle_ou_nom_sans_id,6254::nom:lifteam (73)::Menuisier
+6258,12456,id:12456,DARVEY (73),Charpentier,73,id_acteur,6258::id:12456::Charpentier
+6258,27125,id:27125,SA BRUNO VERGORI ET FILS (74),Menuisier,74,id_acteur,6258::id:27125::Menuisier
+6258,41922,id:41922,Pro Lignum (25),Industriel,25,id_acteur,6258::id:41922::Industriel
+6258,9304,id:9304,SCIERIE DU LEMAN (74),Scierie,74,id_acteur,6258::id:9304::Scierie
+6284,1268,id:1268,FAVRAT CONSTRUCTION BOIS (74),Charpentier,74,id_acteur,6284::id:1268::Charpentier
+6284,27125,id:27125,SA BRUNO VERGORI ET FILS (74),Menuisier,74,id_acteur,6284::id:27125::Menuisier
+6284,8923,id:8923,SCIERIE MONNET (74),Scierie,74,id_acteur,6284::id:8923::Scierie
+6284,NA,nom:euro lamelle (74),EURO LAMELLE (74),Industriel,74,cle_ou_nom_sans_id,6284::nom:euro lamelle (74)::Industriel
+6284,NA,nom:scierie tournier vincent et fils (74),SCIERIE TOURNIER VINCENT ET FILS (74),Scierie,74,cle_ou_nom_sans_id,6284::nom:scierie tournier vincent et fils (74)::Scierie
+6367,66330,id:66330,GA2D CHARPENTE (38),Charpentier,38,id_acteur,6367::id:66330::Charpentier
+6367,NA,nom:charpentes françaises (38),CHARPENTES FRANÇAISES (38),Industriel,38,cle_ou_nom_sans_id,6367::nom:charpentes françaises (38)::Industriel
+6377,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,6377::id:1996::Scierie
+6377,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,6377::id:2644::Industriel
+6377,4399,id:4399,TRAVERSIER (07),Charpentier,07,id_acteur,6377::id:4399::Charpentier
+6378,11265,id:11265,VEYRIERE CHARPENTES (63),Charpentier,63,id_acteur,6378::id:11265::Charpentier
+6378,11265,id:11265,VEYRIERE CHARPENTES (63),Constructeur bois,63,id_acteur,6378::id:11265::Constructeur bois
+6378,4567,id:4567,SCIERIE VEYRIERE (63),Scierie,63,id_acteur,6378::id:4567::Scierie
+6378,4674,id:4674,MENUISERIE GENEVRIER (42),Menuisier,42,id_acteur,6378::id:4674::Menuisier
+638,203,id:203,CABESTAN (38),Charpentier,38,id_acteur,638::id:203::Charpentier
+638,203,id:203,CABESTAN (38),Menuisier,38,id_acteur,638::id:203::Menuisier
+638,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,638::id:2447::Scierie
+6391,11408,id:11408,CECOIA (42),Charpentier,42,id_acteur,6391::id:11408::Charpentier
+6391,11408,id:11408,CECOIA (42),Menuisier,42,id_acteur,6391::id:11408::Menuisier
+6391,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,6391::id:2433::Scierie
+6391,9312,id:9312,SCIERIE CHORAIN (42),Scierie,42,id_acteur,6391::id:9312::Scierie
+6392,11408,id:11408,CECOIA (42),Charpentier,42,id_acteur,6392::id:11408::Charpentier
+6392,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,6392::id:2433::Scierie
+6392,8077,id:8077,DUPLANY PERE ET FILS (42),Scierie,42,id_acteur,6392::id:8077::Scierie
+6392,9312,id:9312,SCIERIE CHORAIN (42),Scierie,42,id_acteur,6392::id:9312::Scierie
+6400,4168,id:4168,GOUNY TMB CONSTRUCTIONS (19),Charpentier,19,id_acteur,6400::id:4168::Charpentier
+6400,4168,id:4168,GOUNY TMB CONSTRUCTIONS (19),Menuisier,19,id_acteur,6400::id:4168::Menuisier
+6400,4168,id:4168,GOUNY TMB CONSTRUCTIONS (19),Scierie,19,id_acteur,6400::id:4168::Scierie
+648,2427,id:2427,ENTREPRISE BARBIER (38),Charpentier,38,id_acteur,648::id:2427::Charpentier
+648,3120,id:3120,ETS PIERRE HENRY ET FILS (38),Scierie,38,id_acteur,648::id:3120::Scierie
+648,3121,id:3121,LALLIARD (74),Industriel,74,id_acteur,648::id:3121::Industriel
+6532,1945,id:1945,L'ART DU BOIS (38),Menuisier,38,id_acteur,6532::id:1945::Menuisier
+6532,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,6532::id:2447::Scierie
+6532,3101,id:3101,CHARPENTE CONTEMPORAINE (38),Charpentier,38,id_acteur,6532::id:3101::Charpentier
+6540,12446,id:12446,CJ BOIS (38),Charpentier,38,id_acteur,6540::id:12446::Charpentier
+6540,1699,id:1699,CBMA CONCEPT BOIS MENUISERIE ASSO (38),Menuisier,38,id_acteur,6540::id:1699::Menuisier
+6540,1827,id:1827,SUSCILLON (38),Menuisier,38,id_acteur,6540::id:1827::Menuisier
+6540,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,6540::id:6601::Scierie
+6540,6635,id:6635,SCIERIES REUNIES DE SAVOIE (73),Scierie,73,id_acteur,6540::id:6635::Scierie
+6540,NA,nom:bois en 3 dimensions (73),BOIS EN 3 DIMENSIONS (73),Charpentier,73,cle_ou_nom_sans_id,6540::nom:bois en 3 dimensions (73)::Charpentier
+6542,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,6542::id:1188::Charpentier
+6542,1437,id:1437,SWISS KRONO SAS (45),Industriel,45,id_acteur,6542::id:1437::Industriel
+6542,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,6542::id:1597::Industriel
+6542,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,6542::id:1669::Menuisier
+6542,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,6542::id:1830::Scierie
+6542,1966,id:1966,Piveteau Bois (85),Industriel,85,id_acteur,6542::id:1966::Industriel
+6542,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,6542::id:1996::Scierie
+6594,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,6594::id:2447::Scierie
+6594,3101,id:3101,CHARPENTE CONTEMPORAINE (38),Charpentier,38,id_acteur,6594::id:3101::Charpentier
+6608,12475,id:12475,ENTREPRISE BOUVIER FRERES (74),Menuisier,74,id_acteur,6608::id:12475::Menuisier
+6608,1268,id:1268,FAVRAT CONSTRUCTION BOIS (74),Charpentier,74,id_acteur,6608::id:1268::Charpentier
+6608,2708,id:2708,LIGNATECH (42),Industriel,42,id_acteur,6608::id:2708::Industriel
+6608,NA,nom:scierie tournier vincent et fils (74),SCIERIE TOURNIER VINCENT ET FILS (74),Scierie,74,cle_ou_nom_sans_id,6608::nom:scierie tournier vincent et fils (74)::Scierie
+6610,1995,id:1995,EURO LAMELLE BOIS (74),Industriel,74,id_acteur,6610::id:1995::Industriel
+6610,2701,id:2701,LP CHARPENTE (74),Constructeur bois,74,id_acteur,6610::id:2701::Constructeur bois
+6610,28364,id:28364,SCIERIE CHAUMONTET (74),Scierie,74,id_acteur,6610::id:28364::Scierie
+6619,11415,id:11415,MCMH - MENUISERIE CHARPENTE MAURIN HERVE (42),Charpentier,42,id_acteur,6619::id:11415::Charpentier
+6619,1437,id:1437,SWISS KRONO SAS (45),Industriel,45,id_acteur,6619::id:1437::Industriel
+6619,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,6619::id:2433::Scierie
+6619,66377,id:66377,MOUNIER PATRICE (42),Menuisier,42,id_acteur,6619::id:66377::Menuisier
+6619,9312,id:9312,SCIERIE CHORAIN (42),Scierie,42,id_acteur,6619::id:9312::Scierie
+6619,NA,nom:maurin jean-paul (43),MAURIN JEAN-PAUL (43),Scierie,43,cle_ou_nom_sans_id,6619::nom:maurin jean-paul (43)::Scierie
+6680,11280,id:11280,SUCHEYRE (63),Charpentier,63,id_acteur,6680::id:11280::Charpentier
+6680,1597,id:1597,COSYLVA (23),Scierie,23,id_acteur,6680::id:1597::Scierie
+6680,30027,id:30027,Bois et Sciages de Sougy (58),Scierie,58,id_acteur,6680::id:30027::Scierie
+6680,3397,id:3397,MENUISERIE CHARPENTE MEUNIER-MARNAT (42),Menuisier,42,id_acteur,6680::id:3397::Menuisier
+6680,4526,id:4526,SCIERIE DES COMBRAILLES (63),Scierie,63,id_acteur,6680::id:4526::Scierie
+6680,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,6680::id:9439::Scierie
+6706,203,id:203,CABESTAN (38),Charpentier,38,id_acteur,6706::id:203::Charpentier
+6706,27101,id:27101,MENUISERIE CHAUTANT (26),Menuisier,26,id_acteur,6706::id:27101::Menuisier
+6706,4966,id:4966,LOFOTEN (69),Charpentier,69,id_acteur,6706::id:4966::Charpentier
+6706,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,6706::id:9439::Scierie
+6761,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,6761::id:1188::Charpentier
+6761,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Constructeur bois,38,id_acteur,6761::id:1188::Constructeur bois
+6761,1437,id:1437,SWISS KRONO SAS (45),Scierie,45,id_acteur,6761::id:1437::Scierie
+6761,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,6761::id:1669::Menuisier
+6761,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,6761::id:1830::Scierie
+6761,28034,id:28034,ISB – SILVERWOOD – CARIB (35),Scierie,35,id_acteur,6761::id:28034::Scierie
+6761,5051,id:5051,D.M.B.P DISPANO CHAMBERY (73),Scierie,73,id_acteur,6761::id:5051::Scierie
+6761,5205,id:5205,MéO (85),Scierie,85,id_acteur,6761::id:5205::Scierie
+6761,NA,nom:euro lamelle (74),EURO LAMELLE (74),Scierie,74,cle_ou_nom_sans_id,6761::nom:euro lamelle (74)::Scierie
+6776,1597,id:1597,COSYLVA (23),Scierie,23,id_acteur,6776::id:1597::Scierie
+6776,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,6776::id:1700::Menuisier
+6776,20142,id:20142,MAURIS BOIS (SEYSSINS) (38),Industriel,38,id_acteur,6776::id:20142::Industriel
+6776,5051,id:5051,D.M.B.P DISPANO CHAMBERY (73),Industriel,73,id_acteur,6776::id:5051::Industriel
+6776,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,6776::id:6601::Scierie
+6776,NA,nom:bois en 3 dimensions (73),BOIS EN 3 DIMENSIONS (73),Charpentier,73,cle_ou_nom_sans_id,6776::nom:bois en 3 dimensions (73)::Charpentier
+6776,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,6776::nom:scierie bottarel (38)::Scierie
+6778,111,id:111,CMI JANNON (38),Menuisier,38,id_acteur,6778::id:111::Menuisier
+6778,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,6778::id:1669::Menuisier
+6778,20142,id:20142,MAURIS BOIS (SEYSSINS) (38),Industriel,38,id_acteur,6778::id:20142::Industriel
+6778,30350,id:30350,SN TRADI CHARPENTE (26),Charpentier,26,id_acteur,6778::id:30350::Charpentier
+6778,30423,id:30423,CICA (26),Industriel,26,id_acteur,6778::id:30423::Industriel
+6778,NA,nom:mercier bois industry - lamebois (38),MERCIER BOIS INDUSTRY - LAMEBOIS (38),Scierie,38,cle_ou_nom_sans_id,6778::nom:mercier bois industry - lamebois (38)::Scierie
+6779,2104,id:2104,SCIERIE FOREST (38),Scierie,38,id_acteur,6779::id:2104::Scierie
+6779,70705,id:70705,LES ATELIERS MARIANNE (38),Menuisier,38,id_acteur,6779::id:70705::Menuisier
+6785,41745,id:41745,CHARPENTE COUVERTURE DU GRESIVAUDAN (38),Charpentier,38,id_acteur,6785::id:41745::Charpentier
+6785,5390,id:5390,SAMSE - SIEGE (38),Scierie,38,id_acteur,6785::id:5390::Scierie
+6785,57326,id:57326,APEX AGENCEMENT (38),Menuisier,38,id_acteur,6785::id:57326::Menuisier
+6785,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,6785::id:6601::Scierie
+6793,18364,id:18364,FAVRAT CONSTRUCTION BOIS - BALAN (01),Charpentier,01,id_acteur,6793::id:18364::Charpentier
+6793,1995,id:1995,EURO LAMELLE BOIS (74),Industriel,74,id_acteur,6793::id:1995::Industriel
+6793,27829,id:27829,KLH - Lignatec (88),Industriel,88,id_acteur,6793::id:27829::Industriel
+6793,4454,id:4454,SCHNEIDER BEST WOOD (DE),Industriel,DE,id_acteur,6793::id:4454::Industriel
+6798,65688,id:65688,MENUISERIE CHARPENTE TOURNIER (01),Charpentier,01,id_acteur,6798::id:65688::Charpentier
+6798,66460,id:66460,MENUISERIE JULLIARD (01),Menuisier,01,id_acteur,6798::id:66460::Menuisier
+6798,8080,id:8080,ECOLE TECHNIQUE DU BOIS (01),Scierie,01,id_acteur,6798::id:8080::Scierie
+6798,8640,id:8640,SCIERIE LES FILS DE CYRILLE DUCRET (01),Industriel,01,id_acteur,6798::id:8640::Industriel
+6801,1966,id:1966,Piveteau Bois (85),Industriel,85,id_acteur,6801::id:1966::Industriel
+6801,2397,id:2397,DUBOT BOIS ET SCIERIES (63),Scierie,63,id_acteur,6801::id:2397::Scierie
+6801,2654,id:2654,CHARLES TAILLANDIER (63),Charpentier,63,id_acteur,6801::id:2654::Charpentier
+6801,4325,id:4325,CHARLES ET MOUYSSET (12),Charpentier,12,id_acteur,6801::id:4325::Charpentier
+6801,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,6801::id:9439::Scierie
+6804,11280,id:11280,SUCHEYRE (63),Charpentier,63,id_acteur,6804::id:11280::Charpentier
+6804,11280,id:11280,SUCHEYRE (63),Constructeur bois,63,id_acteur,6804::id:11280::Constructeur bois
+6804,4526,id:4526,SCIERIE DES COMBRAILLES (63),Scierie,63,id_acteur,6804::id:4526::Scierie
+6804,4540,id:4540,CHARPENTES DU BERRY (18),Industriel,18,id_acteur,6804::id:4540::Industriel
+6825,14008,id:14008,C2M (38),Charpentier,38,id_acteur,6825::id:14008::Charpentier
+6825,2547,id:2547,SCIERIE EYMARD (38),Scierie,38,id_acteur,6825::id:2547::Scierie
+6830,4568,id:4568,RDL BEAUDONNAT SARL (63),Charpentier,63,id_acteur,6830::id:4568::Charpentier
+6830,4568,id:4568,RDL BEAUDONNAT SARL (63),Scierie,63,id_acteur,6830::id:4568::Scierie
+6830,72967,id:72967,MARTIN FREDEFAL (63),Menuisier,63,id_acteur,6830::id:72967::Menuisier
+6843,1169,id:1169,KLH Massivholtz GmbH (DE),Industriel,DE,id_acteur,6843::id:1169::Industriel
+6843,70826,id:70826,DCC (69),Charpentier,69,id_acteur,6843::id:70826::Charpentier
+6843,9347,id:9347,SCIERIE GONNACHON (69),Scierie,69,id_acteur,6843::id:9347::Scierie
+685,2596,id:2596,"ARTI-TEKT, HABITER LA MATIÈRE (69)",Constructeur bois,69,id_acteur,685::id:2596::Constructeur bois
+685,2618,id:2618,BOISSIF (69),Scierie,69,id_acteur,685::id:2618::Scierie
+6869,111,id:111,CMI JANNON (38),Charpentier,38,id_acteur,6869::id:111::Charpentier
+6869,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,6869::id:1700::Menuisier
+6869,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,6869::id:2644::Industriel
+6869,30422,id:30422,ROCHETTE STEPHANE (07),Industriel,07,id_acteur,6869::id:30422::Industriel
+6869,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,6869::id:3112::Menuisier
+6869,5051,id:5051,D.M.B.P DISPANO CHAMBERY (73),Industriel,73,id_acteur,6869::id:5051::Industriel
+6869,64669,id:64669,MAURIS BOIS (SIEGE) (38),Industriel,38,id_acteur,6869::id:64669::Industriel
+6869,67078,id:67078,BOURGET MOULURES (73),Industriel,73,id_acteur,6869::id:67078::Industriel
+6916,3117,id:3117,CARRE MENUISERIE (38),Menuisier,38,id_acteur,6916::id:3117::Menuisier
+6916,5051,id:5051,D.M.B.P DISPANO CHAMBERY (73),Industriel,73,id_acteur,6916::id:5051::Industriel
+6925,4672,id:4672,BEZACIER SAS (42),Charpentier,42,id_acteur,6925::id:4672::Charpentier
+6925,4854,id:4854,SCIERIE LION (42),Scierie,42,id_acteur,6925::id:4854::Scierie
+6943,3720,id:3720,CMV ROSSIGNOL (03),Charpentier,03,id_acteur,6943::id:3720::Charpentier
+6943,NA,nom:mondiere louis (03),MONDIERE LOUIS (03),Scierie,03,cle_ou_nom_sans_id,6943::nom:mondiere louis (03)::Scierie
+6986,12972,id:12972,GABRIEL (63),Industriel,63,id_acteur,6986::id:12972::Industriel
+6986,59869,id:59869,TB BOIS CONSTRUCTION (69),Charpentier,69,id_acteur,6986::id:59869::Charpentier
+699,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,699::id:2708::Charpentier
+699,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,699::id:2709::Scierie
+6990,3117,id:3117,CARRE MENUISERIE (38),Menuisier,38,id_acteur,6990::id:3117::Menuisier
+6990,9325,id:9325,SCIERIE FRISON (73),Scierie,73,id_acteur,6990::id:9325::Scierie
+6990,NA,nom:atelier char.me.bois (38),ATELIER CHAR.ME.BOIS (38),Charpentier,38,cle_ou_nom_sans_id,6990::nom:atelier char.me.bois (38)::Charpentier
+6991,26644,id:26644,AUTOMATISME SOLUTION BOIS (ASB) (74),Industriel,74,id_acteur,6991::id:26644::Industriel
+6991,26659,id:26659,SFS GROUP (26),Industriel,26,id_acteur,6991::id:26659::Industriel
+6991,73136,id:73136,CRATERRE (38),Charpentier,38,id_acteur,6991::id:73136::Charpentier
+6991,73162,id:73162,CONCASS'ALPES - CARRIERE DE MEAUDRE (38),Industriel,38,id_acteur,6991::id:73162::Industriel
+6991,8962,id:8962,OFFICE NATIONAL DES FORETS (ONF) (94),Scierie,94,id_acteur,6991::id:8962::Scierie
+6991,NA,nom:alsafix (67),ALSAFIX (67),Industriel,67,cle_ou_nom_sans_id,6991::nom:alsafix (67)::Industriel
+6991,NA,nom:cemex granulats rhone mediterannée (38),CEMEX GRANULATS RHONE MEDITERANNÉE (38),Industriel,38,cle_ou_nom_sans_id,6991::nom:cemex granulats rhone mediterannée (38)::Industriel
+6991,NA,nom:lafarge ciments (07),LAFARGE CIMENTS (07),Industriel,07,cle_ou_nom_sans_id,6991::nom:lafarge ciments (07)::Industriel
+6991,NA,nom:scierie du val de lans (38),SCIERIE DU VAL DE LANS (38),Scierie,38,cle_ou_nom_sans_id,6991::nom:scierie du val de lans (38)::Scierie
+6991,NA,nom:sika france (93),SIKA FRANCE (93),Industriel,93,cle_ou_nom_sans_id,6991::nom:sika france (93)::Industriel
+7002,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,7002::id:2447::Scierie
+7002,NA,nom:care construction (38),CARE CONSTRUCTION (38),Charpentier,38,cle_ou_nom_sans_id,7002::nom:care construction (38)::Charpentier
+7057,12259,id:12259,MENUISERIE BÂTIMENT ROUX FRÈRES (07),Menuisier,07,id_acteur,7057::id:12259::Menuisier
+7057,12972,id:12972,GABRIEL (63),Scierie,63,id_acteur,7057::id:12972::Scierie
+7057,1995,id:1995,EURO LAMELLE BOIS (74),Scierie,74,id_acteur,7057::id:1995::Scierie
+7057,2146,id:2146,MOULIN CHARPENTE (07),Charpentier,07,id_acteur,7057::id:2146::Charpentier
+7057,2686,id:2686,SIMONIN SAS (25),Scierie,25,id_acteur,7057::id:2686::Scierie
+7057,28189,id:28189,NP ROLPIN (40),Scierie,40,id_acteur,7057::id:28189::Scierie
+7057,2980,id:2980,BOIS COLLES D'AUVERGNE (BCA) (63),Scierie,63,id_acteur,7057::id:2980::Scierie
+7057,30430,id:30430,SOCIETE CHAMBOST (26),Scierie,26,id_acteur,7057::id:30430::Scierie
+7057,3976,id:3976,MENUISERIE GERO (07),Menuisier,07,id_acteur,7057::id:3976::Menuisier
+7057,8501,id:8501,J.P. BEURIER (69),Scierie,69,id_acteur,7057::id:8501::Scierie
+7057,9268,id:9268,SCIERIE ET NEGOCE BEAUME (07),Scierie,07,id_acteur,7057::id:9268::Scierie
+7057,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,7057::id:9439::Scierie
+7096,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,7096::id:1188::Charpentier
+7096,1699,id:1699,CBMA CONCEPT BOIS MENUISERIE ASSO (38),Menuisier,38,id_acteur,7096::id:1699::Menuisier
+7096,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,7096::id:1830::Scierie
+7096,1966,id:1966,Piveteau Bois (85),Industriel,85,id_acteur,7096::id:1966::Industriel
+7096,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,7096::id:1996::Scierie
+7096,6547,id:6547,GIROD BOIS (38),Industriel,38,id_acteur,7096::id:6547::Industriel
+7127,2301,id:2301,MENUISERIE MARC DEFIX SARL (43),Menuisier,43,id_acteur,7127::id:2301::Menuisier
+7127,2654,id:2654,CHARLES TAILLANDIER (63),Charpentier,63,id_acteur,7127::id:2654::Charpentier
+7127,4325,id:4325,CHARLES ET MOUYSSET (12),Industriel,12,id_acteur,7127::id:4325::Industriel
+7127,5003,id:5003,CM BOIS ET HABITAT (12),Constructeur bois,12,id_acteur,7127::id:5003::Constructeur bois
+7141,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,7141::id:2708::Charpentier
+7141,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,7141::id:2709::Scierie
+7141,NA,nom:clement menuiserie (42),CLEMENT MENUISERIE (42),Menuisier,42,cle_ou_nom_sans_id,7141::nom:clement menuiserie (42)::Menuisier
+7166,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,7166::id:2447::Scierie
+7166,27170,id:27170,A.L.D.MENUISERIE (42),Industriel,42,id_acteur,7166::id:27170::Industriel
+7166,3121,id:3121,LALLIARD (74),Industriel,74,id_acteur,7166::id:3121::Industriel
+7166,46778,id:46778,ISONAT (42),Industriel,42,id_acteur,7166::id:46778::Industriel
+7166,5197,id:5197,SCIERIE PROVVEDI INDUSTRIE (69),Industriel,69,id_acteur,7166::id:5197::Industriel
+7166,64669,id:64669,MAURIS BOIS (SIEGE) (38),Industriel,38,id_acteur,7166::id:64669::Industriel
+7166,65380,id:65380,ATELIER AGENCEMENT (38),Menuisier,38,id_acteur,7166::id:65380::Menuisier
+7166,66560,id:66560,Scierie Gilbert Fine (05),Scierie,05,id_acteur,7166::id:66560::Scierie
+7166,72282,id:72282,SAS BONNABEL BOIS (05),Scierie,05,id_acteur,7166::id:72282::Scierie
+7166,73061,id:73061,ETABLISSEMENT HOURS (38),Menuisier,38,id_acteur,7166::id:73061::Menuisier
+7166,73095,id:73095,MEYER Thierry (05),Menuisier,05,id_acteur,7166::id:73095::Menuisier
+7166,NA,nom:rc charpente (38),RC Charpente (38),Charpentier,38,cle_ou_nom_sans_id,7166::nom:rc charpente (38)::Charpentier
+7166,NA,nom:scierie bottarel (38),SCIERIE BOTTAREL (38),Scierie,38,cle_ou_nom_sans_id,7166::nom:scierie bottarel (38)::Scierie
+7300,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,7300::id:1188::Charpentier
+7300,1699,id:1699,CBMA CONCEPT BOIS MENUISERIE ASSO (38),Menuisier,38,id_acteur,7300::id:1699::Menuisier
+7300,1827,id:1827,SUSCILLON (38),Menuisier,38,id_acteur,7300::id:1827::Menuisier
+7300,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,7300::id:1830::Scierie
+7300,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,7300::id:1996::Scierie
+7300,35385,id:35385,PIVETEAU SARL (16),Industriel,16,id_acteur,7300::id:35385::Industriel
+7361,12220,id:12220,SAVOIE INSTALLATION CUISINES AGENCEMENT (73),Menuisier,73,id_acteur,7361::id:12220::Menuisier
+7361,1966,id:1966,Piveteau Bois (85),Industriel,85,id_acteur,7361::id:1966::Industriel
+7361,64735,id:64735,SABAUDIA CHARPENTE (73),Charpentier,73,id_acteur,7361::id:64735::Charpentier
+7427,13438,id:13438,MENUISERIE RIVORY (42),Menuisier,42,id_acteur,7427::id:13438::Menuisier
+7427,1966,id:1966,Piveteau Bois (85),Industriel,85,id_acteur,7427::id:1966::Industriel
+7427,2458,id:2458,CHARPENTE MARTIGNIAT (42),Charpentier,42,id_acteur,7427::id:2458::Charpentier
+7491,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,7491::id:1188::Charpentier
+7491,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,7491::id:1996::Scierie
+7513,27163,id:27163,LES MENUISIERS DU RHONE (69),Menuisier,69,id_acteur,7513::id:27163::Menuisier
+7513,29832,id:29832,MENUISERIE BOIS - PERRET SAS (69),Menuisier,69,id_acteur,7513::id:29832::Menuisier
+7513,5253,id:5253,CHANVRE & BOIS (38),Charpentier,38,id_acteur,7513::id:5253::Charpentier
+7513,9351,id:9351,GROUPE MOULINVEST (43),Scierie,43,id_acteur,7513::id:9351::Scierie
+7577,30423,id:30423,CICA (26),Industriel,26,id_acteur,7577::id:30423::Industriel
+7577,75124,id:75124,DECOR AGENCEMENT (38),Menuisier,38,id_acteur,7577::id:75124::Menuisier
+7581,12488,id:12488,FRANCO OLIVIER CHARPENTES (38),Charpentier,38,id_acteur,7581::id:12488::Charpentier
+7581,30423,id:30423,CICA (26),Industriel,26,id_acteur,7581::id:30423::Industriel
+7581,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,7581::id:3112::Menuisier
+7581,3121,id:3121,LALLIARD (74),Industriel,74,id_acteur,7581::id:3121::Industriel
+7581,75675,id:75675,DANTHON MATERIAUX (BIG MAT) (38),Industriel,38,id_acteur,7581::id:75675::Industriel
+7587,1333,id:1333,COUTURIER ROBERT (73),Charpentier,73,id_acteur,7587::id:1333::Charpentier
+7587,NA,nom:euro lamelle (74),EURO LAMELLE (74),Industriel,74,cle_ou_nom_sans_id,7587::nom:euro lamelle (74)::Industriel
+7609,11468,id:11468,CONSEIL DEPARTEMENTAL DE L'ISERE (38),Menuisier,38,id_acteur,7609::id:11468::Menuisier
+7609,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,7609::id:6601::Scierie
+7619,1669,id:1669,MEANDRE OGGI (38),Menuisier,38,id_acteur,7619::id:1669::Menuisier
+7619,75419,id:75419,EGBI PERRIN (38),Charpentier,38,id_acteur,7619::id:75419::Charpentier
+7619,9281,id:9281,SCIERIE DE CHARTREUSE (38),Scierie,38,id_acteur,7619::id:9281::Scierie
+7659,11408,id:11408,CECOIA (42),Charpentier,42,id_acteur,7659::id:11408::Charpentier
+7659,2433,id:2433,SCIERIE MONTMARTIN ET FILS (42),Scierie,42,id_acteur,7659::id:2433::Scierie
+7659,4672,id:4672,BEZACIER SAS (42),Charpentier,42,id_acteur,7659::id:4672::Charpentier
+7683,26337,id:26337,BLANC BOUVIER (73),Menuisier,73,id_acteur,7683::id:26337::Menuisier
+7683,64735,id:64735,SABAUDIA CHARPENTE (73),Charpentier,73,id_acteur,7683::id:64735::Charpentier
+7683,8571,id:8571,LA SCIERIE DU GRAND ARC (73),Scierie,73,id_acteur,7683::id:8571::Scierie
+7683,8655,id:8655,LES MENUISERIES PHILIBERT (01),Industriel,01,id_acteur,7683::id:8655::Industriel
+7683,NA,nom:euro lamelle (74),EURO LAMELLE (74),Industriel,74,cle_ou_nom_sans_id,7683::nom:euro lamelle (74)::Industriel
+7684,12521,id:12521,CHALETS LAMBERSENS (74),Charpentier,74,id_acteur,7684::id:12521::Charpentier
+7684,28364,id:28364,SCIERIE CHAUMONTET (74),Scierie,74,id_acteur,7684::id:28364::Scierie
+7684,31222,id:31222,BIANCHETTI VINCENT (74),Charpentier,74,id_acteur,7684::id:31222::Charpentier
+7684,5074,id:5074,ARTISANS DU BOIS REUNIS (74),Industriel,74,id_acteur,7684::id:5074::Industriel
+7684,65025,id:65025,PORALU BOIS (74),Industriel,74,id_acteur,7684::id:65025::Industriel
+7684,75453,id:75453,MEUBLES VULLIET (74),Menuisier,74,id_acteur,7684::id:75453::Menuisier
+7726,11406,id:11406,LA CHARPENTERIE DES BOIS NOIRS (42),Charpentier,42,id_acteur,7726::id:11406::Charpentier
+7726,2644,id:2644,COLLADELLO (26),Industriel,26,id_acteur,7726::id:2644::Industriel
+7726,9438,id:9438,SOCIETE NETRABLAISE DES BOIS (42),Scierie,42,id_acteur,7726::id:9438::Scierie
+7804,1342,id:1342,ELLIPSE BOIS (69),Menuisier,69,id_acteur,7804::id:1342::Menuisier
+7804,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,7804::id:2708::Charpentier
+7804,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,7804::id:2709::Scierie
+7804,5133,id:5133,Minco Sas (44),Industriel,44,id_acteur,7804::id:5133::Industriel
+7816,1597,id:1597,COSYLVA (23),Industriel,23,id_acteur,7816::id:1597::Industriel
+7816,65103,id:65103,BIAU GUILHEM (38),Charpentier,38,id_acteur,7816::id:65103::Charpentier
+7816,66711,id:66711,SCIERIE BOURGEY (38),Scierie,38,id_acteur,7816::id:66711::Scierie
+7816,75410,id:75410,TOFFOLETTI HONORE (01),Menuisier,01,id_acteur,7816::id:75410::Menuisier
+7818,1945,id:1945,L'ART DU BOIS (38),Menuisier,38,id_acteur,7818::id:1945::Menuisier
+7818,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,7818::id:2447::Scierie
+7818,3101,id:3101,CHARPENTE CONTEMPORAINE (38),Charpentier,38,id_acteur,7818::id:3101::Charpentier
+7818,65525,id:65525,PROTAC OUEST (22),Industriel,22,id_acteur,7818::id:65525::Industriel
+7845,12333,id:12333,BROCHIER PAUL (38),Charpentier,38,id_acteur,7845::id:12333::Charpentier
+7845,8148,id:8148,ETABLISSEMENTS GALLIN FILS (38),Scierie,38,id_acteur,7845::id:8148::Scierie
+7845,9281,id:9281,SCIERIE DE CHARTREUSE (38),Scierie,38,id_acteur,7845::id:9281::Scierie
+7862,20892,id:20892,GIRAUDIER BOIS CREATION (42),Menuisier,42,id_acteur,7862::id:20892::Menuisier
+7862,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,7862::id:2708::Charpentier
+7862,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,7862::id:2709::Scierie
+7865,11370,id:11370,MENUISERIE BEAL (42),Menuisier,42,id_acteur,7865::id:11370::Menuisier
+7865,2708,id:2708,LIGNATECH (42),Charpentier,42,id_acteur,7865::id:2708::Charpentier
+7865,2709,id:2709,SCIERIE FORGE MAHUSSIER (42),Scierie,42,id_acteur,7865::id:2709::Scierie
+7865,4674,id:4674,MENUISERIE GENEVRIER (42),Menuisier,42,id_acteur,7865::id:4674::Menuisier
+7871,2023,id:2023,MARGUERON (01),Scierie,01,id_acteur,7871::id:2023::Scierie
+7871,3514,id:3514,FORISSIER MENUISERIE (43),Menuisier,43,id_acteur,7871::id:3514::Menuisier
+7871,65918,id:65918,RACINEO CONSTRUCTION (43),Charpentier,43,id_acteur,7871::id:65918::Charpentier
+7988,12502,id:12502,TAPIO (ANCIENNEMENT HUGONNARD) (38),Charpentier,38,id_acteur,7988::id:12502::Charpentier
+7988,2023,id:2023,MARGUERON (01),Scierie,01,id_acteur,7988::id:2023::Scierie
+7988,2547,id:2547,SCIERIE EYMARD (38),Scierie,38,id_acteur,7988::id:2547::Scierie
+7988,32572,id:32572,DELTA BOIS (38),Industriel,38,id_acteur,7988::id:32572::Industriel
+7988,3504,id:3504,PARET EBENISTERIE (38),Menuisier,38,id_acteur,7988::id:3504::Menuisier
+8057,1141,id:1141,BOUYSSE MENUISERIE (15),Charpentier,15,id_acteur,8057::id:1141::Charpentier
+8057,2397,id:2397,DUBOT BOIS ET SCIERIES (63),Scierie,63,id_acteur,8057::id:2397::Scierie
+8057,2980,id:2980,BOIS COLLES D'AUVERGNE (BCA) (63),Industriel,63,id_acteur,8057::id:2980::Industriel
+8057,8070,id:8070,SCIERIE ELP BOIS (63),Scierie,63,id_acteur,8057::id:8070::Scierie
+8057,8139,id:8139,SCIERIE BONHOMME (15),Scierie,15,id_acteur,8057::id:8139::Scierie
+8057,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,8057::id:9439::Scierie
+8057,NA,nom:gallien bois (43),GALLIEN BOIS (43),Scierie,43,cle_ou_nom_sans_id,8057::nom:gallien bois (43)::Scierie
+8087,1680,id:1680,JOHN SAUVAJON (38),Charpentier,38,id_acteur,8087::id:1680::Charpentier
+8087,1680,id:1680,JOHN SAUVAJON (38),Menuisier,38,id_acteur,8087::id:1680::Menuisier
+8087,1680,id:1680,JOHN SAUVAJON (38),Scierie,38,id_acteur,8087::id:1680::Scierie
+8087,73391,id:73391,Raw Forms (94),Menuisier,94,id_acteur,8087::id:73391::Menuisier
+8104,6601,id:6601,SCIERIE SILLAT (38),Scierie,38,id_acteur,8104::id:6601::Scierie
+8104,75829,id:75829,MENZEL CHARPENTE (38),Charpentier,38,id_acteur,8104::id:75829::Charpentier
+8128,1141,id:1141,BOUYSSE MENUISERIE (15),Charpentier,15,id_acteur,8128::id:1141::Charpentier
+8128,2397,id:2397,DUBOT BOIS ET SCIERIES (63),Scierie,63,id_acteur,8128::id:2397::Scierie
+8128,2980,id:2980,BOIS COLLES D'AUVERGNE (BCA) (63),Industriel,63,id_acteur,8128::id:2980::Industriel
+8128,8070,id:8070,SCIERIE ELP BOIS (63),Scierie,63,id_acteur,8128::id:8070::Scierie
+8128,8139,id:8139,SCIERIE BONHOMME (15),Scierie,15,id_acteur,8128::id:8139::Scierie
+8128,8339,id:8339,GALLIEN BOIS IMPREGNES (43),Scierie,43,id_acteur,8128::id:8339::Scierie
+8128,9439,id:9439,SCIERIE FILAIRE (43),Scierie,43,id_acteur,8128::id:9439::Scierie
+8128,NA,nom:crea bois lagat alexandre (15),CREA BOIS LAGAT ALEXANDRE (15),Menuisier,15,cle_ou_nom_sans_id,8128::nom:crea bois lagat alexandre (15)::Menuisier
+829,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,829::id:1830::Scierie
+829,3108,id:3108,CONSTRUCTIC BOIS (38),Charpentier,38,id_acteur,829::id:3108::Charpentier
+829,3108,id:3108,CONSTRUCTIC BOIS (38),Constructeur bois,38,id_acteur,829::id:3108::Constructeur bois
+835,1700,id:1700,DAUPHINE MENUISERIE (38),Menuisier,38,id_acteur,835::id:1700::Menuisier
+835,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,835::id:2447::Scierie
+835,3101,id:3101,CHARPENTE CONTEMPORAINE (38),Charpentier,38,id_acteur,835::id:3101::Charpentier
+838,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,838::id:1188::Charpentier
+838,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,838::id:1830::Scierie
+838,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,838::id:1996::Scierie
+838,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,838::id:3112::Menuisier
+839,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,839::id:1188::Charpentier
+839,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,839::id:1996::Scierie
+839,3117,id:3117,CARRE MENUISERIE (38),Menuisier,38,id_acteur,839::id:3117::Menuisier
+885,11407,id:11407,LIBERCIER CHARPENTE (42),Charpentier,42,id_acteur,885::id:11407::Charpentier
+885,2980,id:2980,BOIS COLLES D'AUVERGNE (BCA) (63),Scierie,63,id_acteur,885::id:2980::Scierie
+885,5015,id:5015,SCIERIE VRAY (42),Scierie,42,id_acteur,885::id:5015::Scierie
+885,5019,id:5019,SCIERIE LUGNE FRERES (42),Scierie,42,id_acteur,885::id:5019::Scierie
+8941,75807,id:75807,Quentin Bourguignon (08),Constructeur bois,08,id_acteur,8941::id:75807::Constructeur bois
+8941,9265,id:9265,SCIERIE BASMAISON (03),Scierie,03,id_acteur,8941::id:9265::Scierie
+8941,NA,nom:luc doin architecte (38),LUC DOIN ARCHITECTE (38),Constructeur bois,38,cle_ou_nom_sans_id,8941::nom:luc doin architecte (38)::Constructeur bois
+9157,3517,id:3517,MONNET SEVE (01),Scierie,01,id_acteur,9157::id:3517::Scierie
+9157,5197,id:5197,SCIERIE PROVVEDI INDUSTRIE (69),Industriel,69,id_acteur,9157::id:5197::Industriel
+9157,9364,id:9364,SCIERIE PONCIN (01),Scierie,01,id_acteur,9157::id:9364::Scierie
+9157,NA,nom:apex charpente (01),APEX CHARPENTE (01),Charpentier,01,cle_ou_nom_sans_id,9157::nom:apex charpente (01)::Charpentier
+9311,20963,id:20963,AMEXBOIS (04),Constructeur bois,04,id_acteur,9311::id:20963::Constructeur bois
+9311,20963,id:20963,AMEXBOIS (04),Scierie,04,id_acteur,9311::id:20963::Scierie
+9327,12584,id:12584,REVERDY CHARPENTE (38),Charpentier,38,id_acteur,9327::id:12584::Charpentier
+9327,2447,id:2447,SCIERIE BARTHELEMY FRERES (38),Scierie,38,id_acteur,9327::id:2447::Scierie
+9327,NA,nom:gatto yves (38),GATTO YVES (38),Menuisier,38,cle_ou_nom_sans_id,9327::nom:gatto yves (38)::Menuisier
+9498,1141,id:1141,BOUYSSE MENUISERIE (15),Menuisier,15,id_acteur,9498::id:1141::Menuisier
+9498,1936,id:1936,GUILHOT CONSTRUCTION BOIS (43),Charpentier,43,id_acteur,9498::id:1936::Charpentier
+9498,2980,id:2980,BOIS COLLES D'AUVERGNE (BCA) (63),Industriel,63,id_acteur,9498::id:2980::Industriel
+9498,8070,id:8070,SCIERIE ELP BOIS (63),Scierie,63,id_acteur,9498::id:8070::Scierie
+9498,9312,id:9312,SCIERIE CHORAIN (42),Scierie,42,id_acteur,9498::id:9312::Scierie
+9687,1188,id:1188,SOCIETE DAUPHINOISE DE CHARPENTE COUVERTURE (SDCC) (38),Charpentier,38,id_acteur,9687::id:1188::Charpentier
+9687,1437,id:1437,SWISS KRONO SAS (45),Industriel,45,id_acteur,9687::id:1437::Industriel
+9687,1830,id:1830,SCIERIE BOIS DU DAUPHINE (38),Scierie,38,id_acteur,9687::id:1830::Scierie
+9687,1996,id:1996,SCIERIE BLANC (26),Scierie,26,id_acteur,9687::id:1996::Scierie
+9687,20400,id:20400,STEICO FRANCE (67),Industriel,67,id_acteur,9687::id:20400::Industriel
+9687,3112,id:3112,MENUISERIE PROPONNET (38),Menuisier,38,id_acteur,9687::id:3112::Menuisier
+9687,35385,id:35385,PIVETEAU SARL (16),Industriel,16,id_acteur,9687::id:35385::Industriel
+9687,72741,id:72741,ACERBOIS (75),Industriel,75,id_acteur,9687::id:72741::Industriel
+9712,20526,id:20526,CBS CBT (94),Charpentier,94,id_acteur,9712::id:20526::Charpentier
+9712,60570,id:60570,LIFTEAM (94),Charpentier,94,id_acteur,9712::id:60570::Charpentier
+9712,9115,id:9115,RAFFIN MENUISERIE (69),Menuisier,69,id_acteur,9712::id:9115::Menuisier
+9712,9370,id:9370,SCIERIE DE SAVOIE LAPIERRE ET MARTIN (73),Scierie,73,id_acteur,9712::id:9370::Scierie
+9739,42083,id:42083,ETABLISSEMENTS GAIFFE (88),Scierie,88,id_acteur,9739::id:42083::Scierie
+9739,5133,id:5133,Minco Sas (44),Menuisier,44,id_acteur,9739::id:5133::Menuisier
+9739,NA,nom:lifteam (73),LIFTEAM (73),Charpentier,73,cle_ou_nom_sans_id,9739::nom:lifteam (73)::Charpentier

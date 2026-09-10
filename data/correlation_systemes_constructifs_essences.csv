@@ -1,0 +1,85 @@
+variable_gauche,variable_droite,correlation_pearson,n_projets
+Systeme constructif | Menuiserie intérieure,Essence | Hêtre,0.413,153
+Systeme constructif | Menuiserie extérieure,Essence | Pin sylvestre,0.39,153
+Systeme constructif | Structure verticale,Essence | Douglas,0.384,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Douglas,0.298,153
+Systeme constructif | Menuiserie intérieure,Essence | Résineux,0.272,153
+Systeme constructif | Menuiserie intérieure,Essence | Chêne,0.253,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Résineux,-0.229,153
+Systeme constructif | Structure verticale,Essence | Sapin pectiné,0.223,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Mélèze,0.216,153
+Systeme constructif | Structure verticale,Essence | Mélèze,-0.211,153
+Systeme constructif | Structure verticale,Essence | Épicéa commun,-0.21,153
+Systeme constructif | Menuiserie extérieure,Essence | Chêne,0.19,153
+Systeme constructif | Structure horizontale,Essence | Résineux,-0.19,153
+Systeme constructif | Menuiserie extérieure,Essence | Mélèze,0.187,153
+Systeme constructif | Structure horizontale,Essence | Épicéa commun,0.186,153
+Systeme constructif | Menuiserie extérieure,Essence | Châtaignier,0.161,153
+Systeme constructif | Menuiserie extérieure,Essence | Pin maritime,0.152,153
+Systeme constructif | Menuiserie intérieure,Essence | Douglas,0.149,153
+Systeme constructif | Structure horizontale,Essence | Chêne,0.144,153
+Systeme constructif | Menuiserie intérieure,Essence | Robinier faux acacia,0.143,153
+Systeme constructif | Menuiserie extérieure,Essence | Robinier faux acacia,0.139,153
+Systeme constructif | Charpente,Essence | Douglas,0.123,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Pin sylvestre,0.119,153
+Systeme constructif | Menuiserie extérieure,Essence | Frêne,0.113,153
+Systeme constructif | Menuiserie extérieure,Essence | Peuplier,0.113,153
+Systeme constructif | Menuiserie extérieure,Essence | Hêtre,0.113,153
+Systeme constructif | Menuiserie intérieure,Essence | Sapin pectiné,-0.108,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Pin maritime,0.108,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Sapin pectiné,0.107,153
+Systeme constructif | Structure horizontale,Essence | Sapin pectiné,-0.106,153
+Systeme constructif | Structure verticale,Essence | Peuplier,-0.105,153
+Systeme constructif | Structure verticale,Essence | Hêtre,-0.105,153
+Systeme constructif | Menuiserie intérieure,Essence | Épicéa commun,0.096,153
+Systeme constructif | Structure horizontale,Essence | Châtaignier,0.094,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Hêtre,-0.088,153
+Systeme constructif | Menuiserie extérieure,Essence | Résineux,-0.085,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Châtaignier,0.081,153
+Systeme constructif | Structure horizontale,Essence | Robinier faux acacia,0.081,153
+Systeme constructif | Menuiserie extérieure,Essence | Noyer,0.08,153
+Systeme constructif | Charpente,Essence | Sapin pectiné,0.075,153
+Systeme constructif | Charpente,Essence | Épicéa commun,0.074,153
+Systeme constructif | Structure verticale,Essence | Châtaignier,0.072,153
+Systeme constructif | Structure verticale,Essence | Pin maritime,-0.072,153
+Systeme constructif | Structure verticale,Essence | Résineux,0.072,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Robinier faux acacia,0.07,153
+Systeme constructif | Structure horizontale,Essence | Frêne,0.066,153
+Systeme constructif | Structure horizontale,Essence | Peuplier,0.066,153
+Systeme constructif | Structure horizontale,Essence | Hêtre,0.066,153
+Systeme constructif | Structure verticale,Essence | Robinier faux acacia,-0.065,153
+Systeme constructif | Menuiserie intérieure,Essence | Pin maritime,0.06,153
+Systeme constructif | Charpente,Essence | Pin sylvestre,0.059,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Frêne,0.057,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Peuplier,0.057,153
+Systeme constructif | Charpente,Essence | Mélèze,-0.056,153
+Systeme constructif | Menuiserie extérieure,Essence | Épicéa commun,0.055,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Chêne,0.054,153
+Systeme constructif | Structure verticale,Essence | Frêne,0.051,153
+Systeme constructif | Charpente,Essence | Châtaignier,0.05,153
+Systeme constructif | Charpente,Essence | Résineux,0.05,153
+Systeme constructif | Structure horizontale,Essence | Noyer,0.047,153
+Systeme constructif | Menuiserie intérieure,Essence | Châtaignier,-0.046,153
+Systeme constructif | Charpente,Essence | Pin maritime,-0.045,153
+Systeme constructif | Charpente,Essence | Robinier faux acacia,0.043,153
+Systeme constructif | Menuiserie extérieure,Essence | Sapin pectiné,-0.041,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Noyer,0.04,153
+Systeme constructif | Menuiserie intérieure,Essence | Mélèze,0.038,153
+Systeme constructif | Structure verticale,Essence | Noyer,0.036,153
+Systeme constructif | Charpente,Essence | Frêne,0.035,153
+Systeme constructif | Structure verticale,Essence | Chêne,0.035,153
+Systeme constructif | Charpente,Essence | Peuplier,0.035,153
+Systeme constructif | Charpente,Essence | Hêtre,0.035,153
+Systeme constructif | Menuiserie intérieure,Essence | Frêne,-0.032,153
+Systeme constructif | Menuiserie intérieure,Essence | Peuplier,-0.032,153
+Systeme constructif | Menuiserie extérieure,Essence | Douglas,0.028,153
+Systeme constructif | Menuiserie intérieure,Essence | Pin sylvestre,0.025,153
+Systeme constructif | Charpente,Essence | Noyer,0.025,153
+Systeme constructif | Charpente,Essence | Chêne,-0.023,153
+Systeme constructif | Menuiserie intérieure,Essence | Noyer,-0.023,153
+Systeme constructif | Structure horizontale,Essence | Mélèze,-0.019,153
+Systeme constructif | Structure horizontale,Essence | Pin maritime,-0.019,153
+Systeme constructif | Revêtement bois ou dérivés,Essence | Épicéa commun,-0.014,153
+Systeme constructif | Structure horizontale,Essence | Douglas,-0.005,153
+Systeme constructif | Structure verticale,Essence | Pin sylvestre,-0.005,153
+Systeme constructif | Structure horizontale,Essence | Pin sylvestre,-0.002,153

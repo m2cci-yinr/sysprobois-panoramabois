@@ -1,0 +1,116 @@
+role,dept_acteur,nb_participations,nb_entreprises,nb_projets,nb_participations_sans_id
+Charpentier,01,8,5,8,3
+Charpentier,03,1,1,1,0
+Charpentier,07,6,3,6,0
+Charpentier,12,1,1,1,0
+Charpentier,15,4,3,4,1
+Charpentier,19,2,2,2,0
+Charpentier,24,1,1,1,0
+Charpentier,25,1,1,1,0
+Charpentier,26,2,2,2,0
+Charpentier,38,66,36,61,10
+Charpentier,42,24,9,23,0
+Charpentier,43,5,2,5,0
+Charpentier,48,1,1,1,0
+Charpentier,54,1,1,1,0
+Charpentier,63,11,7,11,1
+Charpentier,69,9,8,9,0
+Charpentier,73,13,6,13,7
+Charpentier,74,14,8,13,3
+Charpentier,94,3,2,2,0
+Constructeur bois,01,1,1,1,1
+Constructeur bois,04,1,1,1,0
+Constructeur bois,07,3,2,3,0
+Constructeur bois,08,1,1,1,0
+Constructeur bois,12,1,1,1,0
+Constructeur bois,24,1,1,1,0
+Constructeur bois,26,1,1,1,0
+Constructeur bois,38,6,6,6,1
+Constructeur bois,42,1,1,1,0
+Constructeur bois,43,1,1,1,0
+Constructeur bois,45,1,1,1,0
+Constructeur bois,48,1,1,1,0
+Constructeur bois,63,3,2,3,0
+Constructeur bois,69,3,3,3,0
+Constructeur bois,70,1,1,1,0
+Constructeur bois,73,4,2,4,3
+Constructeur bois,74,4,2,4,2
+Industriel,01,4,4,4,0
+Industriel,03,1,1,1,0
+Industriel,07,2,2,2,1
+Industriel,12,1,1,1,0
+Industriel,13,1,1,1,0
+Industriel,14,1,1,1,0
+Industriel,16,2,1,2,0
+Industriel,17,1,1,1,0
+Industriel,18,1,1,1,0
+Industriel,22,1,1,1,0
+Industriel,23,10,1,10,0
+Industriel,25,4,3,4,0
+Industriel,26,11,3,11,0
+Industriel,31,1,1,1,0
+Industriel,33,1,1,1,0
+Industriel,38,10,8,9,2
+Industriel,42,4,3,3,0
+Industriel,43,2,2,2,0
+Industriel,44,1,1,1,0
+Industriel,45,5,1,5,0
+Industriel,63,6,3,5,0
+Industriel,67,3,2,3,1
+Industriel,68,1,1,1,0
+Industriel,69,3,2,3,0
+Industriel,73,8,4,7,0
+Industriel,74,20,10,18,3
+Industriel,75,1,1,1,0
+Industriel,85,7,2,7,0
+Industriel,88,1,1,1,0
+Industriel,93,1,1,1,1
+Industriel,DE,3,2,3,0
+Menuisier,01,7,7,6,1
+Menuisier,05,1,1,1,0
+Menuisier,07,3,3,2,1
+Menuisier,15,3,2,3,1
+Menuisier,19,2,2,2,0
+Menuisier,24,1,1,1,0
+Menuisier,26,4,4,3,1
+Menuisier,38,65,30,58,4
+Menuisier,42,17,11,16,1
+Menuisier,43,5,3,5,0
+Menuisier,44,1,1,1,0
+Menuisier,63,5,5,5,1
+Menuisier,69,13,11,12,0
+Menuisier,73,5,5,5,1
+Menuisier,74,11,9,10,2
+Menuisier,94,1,1,1,0
+Scierie,01,11,8,9,1
+Scierie,03,3,3,3,1
+Scierie,04,1,1,1,0
+Scierie,05,2,2,1,0
+Scierie,07,1,1,1,0
+Scierie,15,4,2,4,1
+Scierie,18,1,1,1,0
+Scierie,19,6,5,5,0
+Scierie,23,3,1,3,0
+Scierie,25,3,3,3,0
+Scierie,26,23,3,23,0
+Scierie,27,2,1,2,0
+Scierie,30,1,1,1,0
+Scierie,35,2,2,2,0
+Scierie,38,79,27,61,12
+Scierie,40,1,1,1,0
+Scierie,42,31,8,24,0
+Scierie,43,17,6,15,2
+Scierie,45,3,1,3,0
+Scierie,58,1,1,1,0
+Scierie,63,17,7,13,0
+Scierie,67,1,1,1,0
+Scierie,68,1,1,1,0
+Scierie,69,9,7,8,1
+Scierie,70,1,1,1,0
+Scierie,71,1,1,1,0
+Scierie,73,6,5,6,0
+Scierie,74,20,14,17,4
+Scierie,85,4,2,4,0
+Scierie,88,2,2,2,0
+Scierie,94,1,1,1,0
+Scierie,DE,1,1,1,0

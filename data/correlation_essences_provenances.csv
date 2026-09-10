@@ -1,0 +1,127 @@
+variable_gauche,variable_droite,correlation_pearson,n_projets
+Essence | Châtaignier,Provenance | Grand-Est,0.443,182
+Essence | Peuplier,Provenance | Grand-Est,0.423,182
+Essence | Pin maritime,Provenance | Centre-Val-de-Loire,0.369,182
+Essence | Peuplier,Provenance | Provence-Alpes-Côte-d'Azur,0.322,182
+Essence | Noyer,Provenance | Centre-Val-de-Loire,0.322,182
+Essence | Chêne,Provenance | Bourgogne-Franche-Comté,0.32,182
+Essence | Châtaignier,Provenance | Bourgogne-Franche-Comté,0.307,182
+Essence | Noyer,Provenance | Bourgogne-Franche-Comté,0.299,182
+Essence | Chêne,Provenance | Grand-Est,0.264,182
+Essence | Épicéa commun,Provenance | Europe,0.263,182
+Essence | Pin maritime,Provenance | Nouvelle-Aquitaine,0.219,182
+Essence | Mélèze,Provenance | Asie,0.207,182
+Essence | Mélèze,Provenance | Europe,0.205,182
+Essence | Noyer,Provenance | Grand-Est,0.199,182
+Essence | Peuplier,Provenance | Europe,0.182,182
+Essence | Pin maritime,Provenance | France,0.176,182
+Essence | Épicéa commun,Provenance | France,0.167,182
+Essence | Douglas,Provenance | Asie,-0.156,182
+Essence | Épicéa commun,Provenance | Provence-Alpes-Côte-d'Azur,-0.155,182
+Essence | Peuplier,Provenance | Auvergne-Rhône-Alpes,-0.149,182
+Essence | Sapin pectiné,Provenance | France,0.148,182
+Essence | Pin sylvestre,Provenance | Provence-Alpes-Côte-d'Azur,0.143,182
+Essence | Frêne,Provenance | Grand-Est,0.141,182
+Essence | Pin sylvestre,Provenance | Europe,0.14,182
+Essence | Douglas,Provenance | Auvergne-Rhône-Alpes,0.138,182
+Essence | Peuplier,Provenance | France,0.134,182
+Essence | Hêtre,Provenance | Europe,0.132,182
+Essence | Peuplier,Provenance | Bourgogne-Franche-Comté,0.132,182
+Essence | Sapin pectiné,Provenance | Provence-Alpes-Côte-d'Azur,0.128,182
+Essence | Douglas,Provenance | Grand-Est,-0.125,182
+Essence | Peuplier,Provenance | Nouvelle-Aquitaine,0.125,182
+Essence | Chêne,Provenance | Centre-Val-de-Loire,0.125,182
+Essence | Douglas,Provenance | Europe,-0.123,182
+Essence | Sapin pectiné,Provenance | Grand-Est,-0.113,182
+Essence | Résineux,Provenance | Auvergne-Rhône-Alpes,-0.111,182
+Essence | Mélèze,Provenance | Centre-Val-de-Loire,0.111,182
+Essence | Épicéa commun,Provenance | Asie,0.108,182
+Essence | Douglas,Provenance | Provence-Alpes-Côte-d'Azur,0.107,182
+Essence | Résineux,Provenance | Europe,-0.106,182
+Essence | Résineux,Provenance | Bourgogne-Franche-Comté,0.104,182
+Essence | Pin sylvestre,Provenance | Nouvelle-Aquitaine,0.101,182
+Essence | Résineux,Provenance | France,0.096,182
+Essence | Chêne,Provenance | Auvergne-Rhône-Alpes,0.095,182
+Essence | Pin sylvestre,Provenance | France,0.095,182
+Essence | Châtaignier,Provenance | Auvergne-Rhône-Alpes,0.093,182
+Essence | Robinier faux acacia,Provenance | France,-0.092,182
+Essence | Frêne,Provenance | Bourgogne-Franche-Comté,0.084,182
+Essence | Robinier faux acacia,Provenance | Bourgogne-Franche-Comté,0.084,182
+Essence | Frêne,Provenance | Auvergne-Rhône-Alpes,-0.082,182
+Essence | Mélèze,Provenance | Provence-Alpes-Côte-d'Azur,-0.081,182
+Essence | Pin maritime,Provenance | Auvergne-Rhône-Alpes,-0.074,182
+Essence | Sapin pectiné,Provenance | Asie,-0.073,182
+Essence | Épicéa commun,Provenance | Bourgogne-Franche-Comté,-0.071,182
+Essence | Douglas,Provenance | Nouvelle-Aquitaine,0.071,182
+Essence | Chêne,Provenance | Nouvelle-Aquitaine,0.071,182
+Essence | Frêne,Provenance | France,0.068,182
+Essence | Pin sylvestre,Provenance | Centre-Val-de-Loire,-0.068,182
+Essence | Noyer,Provenance | Auvergne-Rhône-Alpes,0.065,182
+Essence | Châtaignier,Provenance | Europe,0.064,182
+Essence | Pin sylvestre,Provenance | Auvergne-Rhône-Alpes,0.064,182
+Essence | Sapin pectiné,Provenance | Auvergne-Rhône-Alpes,0.062,182
+Essence | Mélèze,Provenance | Grand-Est,-0.061,182
+Essence | Pin maritime,Provenance | Europe,0.053,182
+Essence | Châtaignier,Provenance | Nouvelle-Aquitaine,-0.053,182
+Essence | Épicéa commun,Provenance | Grand-Est,0.051,182
+Essence | Frêne,Provenance | Nouvelle-Aquitaine,-0.049,182
+Essence | Robinier faux acacia,Provenance | Nouvelle-Aquitaine,-0.049,182
+Essence | Robinier faux acacia,Provenance | Europe,-0.048,182
+Essence | Pin maritime,Provenance | Grand-Est,-0.046,182
+Essence | Sapin pectiné,Provenance | Bourgogne-Franche-Comté,0.043,182
+Essence | Hêtre,Provenance | Nouvelle-Aquitaine,-0.043,182
+Essence | Résineux,Provenance | Nouvelle-Aquitaine,-0.043,182
+Essence | Hêtre,Provenance | Bourgogne-Franche-Comté,-0.042,182
+Essence | Pin sylvestre,Provenance | Bourgogne-Franche-Comté,-0.041,182
+Essence | Pin sylvestre,Provenance | Asie,0.038,182
+Essence | Chêne,Provenance | Provence-Alpes-Côte-d'Azur,-0.037,182
+Essence | Noyer,Provenance | Nouvelle-Aquitaine,-0.037,182
+Essence | Chêne,Provenance | Asie,-0.037,182
+Essence | Pin sylvestre,Provenance | Grand-Est,0.035,182
+Essence | Pin maritime,Provenance | Bourgogne-Franche-Comté,0.035,182
+Essence | Robinier faux acacia,Provenance | Grand-Est,-0.034,182
+Essence | Noyer,Provenance | France,0.032,182
+Essence | Hêtre,Provenance | Grand-Est,-0.03,182
+Essence | Résineux,Provenance | Grand-Est,-0.03,182
+Essence | Pin maritime,Provenance | Provence-Alpes-Côte-d'Azur,-0.03,182
+Essence | Pin maritime,Provenance | Asie,-0.03,182
+Essence | Douglas,Provenance | France,0.029,182
+Essence | Châtaignier,Provenance | France,-0.028,182
+Essence | Sapin pectiné,Provenance | Centre-Val-de-Loire,0.028,182
+Essence | Châtaignier,Provenance | Provence-Alpes-Côte-d'Azur,-0.024,182
+Essence | Châtaignier,Provenance | Asie,-0.024,182
+Essence | Châtaignier,Provenance | Centre-Val-de-Loire,-0.024,182
+Essence | Frêne,Provenance | Europe,0.023,182
+Essence | Frêne,Provenance | Provence-Alpes-Côte-d'Azur,-0.022,182
+Essence | Robinier faux acacia,Provenance | Provence-Alpes-Côte-d'Azur,-0.022,182
+Essence | Frêne,Provenance | Asie,-0.022,182
+Essence | Robinier faux acacia,Provenance | Asie,-0.022,182
+Essence | Frêne,Provenance | Centre-Val-de-Loire,-0.022,182
+Essence | Robinier faux acacia,Provenance | Centre-Val-de-Loire,-0.022,182
+Essence | Épicéa commun,Provenance | Centre-Val-de-Loire,0.021,182
+Essence | Sapin pectiné,Provenance | Europe,-0.02,182
+Essence | Hêtre,Provenance | Provence-Alpes-Côte-d'Azur,-0.019,182
+Essence | Résineux,Provenance | Provence-Alpes-Côte-d'Azur,-0.019,182
+Essence | Sapin pectiné,Provenance | Nouvelle-Aquitaine,-0.019,182
+Essence | Hêtre,Provenance | Asie,-0.019,182
+Essence | Résineux,Provenance | Asie,-0.019,182
+Essence | Douglas,Provenance | Centre-Val-de-Loire,0.019,182
+Essence | Hêtre,Provenance | Centre-Val-de-Loire,-0.019,182
+Essence | Résineux,Provenance | Centre-Val-de-Loire,-0.019,182
+Essence | Hêtre,Provenance | Auvergne-Rhône-Alpes,-0.017,182
+Essence | Mélèze,Provenance | Bourgogne-Franche-Comté,0.017,182
+Essence | Noyer,Provenance | Provence-Alpes-Côte-d'Azur,-0.017,182
+Essence | Peuplier,Provenance | Asie,-0.017,182
+Essence | Noyer,Provenance | Asie,-0.017,182
+Essence | Peuplier,Provenance | Centre-Val-de-Loire,-0.017,182
+Essence | Chêne,Provenance | Europe,0.013,182
+Essence | Douglas,Provenance | Bourgogne-Franche-Comté,0.012,182
+Essence | Mélèze,Provenance | Auvergne-Rhône-Alpes,0.011,182
+Essence | Chêne,Provenance | France,-0.011,182
+Essence | Épicéa commun,Provenance | Nouvelle-Aquitaine,-0.01,182
+Essence | Épicéa commun,Provenance | Auvergne-Rhône-Alpes,-0.007,182
+Essence | Mélèze,Provenance | France,0.007,182
+Essence | Hêtre,Provenance | France,0.007,182
+Essence | Mélèze,Provenance | Nouvelle-Aquitaine,0.004,182
+Essence | Noyer,Provenance | Europe,-0.001,182
+Essence | Robinier faux acacia,Provenance | Auvergne-Rhône-Alpes,0.001,182

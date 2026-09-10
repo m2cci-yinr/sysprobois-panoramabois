@@ -1,0 +1,4 @@
+segment,expected,actual
+Charpentier / Constructeur / Menuisier -> Projet,179,179
+Provenance -> Scierie / Industriel,179,179
+Scierie / Industriel -> Charpentier / Constructeur / Menuisier,179,179

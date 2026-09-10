@@ -1,0 +1,579 @@
+source,target,value
+Amerique,Industriel - Dept 23,0.5
+Amerique,Industriel - Dept 74,0.5
+Amerique,Scierie - Dept 74,0.5
+Asie,Industriel - Dept 01,0.25
+Asie,Industriel - Dept 74,0.25
+Asie,Scierie - Dept 63,0.5
+Asie,Scierie - Dept 73,0.25
+Asie,Scierie - Dept 74,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 01,2.25
+Auvergne-Rhone-Alpes,Industriel - Dept 03,1
+Auvergne-Rhone-Alpes,Industriel - Dept 07,1.5
+Auvergne-Rhone-Alpes,Industriel - Dept 12,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 13,0.3333333333333333
+Auvergne-Rhone-Alpes,Industriel - Dept 14,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 16,1
+Auvergne-Rhone-Alpes,Industriel - Dept 17,1
+Auvergne-Rhone-Alpes,Industriel - Dept 18,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 22,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 23,6
+Auvergne-Rhone-Alpes,Industriel - Dept 25,1.5
+Auvergne-Rhone-Alpes,Industriel - Dept 26,7.5
+Auvergne-Rhone-Alpes,Industriel - Dept 38,6.5
+Auvergne-Rhone-Alpes,Industriel - Dept 42,1.5
+Auvergne-Rhone-Alpes,Industriel - Dept 43,2
+Auvergne-Rhone-Alpes,Industriel - Dept 44,1
+Auvergne-Rhone-Alpes,Industriel - Dept 45,3
+Auvergne-Rhone-Alpes,Industriel - Dept 63,5
+Auvergne-Rhone-Alpes,Industriel - Dept 67,1.5
+Auvergne-Rhone-Alpes,Industriel - Dept 68,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 69,2.5
+Auvergne-Rhone-Alpes,Industriel - Dept 73,3.0833333333333335
+Auvergne-Rhone-Alpes,Industriel - Dept 74,9.75
+Auvergne-Rhone-Alpes,Industriel - Dept 75,0.5
+Auvergne-Rhone-Alpes,Industriel - Dept 85,5.5
+Auvergne-Rhone-Alpes,Industriel - Dept 93,1
+Auvergne-Rhone-Alpes,Industriel - Dept DE,1
+Auvergne-Rhone-Alpes,Scierie - Dept 01,9.333333333333334
+Auvergne-Rhone-Alpes,Scierie - Dept 03,3
+Auvergne-Rhone-Alpes,Scierie - Dept 05,1
+Auvergne-Rhone-Alpes,Scierie - Dept 07,0.25
+Auvergne-Rhone-Alpes,Scierie - Dept 15,3.5
+Auvergne-Rhone-Alpes,Scierie - Dept 18,0.5
+Auvergne-Rhone-Alpes,Scierie - Dept 19,2
+Auvergne-Rhone-Alpes,Scierie - Dept 23,1.5
+Auvergne-Rhone-Alpes,Scierie - Dept 25,0.25
+Auvergne-Rhone-Alpes,Scierie - Dept 26,17.75
+Auvergne-Rhone-Alpes,Scierie - Dept 27,0.3333333333333333
+Auvergne-Rhone-Alpes,Scierie - Dept 35,2
+Auvergne-Rhone-Alpes,Scierie - Dept 38,48.833333333333336
+Auvergne-Rhone-Alpes,Scierie - Dept 40,0.25
+Auvergne-Rhone-Alpes,Scierie - Dept 42,24.5
+Auvergne-Rhone-Alpes,Scierie - Dept 43,12.25
+Auvergne-Rhone-Alpes,Scierie - Dept 45,1.5
+Auvergne-Rhone-Alpes,Scierie - Dept 58,1
+Auvergne-Rhone-Alpes,Scierie - Dept 63,12
+Auvergne-Rhone-Alpes,Scierie - Dept 68,0.5
+Auvergne-Rhone-Alpes,Scierie - Dept 69,7.25
+Auvergne-Rhone-Alpes,Scierie - Dept 71,0.5
+Auvergne-Rhone-Alpes,Scierie - Dept 73,3.5833333333333335
+Auvergne-Rhone-Alpes,Scierie - Dept 74,10.75
+Auvergne-Rhone-Alpes,Scierie - Dept 85,2.8333333333333335
+Auvergne-Rhone-Alpes,Scierie - Dept 88,1.3333333333333333
+Auvergne-Rhone-Alpes,Scierie - Dept 94,1
+Bourgogne-Franche-Comte,Industriel - Dept 25,1
+Bourgogne-Franche-Comte,Industriel - Dept 73,0.5833333333333333
+Bourgogne-Franche-Comte,Industriel - Dept 74,1
+Bourgogne-Franche-Comte,Scierie - Dept 01,0.3333333333333333
+Bourgogne-Franche-Comte,Scierie - Dept 04,1
+Bourgogne-Franche-Comte,Scierie - Dept 07,0.25
+Bourgogne-Franche-Comte,Scierie - Dept 25,0.75
+Bourgogne-Franche-Comte,Scierie - Dept 26,1.25
+Bourgogne-Franche-Comte,Scierie - Dept 38,2.833333333333333
+Bourgogne-Franche-Comte,Scierie - Dept 40,0.25
+Bourgogne-Franche-Comte,Scierie - Dept 43,0.75
+Bourgogne-Franche-Comte,Scierie - Dept 63,0.5
+Bourgogne-Franche-Comte,Scierie - Dept 69,0.25
+Bourgogne-Franche-Comte,Scierie - Dept 70,1
+Bourgogne-Franche-Comte,Scierie - Dept 71,0.5
+Bourgogne-Franche-Comte,Scierie - Dept 73,0.3333333333333333
+Bourgogne-Franche-Comte,Scierie - Dept 74,0.25
+Bretagne,Industriel - Dept 45,0.5
+Bretagne,Scierie - Dept 26,0.5
+Bretagne,Scierie - Dept 38,1
+Bretagne,Scierie - Dept 42,1
+Bretagne,Scierie - Dept 43,0.5
+Bretagne,Scierie - Dept 45,0.5
+Bretagne,Scierie - Dept 85,0.5
+Centre-Val-de-Loire,Scierie - Dept 18,0.5
+Centre-Val-de-Loire,Scierie - Dept 38,1.8333333333333333
+Centre-Val-de-Loire,Scierie - Dept 74,0.3333333333333333
+Europe,Industriel - Dept 01,0.25
+Europe,Industriel - Dept 07,0.5
+Europe,Industriel - Dept 13,0.3333333333333333
+Europe,Industriel - Dept 14,0.5
+Europe,Industriel - Dept 16,1
+Europe,Industriel - Dept 18,0.5
+Europe,Industriel - Dept 22,0.5
+Europe,Industriel - Dept 23,1.5
+Europe,Industriel - Dept 25,1.5
+Europe,Industriel - Dept 26,2.5
+Europe,Industriel - Dept 31,0.5
+Europe,Industriel - Dept 33,0.3333333333333333
+Europe,Industriel - Dept 38,2.5
+Europe,Industriel - Dept 42,2
+Europe,Industriel - Dept 45,1
+Europe,Industriel - Dept 67,1
+Europe,Industriel - Dept 69,0.5
+Europe,Industriel - Dept 73,3.75
+Europe,Industriel - Dept 74,7.25
+Europe,Industriel - Dept 75,0.5
+Europe,Industriel - Dept 85,0.5
+Europe,Industriel - Dept 88,1
+Europe,Industriel - Dept DE,2
+Europe,Scierie - Dept 01,1.3333333333333333
+Europe,Scierie - Dept 05,1
+Europe,Scierie - Dept 07,0.25
+Europe,Scierie - Dept 19,1.5
+Europe,Scierie - Dept 23,1.5
+Europe,Scierie - Dept 25,1.75
+Europe,Scierie - Dept 26,2.75
+Europe,Scierie - Dept 27,0.8333333333333333
+Europe,Scierie - Dept 30,0.5
+Europe,Scierie - Dept 38,20.666666666666668
+Europe,Scierie - Dept 40,0.25
+Europe,Scierie - Dept 42,4
+Europe,Scierie - Dept 43,1.75
+Europe,Scierie - Dept 45,1
+Europe,Scierie - Dept 63,1.5
+Europe,Scierie - Dept 67,1
+Europe,Scierie - Dept 69,1.25
+Europe,Scierie - Dept 73,1.5833333333333333
+Europe,Scierie - Dept 74,6.75
+Europe,Scierie - Dept 85,0.3333333333333333
+Europe,Scierie - Dept 88,0.3333333333333333
+Europe,Scierie - Dept DE,0.5
+Grand-Est,Industriel - Dept 23,0.5
+Grand-Est,Industriel - Dept 33,0.3333333333333333
+Grand-Est,Industriel - Dept 68,0.5
+Grand-Est,Industriel - Dept 73,0.5833333333333333
+Grand-Est,Scierie - Dept 38,2.5
+Grand-Est,Scierie - Dept 68,0.5
+Grand-Est,Scierie - Dept 74,0.3333333333333333
+Grand-Est,Scierie - Dept 88,0.3333333333333333
+Grand-Est,Scierie - Dept DE,0.5
+Nouvelle-Aquitaine,Industriel - Dept 01,1
+Nouvelle-Aquitaine,Industriel - Dept 12,0.5
+Nouvelle-Aquitaine,Industriel - Dept 13,0.3333333333333333
+Nouvelle-Aquitaine,Industriel - Dept 23,1.5
+Nouvelle-Aquitaine,Industriel - Dept 26,1
+Nouvelle-Aquitaine,Industriel - Dept 31,0.5
+Nouvelle-Aquitaine,Industriel - Dept 33,0.3333333333333333
+Nouvelle-Aquitaine,Industriel - Dept 38,1
+Nouvelle-Aquitaine,Industriel - Dept 42,0.5
+Nouvelle-Aquitaine,Industriel - Dept 45,0.5
+Nouvelle-Aquitaine,Industriel - Dept 63,1
+Nouvelle-Aquitaine,Industriel - Dept 67,0.5
+Nouvelle-Aquitaine,Industriel - Dept 74,1
+Nouvelle-Aquitaine,Scierie - Dept 07,0.25
+Nouvelle-Aquitaine,Scierie - Dept 15,0.5
+Nouvelle-Aquitaine,Scierie - Dept 19,2.5
+Nouvelle-Aquitaine,Scierie - Dept 25,0.25
+Nouvelle-Aquitaine,Scierie - Dept 26,0.25
+Nouvelle-Aquitaine,Scierie - Dept 27,0.8333333333333333
+Nouvelle-Aquitaine,Scierie - Dept 38,0.3333333333333333
+Nouvelle-Aquitaine,Scierie - Dept 40,0.25
+Nouvelle-Aquitaine,Scierie - Dept 42,1.5
+Nouvelle-Aquitaine,Scierie - Dept 43,1.75
+Nouvelle-Aquitaine,Scierie - Dept 63,2.5
+Nouvelle-Aquitaine,Scierie - Dept 69,0.25
+Nouvelle-Aquitaine,Scierie - Dept 74,0.5833333333333333
+Nouvelle-Aquitaine,Scierie - Dept 85,0.3333333333333333
+Pays-de-la-Loire,Industriel - Dept 01,0.25
+Pays-de-la-Loire,Industriel - Dept 74,0.25
+Pays-de-la-Loire,Industriel - Dept 85,1
+Pays-de-la-Loire,Scierie - Dept 73,0.25
+Provence-Alpes-Cote-d'Azur,Scierie - Dept 26,0.5
+Provence-Alpes-Cote-d'Azur,Scierie - Dept 30,0.5
+Provence-Alpes-Cote-d'Azur,Scierie - Dept 38,1
+Industriel - Dept 01,Charpentier - Dept 01,0.5
+Industriel - Dept 01,Charpentier - Dept 73,0.5
+Industriel - Dept 01,Charpentier - Dept 74,1
+Industriel - Dept 01,Menuisier - Dept 01,1.5
+Industriel - Dept 01,Menuisier - Dept 73,0.5
+Industriel - Dept 03,Charpentier - Dept 63,0.5
+Industriel - Dept 03,Menuisier - Dept 63,0.5
+Industriel - Dept 07,Charpentier - Dept 38,1.3333333333333333
+Industriel - Dept 07,Menuisier - Dept 38,0.6666666666666666
+Industriel - Dept 12,Charpentier - Dept 63,0.3333333333333333
+Industriel - Dept 12,Constructeur bois - Dept 12,0.3333333333333333
+Industriel - Dept 12,Menuisier - Dept 43,0.3333333333333333
+Industriel - Dept 13,Charpentier - Dept 74,0.5
+Industriel - Dept 13,Menuisier - Dept 38,0.5
+Industriel - Dept 14,Charpentier - Dept 74,0.3333333333333333
+Industriel - Dept 14,Menuisier - Dept 38,0.6666666666666666
+Industriel - Dept 16,Charpentier - Dept 38,0.8333333333333333
+Industriel - Dept 16,Menuisier - Dept 38,1.1666666666666665
+Industriel - Dept 17,Charpentier - Dept 69,0.5
+Industriel - Dept 17,Menuisier - Dept 69,0.5
+Industriel - Dept 18,Charpentier - Dept 63,0.5
+Industriel - Dept 18,Constructeur bois - Dept 63,0.5
+Industriel - Dept 22,Charpentier - Dept 38,0.5
+Industriel - Dept 22,Menuisier - Dept 38,0.5
+Industriel - Dept 23,Charpentier - Dept 19,0.5
+Industriel - Dept 23,Charpentier - Dept 38,2.1666666666666665
+Industriel - Dept 23,Charpentier - Dept 43,0.5
+Industriel - Dept 23,Charpentier - Dept 73,0.3333333333333333
+Industriel - Dept 23,Charpentier - Dept 74,1.3333333333333333
+Industriel - Dept 23,Constructeur bois - Dept 73,0.3333333333333333
+Industriel - Dept 23,Constructeur bois - Dept 74,0.3333333333333333
+Industriel - Dept 23,Menuisier - Dept 01,0.5
+Industriel - Dept 23,Menuisier - Dept 19,0.5
+Industriel - Dept 23,Menuisier - Dept 38,2
+Industriel - Dept 23,Menuisier - Dept 43,0.5
+Industriel - Dept 23,Menuisier - Dept 69,0.3333333333333333
+Industriel - Dept 23,Menuisier - Dept 74,0.6666666666666666
+Industriel - Dept 25,Charpentier - Dept 07,0.5
+Industriel - Dept 25,Charpentier - Dept 42,0.5
+Industriel - Dept 25,Charpentier - Dept 73,0.5
+Industriel - Dept 25,Constructeur bois - Dept 07,0.5
+Industriel - Dept 25,Constructeur bois - Dept 70,1
+Industriel - Dept 25,Menuisier - Dept 42,0.5
+Industriel - Dept 25,Menuisier - Dept 74,0.5
+Industriel - Dept 26,Charpentier - Dept 07,1.5
+Industriel - Dept 26,Charpentier - Dept 26,0.3333333333333333
+Industriel - Dept 26,Charpentier - Dept 38,1.8333333333333333
+Industriel - Dept 26,Charpentier - Dept 42,2.5
+Industriel - Dept 26,Charpentier - Dept 43,0.5
+Industriel - Dept 26,Constructeur bois - Dept 07,0.5
+Industriel - Dept 26,Constructeur bois - Dept 43,0.5
+Industriel - Dept 26,Menuisier - Dept 38,2.833333333333333
+Industriel - Dept 26,Menuisier - Dept 42,0.5
+Industriel - Dept 31,Constructeur bois - Dept 26,0.3333333333333333
+Industriel - Dept 31,Menuisier - Dept 26,0.6666666666666666
+Industriel - Dept 33,Charpentier - Dept 24,0.3333333333333333
+Industriel - Dept 33,Constructeur bois - Dept 24,0.3333333333333333
+Industriel - Dept 33,Menuisier - Dept 24,0.3333333333333333
+Industriel - Dept 38,Charpentier - Dept 26,0.3333333333333333
+Industriel - Dept 38,Charpentier - Dept 38,5.083333333333333
+Industriel - Dept 38,Charpentier - Dept 73,0.5
+Industriel - Dept 38,Menuisier - Dept 05,0.25
+Industriel - Dept 38,Menuisier - Dept 38,3.833333333333333
+Industriel - Dept 42,Charpentier - Dept 38,0.5
+Industriel - Dept 42,Charpentier - Dept 74,0.5
+Industriel - Dept 42,Constructeur bois - Dept 26,0.3333333333333333
+Industriel - Dept 42,Menuisier - Dept 05,0.5
+Industriel - Dept 42,Menuisier - Dept 26,0.6666666666666666
+Industriel - Dept 42,Menuisier - Dept 38,1
+Industriel - Dept 42,Menuisier - Dept 74,0.5
+Industriel - Dept 43,Charpentier - Dept 48,0.5
+Industriel - Dept 43,Charpentier - Dept 63,0.3333333333333333
+Industriel - Dept 43,Constructeur bois - Dept 48,0.5
+Industriel - Dept 43,Menuisier - Dept 43,0.3333333333333333
+Industriel - Dept 43,Menuisier - Dept 63,0.3333333333333333
+Industriel - Dept 44,Charpentier - Dept 42,0.5
+Industriel - Dept 44,Menuisier - Dept 69,0.5
+Industriel - Dept 45,Charpentier - Dept 38,1
+Industriel - Dept 45,Charpentier - Dept 42,0.5
+Industriel - Dept 45,Charpentier - Dept 54,1
+Industriel - Dept 45,Constructeur bois - Dept 26,0.3333333333333333
+Industriel - Dept 45,Menuisier - Dept 26,0.6666666666666666
+Industriel - Dept 45,Menuisier - Dept 38,1
+Industriel - Dept 45,Menuisier - Dept 42,0.5
+Industriel - Dept 63,Charpentier - Dept 15,2.5
+Industriel - Dept 63,Charpentier - Dept 43,0.5
+Industriel - Dept 63,Charpentier - Dept 69,1
+Industriel - Dept 63,Menuisier - Dept 15,2
+Industriel - Dept 67,Charpentier - Dept 38,1.5
+Industriel - Dept 67,Constructeur bois - Dept 26,0.3333333333333333
+Industriel - Dept 67,Menuisier - Dept 26,0.6666666666666666
+Industriel - Dept 67,Menuisier - Dept 38,0.5
+Industriel - Dept 68,Charpentier - Dept 73,0.3333333333333333
+Industriel - Dept 68,Menuisier - Dept 69,0.3333333333333333
+Industriel - Dept 68,Menuisier - Dept 73,0.3333333333333333
+Industriel - Dept 69,Charpentier - Dept 01,1
+Industriel - Dept 69,Charpentier - Dept 38,0.25
+Industriel - Dept 69,Constructeur bois - Dept 69,1
+Industriel - Dept 69,Menuisier - Dept 05,0.25
+Industriel - Dept 69,Menuisier - Dept 38,0.5
+Industriel - Dept 73,Charpentier - Dept 38,1.8333333333333333
+Industriel - Dept 73,Charpentier - Dept 73,1.0833333333333333
+Industriel - Dept 73,Charpentier - Dept 94,0.25
+Industriel - Dept 73,Constructeur bois - Dept 73,0.5833333333333333
+Industriel - Dept 73,Menuisier - Dept 38,3.6666666666666665
+Industriel - Dept 73,Menuisier - Dept 73,0.5833333333333333
+Industriel - Dept 74,Charpentier - Dept 01,1
+Industriel - Dept 74,Charpentier - Dept 07,0.3333333333333333
+Industriel - Dept 74,Charpentier - Dept 25,0.3333333333333333
+Industriel - Dept 74,Charpentier - Dept 38,3.0833333333333335
+Industriel - Dept 74,Charpentier - Dept 63,0.5
+Industriel - Dept 74,Charpentier - Dept 73,1.5
+Industriel - Dept 74,Charpentier - Dept 74,4.166666666666666
+Industriel - Dept 74,Constructeur bois - Dept 07,0.3333333333333333
+Industriel - Dept 74,Constructeur bois - Dept 42,1
+Industriel - Dept 74,Constructeur bois - Dept 74,1.3333333333333333
+Industriel - Dept 74,Menuisier - Dept 05,0.25
+Industriel - Dept 74,Menuisier - Dept 38,2
+Industriel - Dept 74,Menuisier - Dept 63,0.5
+Industriel - Dept 74,Menuisier - Dept 73,0.5
+Industriel - Dept 74,Menuisier - Dept 74,3.1666666666666665
+Industriel - Dept 75,Charpentier - Dept 38,0.5
+Industriel - Dept 75,Menuisier - Dept 38,0.5
+Industriel - Dept 85,Charpentier - Dept 12,0.5
+Industriel - Dept 85,Charpentier - Dept 38,1.5
+Industriel - Dept 85,Charpentier - Dept 42,1
+Industriel - Dept 85,Charpentier - Dept 63,0.5
+Industriel - Dept 85,Charpentier - Dept 73,0.5
+Industriel - Dept 85,Menuisier - Dept 38,1.5
+Industriel - Dept 85,Menuisier - Dept 42,1
+Industriel - Dept 85,Menuisier - Dept 73,0.5
+Industriel - Dept 88,Charpentier - Dept 01,1
+Industriel - Dept 93,Charpentier - Dept 38,1
+Industriel - Dept DE,Charpentier - Dept 01,1
+Industriel - Dept DE,Charpentier - Dept 69,1
+Industriel - Dept DE,Charpentier - Dept 74,0.3333333333333333
+Industriel - Dept DE,Menuisier - Dept 38,0.6666666666666666
+Scierie - Dept 01,Charpentier - Dept 01,5.333333333333333
+Scierie - Dept 01,Charpentier - Dept 38,0.5
+Scierie - Dept 01,Charpentier - Dept 43,0.5
+Scierie - Dept 01,Charpentier - Dept 73,0.3333333333333333
+Scierie - Dept 01,Charpentier - Dept 74,1
+Scierie - Dept 01,Constructeur bois - Dept 01,0.5
+Scierie - Dept 01,Constructeur bois - Dept 73,0.3333333333333333
+Scierie - Dept 01,Menuisier - Dept 01,1.1666666666666665
+Scierie - Dept 01,Menuisier - Dept 38,0.8333333333333333
+Scierie - Dept 01,Menuisier - Dept 43,0.5
+Scierie - Dept 03,Charpentier - Dept 03,1
+Scierie - Dept 03,Charpentier - Dept 63,0.5
+Scierie - Dept 03,Constructeur bois - Dept 08,0.5
+Scierie - Dept 03,Constructeur bois - Dept 38,0.5
+Scierie - Dept 03,Menuisier - Dept 63,0.5
+Scierie - Dept 04,Constructeur bois - Dept 04,1
+Scierie - Dept 05,Charpentier - Dept 38,0.5
+Scierie - Dept 05,Menuisier - Dept 05,0.5
+Scierie - Dept 05,Menuisier - Dept 38,1
+Scierie - Dept 07,Charpentier - Dept 07,0.3333333333333333
+Scierie - Dept 07,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 15,Charpentier - Dept 15,2.5
+Scierie - Dept 15,Menuisier - Dept 15,1
+Scierie - Dept 15,Menuisier - Dept 43,0.5
+Scierie - Dept 18,Menuisier - Dept 38,1
+Scierie - Dept 19,Charpentier - Dept 01,1
+Scierie - Dept 19,Charpentier - Dept 19,1.5
+Scierie - Dept 19,Charpentier - Dept 38,0.5
+Scierie - Dept 19,Charpentier - Dept 74,0.5
+Scierie - Dept 19,Menuisier - Dept 19,1.5
+Scierie - Dept 19,Menuisier - Dept 38,1
+Scierie - Dept 23,Charpentier - Dept 63,1
+Scierie - Dept 23,Charpentier - Dept 73,0.5
+Scierie - Dept 23,Menuisier - Dept 38,0.5
+Scierie - Dept 23,Menuisier - Dept 42,0.5
+Scierie - Dept 23,Menuisier - Dept 63,0.5
+Scierie - Dept 25,Charpentier - Dept 07,0.3333333333333333
+Scierie - Dept 25,Charpentier - Dept 38,0.5
+Scierie - Dept 25,Constructeur bois - Dept 69,1
+Scierie - Dept 25,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 25,Menuisier - Dept 38,0.5
+Scierie - Dept 26,Charpentier - Dept 07,1.8333333333333333
+Scierie - Dept 26,Charpentier - Dept 26,0.5
+Scierie - Dept 26,Charpentier - Dept 38,9.333333333333334
+Scierie - Dept 26,Charpentier - Dept 69,0.3333333333333333
+Scierie - Dept 26,Charpentier - Dept 74,0.3333333333333333
+Scierie - Dept 26,Constructeur bois - Dept 07,0.5
+Scierie - Dept 26,Menuisier - Dept 07,1
+Scierie - Dept 26,Menuisier - Dept 26,0.5
+Scierie - Dept 26,Menuisier - Dept 38,7.333333333333333
+Scierie - Dept 26,Menuisier - Dept 42,0.3333333333333333
+Scierie - Dept 26,Menuisier - Dept 69,0.6666666666666666
+Scierie - Dept 26,Menuisier - Dept 74,0.3333333333333333
+Scierie - Dept 27,Charpentier - Dept 01,1.3333333333333333
+Scierie - Dept 27,Charpentier - Dept 69,0.3333333333333333
+Scierie - Dept 27,Menuisier - Dept 38,0.3333333333333333
+Scierie - Dept 30,Menuisier - Dept 38,1
+Scierie - Dept 35,Charpentier - Dept 38,0.3333333333333333
+Scierie - Dept 35,Constructeur bois - Dept 38,0.3333333333333333
+Scierie - Dept 35,Menuisier - Dept 01,1
+Scierie - Dept 35,Menuisier - Dept 38,0.3333333333333333
+Scierie - Dept 38,Charpentier - Dept 26,0.8333333333333333
+Scierie - Dept 38,Charpentier - Dept 38,36.916666666666664
+Scierie - Dept 38,Charpentier - Dept 54,1
+Scierie - Dept 38,Charpentier - Dept 69,0.5
+Scierie - Dept 38,Charpentier - Dept 73,2.5833333333333335
+Scierie - Dept 38,Charpentier - Dept 74,0.8333333333333333
+Scierie - Dept 38,Constructeur bois - Dept 38,1.6666666666666665
+Scierie - Dept 38,Constructeur bois - Dept 73,0.3333333333333333
+Scierie - Dept 38,Menuisier - Dept 01,0.5
+Scierie - Dept 38,Menuisier - Dept 05,0.5
+Scierie - Dept 38,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 38,Menuisier - Dept 26,0.5
+Scierie - Dept 38,Menuisier - Dept 38,29.666666666666668
+Scierie - Dept 38,Menuisier - Dept 69,1.1666666666666665
+Scierie - Dept 38,Menuisier - Dept 73,0.3333333333333333
+Scierie - Dept 38,Menuisier - Dept 74,0.6666666666666666
+Scierie - Dept 38,Menuisier - Dept 94,0.3333333333333333
+Scierie - Dept 40,Charpentier - Dept 07,0.3333333333333333
+Scierie - Dept 40,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 42,Charpentier - Dept 42,19.833333333333332
+Scierie - Dept 42,Charpentier - Dept 43,0.5
+Scierie - Dept 42,Charpentier - Dept 69,0.3333333333333333
+Scierie - Dept 42,Menuisier - Dept 01,0.5
+Scierie - Dept 42,Menuisier - Dept 15,0.5
+Scierie - Dept 42,Menuisier - Dept 42,7.5
+Scierie - Dept 42,Menuisier - Dept 69,1.8333333333333333
+Scierie - Dept 43,Charpentier - Dept 07,0.3333333333333333
+Scierie - Dept 43,Charpentier - Dept 12,0.5
+Scierie - Dept 43,Charpentier - Dept 15,3.5
+Scierie - Dept 43,Charpentier - Dept 38,1
+Scierie - Dept 43,Charpentier - Dept 42,1
+Scierie - Dept 43,Charpentier - Dept 43,1.5
+Scierie - Dept 43,Charpentier - Dept 63,1.5
+Scierie - Dept 43,Charpentier - Dept 69,0.3333333333333333
+Scierie - Dept 43,Constructeur bois - Dept 43,0.5
+Scierie - Dept 43,Constructeur bois - Dept 45,0.3333333333333333
+Scierie - Dept 43,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 43,Menuisier - Dept 15,1.5
+Scierie - Dept 43,Menuisier - Dept 26,0.3333333333333333
+Scierie - Dept 43,Menuisier - Dept 38,0.3333333333333333
+Scierie - Dept 43,Menuisier - Dept 42,2
+Scierie - Dept 43,Menuisier - Dept 43,0.5
+Scierie - Dept 43,Menuisier - Dept 63,0.5
+Scierie - Dept 43,Menuisier - Dept 69,0.6666666666666666
+Scierie - Dept 45,Charpentier - Dept 38,1.3333333333333333
+Scierie - Dept 45,Constructeur bois - Dept 38,0.3333333333333333
+Scierie - Dept 45,Menuisier - Dept 38,1.3333333333333333
+Scierie - Dept 58,Charpentier - Dept 63,0.5
+Scierie - Dept 58,Menuisier - Dept 42,0.5
+Scierie - Dept 63,Charpentier - Dept 07,0.6666666666666666
+Scierie - Dept 63,Charpentier - Dept 12,0.5
+Scierie - Dept 63,Charpentier - Dept 15,4
+Scierie - Dept 63,Charpentier - Dept 42,1
+Scierie - Dept 63,Charpentier - Dept 43,0.5
+Scierie - Dept 63,Charpentier - Dept 63,3.3333333333333335
+Scierie - Dept 63,Constructeur bois - Dept 63,1.3333333333333333
+Scierie - Dept 63,Menuisier - Dept 07,1.3333333333333333
+Scierie - Dept 63,Menuisier - Dept 15,2.5
+Scierie - Dept 63,Menuisier - Dept 42,0.8333333333333333
+Scierie - Dept 63,Menuisier - Dept 63,1
+Scierie - Dept 67,Charpentier - Dept 38,0.5
+Scierie - Dept 67,Menuisier - Dept 38,0.5
+Scierie - Dept 68,Charpentier - Dept 73,0.3333333333333333
+Scierie - Dept 68,Menuisier - Dept 69,0.3333333333333333
+Scierie - Dept 68,Menuisier - Dept 73,0.3333333333333333
+Scierie - Dept 69,Charpentier - Dept 07,1.3333333333333333
+Scierie - Dept 69,Charpentier - Dept 69,3.5
+Scierie - Dept 69,Charpentier - Dept 73,0.5
+Scierie - Dept 69,Constructeur bois - Dept 69,1
+Scierie - Dept 69,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 69,Menuisier - Dept 38,0.5
+Scierie - Dept 69,Menuisier - Dept 69,1.5
+Scierie - Dept 70,Constructeur bois - Dept 70,1
+Scierie - Dept 71,Menuisier - Dept 38,1
+Scierie - Dept 73,Charpentier - Dept 38,1.5833333333333333
+Scierie - Dept 73,Charpentier - Dept 73,0.75
+Scierie - Dept 73,Charpentier - Dept 94,0.6666666666666666
+Scierie - Dept 73,Constructeur bois - Dept 38,0.3333333333333333
+Scierie - Dept 73,Menuisier - Dept 38,1.8333333333333333
+Scierie - Dept 73,Menuisier - Dept 69,0.3333333333333333
+Scierie - Dept 73,Menuisier - Dept 73,0.5
+Scierie - Dept 74,Charpentier - Dept 07,0.3333333333333333
+Scierie - Dept 74,Charpentier - Dept 38,1.6666666666666665
+Scierie - Dept 74,Charpentier - Dept 73,0.5
+Scierie - Dept 74,Charpentier - Dept 74,6.166666666666666
+Scierie - Dept 74,Constructeur bois - Dept 38,0.6666666666666666
+Scierie - Dept 74,Constructeur bois - Dept 74,2
+Scierie - Dept 74,Menuisier - Dept 07,0.6666666666666666
+Scierie - Dept 74,Menuisier - Dept 38,2.1666666666666665
+Scierie - Dept 74,Menuisier - Dept 74,5.833333333333333
+Scierie - Dept 85,Charpentier - Dept 01,0.3333333333333333
+Scierie - Dept 85,Charpentier - Dept 38,1.3333333333333333
+Scierie - Dept 85,Charpentier - Dept 69,0.3333333333333333
+Scierie - Dept 85,Constructeur bois - Dept 38,0.3333333333333333
+Scierie - Dept 85,Menuisier - Dept 38,1.6666666666666665
+Scierie - Dept 88,Charpentier - Dept 38,0.5
+Scierie - Dept 88,Charpentier - Dept 73,0.5
+Scierie - Dept 88,Menuisier - Dept 38,0.5
+Scierie - Dept 88,Menuisier - Dept 44,0.5
+Scierie - Dept 94,Charpentier - Dept 38,1
+Scierie - Dept DE,Charpentier - Dept 73,0.3333333333333333
+Scierie - Dept DE,Constructeur bois - Dept 73,0.3333333333333333
+Scierie - Dept DE,Menuisier - Dept 69,0.3333333333333333
+Charpentier - Dept 01,Projet - Dept 01,4
+Charpentier - Dept 01,Projet - Dept 38,1
+Charpentier - Dept 01,Projet - Dept 69,3
+Charpentier - Dept 03,Projet - Dept 03,1
+Charpentier - Dept 07,Projet - Dept 07,3
+Charpentier - Dept 07,Projet - Dept 26,2
+Charpentier - Dept 07,Projet - Dept 69,1
+Charpentier - Dept 12,Projet - Dept 15,1
+Charpentier - Dept 15,Projet - Dept 15,3
+Charpentier - Dept 15,Projet - Dept 63,1
+Charpentier - Dept 19,Projet - Dept 63,2
+Charpentier - Dept 24,Projet - Dept 07,1
+Charpentier - Dept 25,Projet - Dept 07,1
+Charpentier - Dept 26,Projet - Dept 26,1
+Charpentier - Dept 26,Projet - Dept 38,1
+Charpentier - Dept 38,Projet - Dept 26,1
+Charpentier - Dept 38,Projet - Dept 38,62
+Charpentier - Dept 38,Projet - Dept 69,2
+Charpentier - Dept 38,Projet - Dept 73,1
+Charpentier - Dept 42,Projet - Dept 42,14
+Charpentier - Dept 42,Projet - Dept 63,2
+Charpentier - Dept 42,Projet - Dept 69,8
+Charpentier - Dept 43,Projet - Dept 43,4
+Charpentier - Dept 43,Projet - Dept 63,1
+Charpentier - Dept 48,Projet - Dept 43,1
+Charpentier - Dept 54,Projet - Dept 38,1
+Charpentier - Dept 63,Projet - Dept 15,1
+Charpentier - Dept 63,Projet - Dept 63,10
+Charpentier - Dept 69,Projet - Dept 38,1
+Charpentier - Dept 69,Projet - Dept 63,1
+Charpentier - Dept 69,Projet - Dept 69,7
+Charpentier - Dept 73,Projet - Dept 01,2
+Charpentier - Dept 73,Projet - Dept 26,1
+Charpentier - Dept 73,Projet - Dept 38,4
+Charpentier - Dept 73,Projet - Dept 69,1
+Charpentier - Dept 73,Projet - Dept 73,4
+Charpentier - Dept 73,Projet - Dept 74,1
+Charpentier - Dept 74,Projet - Dept 01,1
+Charpentier - Dept 74,Projet - Dept 38,2
+Charpentier - Dept 74,Projet - Dept 73,1
+Charpentier - Dept 74,Projet - Dept 74,10
+Charpentier - Dept 94,Projet - Dept 26,1
+Charpentier - Dept 94,Projet - Dept 38,2
+Constructeur bois - Dept 01,Projet - Dept 69,1
+Constructeur bois - Dept 04,Projet - Dept 69,1
+Constructeur bois - Dept 07,Projet - Dept 07,2
+Constructeur bois - Dept 07,Projet - Dept 26,1
+Constructeur bois - Dept 08,Projet - Dept 42,1
+Constructeur bois - Dept 12,Projet - Dept 63,1
+Constructeur bois - Dept 24,Projet - Dept 07,1
+Constructeur bois - Dept 26,Projet - Dept 26,1
+Constructeur bois - Dept 38,Projet - Dept 38,5
+Constructeur bois - Dept 38,Projet - Dept 42,1
+Constructeur bois - Dept 42,Projet - Dept 73,1
+Constructeur bois - Dept 43,Projet - Dept 43,1
+Constructeur bois - Dept 45,Projet - Dept 38,1
+Constructeur bois - Dept 48,Projet - Dept 43,1
+Constructeur bois - Dept 63,Projet - Dept 63,3
+Constructeur bois - Dept 69,Projet - Dept 69,3
+Constructeur bois - Dept 70,Projet - Dept 63,1
+Constructeur bois - Dept 73,Projet - Dept 26,1
+Constructeur bois - Dept 73,Projet - Dept 38,1
+Constructeur bois - Dept 73,Projet - Dept 69,1
+Constructeur bois - Dept 73,Projet - Dept 73,1
+Constructeur bois - Dept 74,Projet - Dept 74,4
+Menuisier - Dept 01,Projet - Dept 01,5
+Menuisier - Dept 01,Projet - Dept 38,1
+Menuisier - Dept 01,Projet - Dept 69,1
+Menuisier - Dept 05,Projet - Dept 38,1
+Menuisier - Dept 07,Projet - Dept 07,2
+Menuisier - Dept 07,Projet - Dept 26,1
+Menuisier - Dept 15,Projet - Dept 15,2
+Menuisier - Dept 15,Projet - Dept 63,1
+Menuisier - Dept 19,Projet - Dept 63,2
+Menuisier - Dept 24,Projet - Dept 07,1
+Menuisier - Dept 26,Projet - Dept 26,3
+Menuisier - Dept 26,Projet - Dept 38,1
+Menuisier - Dept 38,Projet - Dept 03,1
+Menuisier - Dept 38,Projet - Dept 38,60
+Menuisier - Dept 38,Projet - Dept 69,1
+Menuisier - Dept 38,Projet - Dept 73,3
+Menuisier - Dept 42,Projet - Dept 42,10
+Menuisier - Dept 42,Projet - Dept 43,1
+Menuisier - Dept 42,Projet - Dept 63,2
+Menuisier - Dept 42,Projet - Dept 69,4
+Menuisier - Dept 43,Projet - Dept 43,2
+Menuisier - Dept 43,Projet - Dept 63,3
+Menuisier - Dept 44,Projet - Dept 01,1
+Menuisier - Dept 63,Projet - Dept 63,5
+Menuisier - Dept 69,Projet - Dept 01,1
+Menuisier - Dept 69,Projet - Dept 26,1
+Menuisier - Dept 69,Projet - Dept 38,1
+Menuisier - Dept 69,Projet - Dept 69,10
+Menuisier - Dept 73,Projet - Dept 01,1
+Menuisier - Dept 73,Projet - Dept 26,1
+Menuisier - Dept 73,Projet - Dept 73,3
+Menuisier - Dept 74,Projet - Dept 38,1
+Menuisier - Dept 74,Projet - Dept 74,10
+Menuisier - Dept 94,Projet - Dept 38,1

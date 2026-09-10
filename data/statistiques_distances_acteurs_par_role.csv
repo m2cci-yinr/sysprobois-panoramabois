@@ -1,0 +1,6 @@
+groupe,nb_liaisons,nb_acteurs,nb_projets,distance_min_km,distance_q25_km,distance_mediane_km,distance_q75_km,distance_max_km
+Tous les acteurs,1340,764,177,0,8.34,28.39,76.06,738.83
+Maître d'ouvrage,150,130,135,0.01,0.21,0.95,6.05,369.08
+Études et ingénieries,549,321,170,0,10.29,30.17,82.18,603.78
+entreprise de construction,321,199,169,0.05,8.41,21.78,47.34,634.95
+entreprises de transformation,343,147,170,0.07,24.35,55.99,137.32,738.83

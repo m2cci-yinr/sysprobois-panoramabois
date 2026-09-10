@@ -1,0 +1,1868 @@
+﻿id_projet,categorie,sous_categorie,produit,essence,provenance
+1000,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+1000,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+1000,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1000,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+1014,,Liste des produits,Mobilier,Tempéré,Europe
+1014,,Liste des produits,Pieux / tuteurs / piquets,Châtaignier,Europe
+1014,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1014,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Grand-Est
+1014,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Grand-Est
+1014,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Épicéa commun,Grand-Est
+1014,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Frêne,Grand-Est
+1021,,Liste des produits,Panneau massif d'agencement,Peuplier,Aucune
+1021,,Liste des produits,Panneau massif d'agencement,Bouleau,Aucune
+1025,,Liste des produits,Mobilier,Douglas,Auvergne-Rhône-Alpes
+1062,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Grand-Est
+1062,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Grand-Est
+1062,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Grand-Est
+1062,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Grand-Est
+1062,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Grand-Est
+1066,,Liste des produits,Panneau massif d'agencement,Peuplier,Auvergne-Rhône-Alpes
+1066,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Peuplier,Auvergne-Rhône-Alpes
+1066,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+1066,Structure bois du bâtiment,Structure horizontale,Non précisé,Peuplier,Auvergne-Rhône-Alpes
+1066,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1066,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+1066,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin laricio,Auvergne-Rhône-Alpes
+1067,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1067,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Douglas,Auvergne-Rhône-Alpes
+1067,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+1086,,Liste des produits,Escalier,Chêne,Bourgogne-Franche-Comté
+1086,,Liste des produits,Lambris,Sapin pectiné,Bourgogne-Franche-Comté
+1086,,Liste des produits,Mobilier,Sapin pectiné,Bourgogne-Franche-Comté
+1086,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Nouvelle-Aquitaine
+1086,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Sapin pectiné,Auvergne-Rhône-Alpes
+1086,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+1137,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1137,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+1137,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+1137,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1137,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+1238,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+1238,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Auvergne-Rhône-Alpes
+1238,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1238,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1238,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+1239,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Tempéré,Aucune
+1239,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Aucune
+1239,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Aucune
+1239,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Europe
+1252,,Liste des produits,Mobilier,Chêne,Bourgogne-Franche-Comté
+1252,,Liste des produits,Escalier,Chêne,Bourgogne-Franche-Comté
+1252,,Liste des produits,Parquet,Chêne,Grand-Est
+1252,,Liste des produits,Panneau acoustique,Châtaignier,Auvergne-Rhône-Alpes
+1252,,Liste des produits,Lame de terrasse,Châtaignier,Auvergne-Rhône-Alpes
+1252,,Liste des produits,Ganivelle,Châtaignier,Auvergne-Rhône-Alpes
+1252,,Liste des produits,Pieux / tuteurs / piquets,Châtaignier,Auvergne-Rhône-Alpes
+1254,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+1254,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Pin sylvestre,Auvergne-Rhône-Alpes
+1254,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+1254,Structure bois du bâtiment,Charpente,Panneau massif,Pin sylvestre,Auvergne-Rhône-Alpes
+1254,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+1258,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+1258,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+1258,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+1258,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+1261,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+1261,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+1261,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1261,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1269,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+1269,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+1269,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1269,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+128,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Mélèze,Europe
+128,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1284,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Europe
+1284,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+1284,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1284,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+1284,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+1286,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+1286,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-acier,Douglas,Auvergne-Rhône-Alpes
+1286,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1286,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Douglas,Auvergne-Rhône-Alpes
+1306,,Liste des produits,Escalier,Chêne,Europe
+1306,,Liste des produits,Lambris,Épicéa commun,Europe
+1306,,Liste des produits,Installation,Chêne,Bourgogne-Franche-Comté
+1306,,Liste des produits,Escalier,Épicéa commun,Europe
+1306,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+1306,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1306,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+131,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Auvergne-Rhône-Alpes
+131,Structure bois du bâtiment,Charpente,Charpente industrielle,Épicéa commun,Auvergne-Rhône-Alpes
+131,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+1315,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1315,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+1315,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+1315,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+1315,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1315,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1315,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+1331,,Liste des produits,Panneau acoustique,Peuplier,Europe
+1331,,Liste des produits,Traverse paysagère,Douglas,Provence-Alpes-Côte-d'Azur
+1340,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Europe
+1340,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Pin sylvestre,Europe
+1340,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+1340,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+1376,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+1376,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+1376,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1380,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,France
+1380,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+1388,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Pin sylvestre,Europe
+1388,Structure bois du bâtiment,Structure horizontale,Non précisé,Mélèze,Europe
+1388,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Europe
+1388,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1399,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1399,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1399,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+1399,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Douglas,Auvergne-Rhône-Alpes
+1400,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1400,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+1402,,Liste des produits,Mobilier,Épicéa commun,France
+1402,,Liste des produits,Panneau acoustique,Pin sylvestre,France
+1402,,Liste des produits,Panneau massif d'agencement,Épicéa commun,France
+1402,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+1402,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,France
+1415,,Liste des produits,Abri de jardin / Carport,Sapin pectiné,Auvergne-Rhône-Alpes
+1423,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+1423,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+1423,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+1423,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+146,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+146,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+146,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Mélèze,Europe
+146,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Châtaignier,Auvergne-Rhône-Alpes
+1466,,Liste des produits,Mobilier,Mélèze,Auvergne-Rhône-Alpes
+1467,,Liste des produits,Mobilier,Sapin pectiné,Auvergne-Rhône-Alpes
+1468,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+1468,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+1468,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1469,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+1469,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1469,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+1469,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Mélèze,Auvergne-Rhône-Alpes
+1469,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+1487,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Bourgogne-Franche-Comté
+1487,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Bourgogne-Franche-Comté
+1487,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Bourgogne-Franche-Comté
+1487,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Bourgogne-Franche-Comté
+1487,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Bourgogne-Franche-Comté
+1487,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,France
+15,,Liste des produits,Escalier,Hêtre,Auvergne-Rhône-Alpes
+15,,Liste des produits,Mobilier,Hêtre,Auvergne-Rhône-Alpes
+15,,Liste des produits,Panneau acoustique,Mélèze,Auvergne-Rhône-Alpes
+15,,Liste des produits,Panneau massif d'agencement,Hêtre,Auvergne-Rhône-Alpes
+15,,Liste des produits,Parquet,Pin sylvestre,Auvergne-Rhône-Alpes
+1509,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+1513,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Châtaignier,Auvergne-Rhône-Alpes
+1523,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Europe
+1565,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+1565,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+1565,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Bourgogne-Franche-Comté
+1565,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Douglas,Auvergne-Rhône-Alpes
+1575,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1575,Structure bois du bâtiment,Structure horizontale,Dalle bois,Douglas,Auvergne-Rhône-Alpes
+1575,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1575,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1575,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+1577,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1577,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+1577,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+1577,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Frêne,France
+1577,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+1586,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Nouvelle-Aquitaine
+1586,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Nouvelle-Aquitaine
+1588,,Liste des produits,Escalier,Hêtre,Bourgogne-Franche-Comté
+1588,,Liste des produits,Mobilier,Bouleau,Europe
+1588,,Liste des produits,Parquet,Chêne,Bourgogne-Franche-Comté
+1592,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+1592,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+1592,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Asie
+1597,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,France
+1597,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+1597,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,France
+1597,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+1598,,Liste des produits,Abri de jardin / Carport,Douglas,Auvergne-Rhône-Alpes
+1598,,Liste des produits,Pieux / tuteurs / piquets,Pin sylvestre,Auvergne-Rhône-Alpes
+1600,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1600,Structure bois du bâtiment,Structure horizontale,Dalle bois,Douglas,Auvergne-Rhône-Alpes
+1600,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1600,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1600,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1600,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Chêne,Auvergne-Rhône-Alpes
+1647,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Bourgogne-Franche-Comté
+1647,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Sapin pectiné,Bourgogne-Franche-Comté
+1647,Structure bois du bâtiment,Charpente,Charpente industrielle,Sapin pectiné,Bourgogne-Franche-Comté
+1647,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Bourgogne-Franche-Comté
+1647,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Bourgogne-Franche-Comté
+1673,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1673,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+1675,,Liste des produits,Abri de jardin / Carport,Épicéa commun,Auvergne-Rhône-Alpes
+1686,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1686,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Sapin pectiné,Auvergne-Rhône-Alpes
+1702,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1702,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1717,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Centre-Val-de-Loire
+1717,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+1717,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+1717,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+1717,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1743,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1743,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+1743,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+1743,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1743,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Épicéa commun,Nouvelle-Aquitaine
+1743,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Europe
+1750,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+1750,Structure bois du bâtiment,Charpente,Charpente historique,Épicéa commun,Europe
+1750,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Nouvelle-Aquitaine
+1758,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Europe
+1758,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+1758,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Grand-Est
+1779,,Liste des produits,Escalier,Chêne,France
+1779,,Liste des produits,Mobilier,Sapin pectiné,Autres
+1779,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Autres
+1779,Structure bois du bâtiment,Structure horizontale,Dalle bois,Chêne,Autres
+1779,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Autres
+180,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+180,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Nouvelle-Aquitaine
+180,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+1833,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+1833,Structure bois du bâtiment,Structure horizontale,Non précisé,Tempéré,Aucune
+1833,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,Auvergne-Rhône-Alpes
+1834,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1834,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+1834,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Auvergne-Rhône-Alpes
+1834,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+1834,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+1834,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+1834,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Tempéré,Aucune
+1835,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+1835,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+1835,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+1835,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+1835,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+1868,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1872,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+1872,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+1872,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1872,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Douglas,Auvergne-Rhône-Alpes
+1892,,Liste des produits,Mobilier,Mélèze,Auvergne-Rhône-Alpes
+1892,,Liste des produits,Abri de jardin / Carport,Mélèze,Auvergne-Rhône-Alpes
+1892,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Auvergne-Rhône-Alpes
+1892,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois lamellé-collé ou abouté,Mélèze,Auvergne-Rhône-Alpes
+1892,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Auvergne-Rhône-Alpes
+1900,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1900,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+1900,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes
+1900,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes
+1910,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+1910,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+1910,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Auvergne-Rhône-Alpes
+1911,,Liste des produits,Escalier,Chêne,France
+1911,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Europe
+1911,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Sapin pectiné,France
+1911,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Tempéré,France
+1920,Structure bois du bâtiment,Structure verticale,Poteau poutre,Tempéré,Aucune
+1920,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Aucune
+1920,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Aucune
+1922,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Épicéa commun,Bourgogne-Franche-Comté
+1924,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1924,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+1924,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Auvergne-Rhône-Alpes
+1968,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+1968,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Nouvelle-Aquitaine
+1995,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+1995,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Bourgogne-Franche-Comté
+2019,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+2019,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+2019,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+2019,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+2083,,Liste des produits,Panneau massif d'agencement,Chêne,Auvergne-Rhône-Alpes
+2201,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+2201,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2206,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Chêne,Bourgogne-Franche-Comté
+229,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+229,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+229,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+229,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+229,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Auvergne-Rhône-Alpes
+2299,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+2299,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+2299,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+2299,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Chêne,Europe
+231,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Europe
+231,Structure bois du bâtiment,Charpente,Charpente industrielle,Épicéa commun,Europe
+2395,,Liste des produits,Panneau acoustique,Épicéa commun,Auvergne-Rhône-Alpes
+2395,,Liste des produits,Mobilier,Chêne,Auvergne-Rhône-Alpes
+2395,,Liste des produits,Mobilier,Noyer,Auvergne-Rhône-Alpes
+2399,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+2399,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+24,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+24,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+24,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,France
+2402,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+2402,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+2402,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2402,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+2415,,Liste des produits,Mobilier,Frêne,Bourgogne-Franche-Comté
+2430,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2430,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+2430,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+2430,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+2486,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2486,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Auvergne-Rhône-Alpes
+2486,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Tempéré,Europe
+2486,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+2486,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2486,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin maritime,Europe
+2491,,Liste des produits,Lambris,Épicéa commun,Auvergne-Rhône-Alpes
+2519,,Liste des produits,Lame de terrasse,Chêne,Auvergne-Rhône-Alpes
+2519,,Liste des produits,Traverse paysagère,Chêne,Auvergne-Rhône-Alpes
+2519,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+2519,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+2519,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+2519,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2519,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Chêne,Auvergne-Rhône-Alpes
+2519,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Douglas,Auvergne-Rhône-Alpes
+2521,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+2521,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Autres
+2521,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+255,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Europe
+255,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Europe
+255,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Europe
+255,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+255,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Épicéa commun,Europe
+255,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+255,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Europe
+2703,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Pin sylvestre,Auvergne-Rhône-Alpes
+2738,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+2738,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+2738,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Châtaignier,Auvergne-Rhône-Alpes
+2769,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2769,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Douglas,Auvergne-Rhône-Alpes
+2769,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+2769,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+2769,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+2771,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Pin sylvestre,Auvergne-Rhône-Alpes
+2771,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2773,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+2773,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+2782,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2786,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+2802,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2802,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Robinier faux acacia,Auvergne-Rhône-Alpes
+2826,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2826,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+2826,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2827,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2827,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+2846,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+2846,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+2876,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+2876,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Mélèze,Auvergne-Rhône-Alpes
+2916,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Pin sylvestre,Bourgogne-Franche-Comté
+2916,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Bourgogne-Franche-Comté
+2920,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+2920,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+2920,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+2920,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Peuplier,Auvergne-Rhône-Alpes
+2920,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Chêne,Auvergne-Rhône-Alpes
+296,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Grand-Est
+296,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Grand-Est
+296,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+2966,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+2966,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Mélèze,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Mélèze,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+3027,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Mélèze,Auvergne-Rhône-Alpes
+3027,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Sapin pectiné,Auvergne-Rhône-Alpes
+3027,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes
+3037,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Aucune
+3037,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Aucune
+305,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+305,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+305,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+3084,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Mélèze,Aucune
+3084,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Tempéré,Aucune
+3084,Structure bois du bâtiment,Charpente,Non précisé,Tempéré,Aucune
+3084,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Aucune
+313,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+313,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+313,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Chêne,Auvergne-Rhône-Alpes
+314,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+314,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+314,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,France
+314,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+315,Structure bois du bâtiment,Structure verticale,Colombage,Chêne,Auvergne-Rhône-Alpes
+315,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+315,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,France
+3313,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+3314,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Nouvelle-Aquitaine
+3314,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+3318,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,France
+336,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+336,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+336,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+344,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,France
+344,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+344,Structure bois du bâtiment,Charpente,Caisson de toiture,Mélèze,France
+344,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+344,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+353,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+353,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+353,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+353,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+355,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Nouvelle-Aquitaine
+355,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Nouvelle-Aquitaine
+355,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Nouvelle-Aquitaine
+363,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+3800,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+3800,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+3800,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,Auvergne-Rhône-Alpes
+3800,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+3824,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+3824,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+3824,Structure bois du bâtiment,Charpente,Charpente industrielle,Épicéa commun,Auvergne-Rhône-Alpes
+3824,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+3904,,Liste des produits,Abri de jardin / Carport,Douglas,Auvergne-Rhône-Alpes
+3904,,Liste des produits,Abri de jardin / Carport,Bouleau,Aucune
+3904,,Liste des produits,Abri de jardin / Carport,Mélèze,Auvergne-Rhône-Alpes
+3904,,Liste des produits,Abri de jardin / Carport,Frêne,Auvergne-Rhône-Alpes
+3906,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+3906,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+3906,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Auvergne-Rhône-Alpes
+3906,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Auvergne-Rhône-Alpes
+3906,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+3906,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+3910,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+3910,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Europe
+3910,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+3910,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+3910,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Europe
+3944,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,France
+3944,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+3944,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Europe
+3944,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin laricio,France
+3944,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+3946,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,France
+3946,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+3956,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+3956,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+3956,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+3956,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes
+3956,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Épicéa commun,Auvergne-Rhône-Alpes
+3968,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+3968,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+3968,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+3968,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+3971,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+3971,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+3975,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Europe
+3975,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+3975,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+3975,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Europe
+3992,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Bourgogne-Franche-Comté
+3992,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Bourgogne-Franche-Comté
+3992,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Douglas,Bourgogne-Franche-Comté
+3992,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Bourgogne-Franche-Comté
+3992,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Bourgogne-Franche-Comté
+3995,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+3995,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+3995,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+3995,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+3995,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+3996,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+3996,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Épicéa commun,Europe
+3996,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+3996,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+4004,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4004,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,France
+4004,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4004,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4004,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4004,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+4014,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,France
+4014,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+4071,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4071,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+4071,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+4071,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+4071,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4072,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4072,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+4072,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4094,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+4094,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Tempéré,Auvergne-Rhône-Alpes
+4098,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+4098,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+4098,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Châtaignier,Nouvelle-Aquitaine
+4099,,Liste des produits,Panneau acoustique,Douglas,Auvergne-Rhône-Alpes
+410,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+410,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+410,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+410,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Robinier faux acacia,Auvergne-Rhône-Alpes
+410,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Auvergne-Rhône-Alpes
+4124,,Liste des produits,Lambris,Peuplier,Nouvelle-Aquitaine
+4124,,Liste des produits,Parquet,Épicéa commun,Europe
+4124,,Liste des produits,Mobilier,Peuplier,France
+4124,,Liste des produits,Mobilier,Chêne,Nouvelle-Aquitaine
+4124,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Europe
+4124,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+4124,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+4124,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Peuplier,Grand-Est
+4124,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+413,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+413,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+413,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+413,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Autres
+415,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+415,Structure bois du bâtiment,Structure horizontale,Dalle bois,Douglas,Auvergne-Rhône-Alpes
+415,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+415,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Auvergne-Rhône-Alpes
+415,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+4154,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+4154,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Auvergne-Rhône-Alpes
+4154,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+4154,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+4156,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,France
+4156,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,France
+4156,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+4158,,Liste des produits,Panneau acoustique,Chêne,Auvergne-Rhône-Alpes
+4158,,Liste des produits,Parquet,Chêne,France
+4158,,Liste des produits,Panneau massif d'agencement,Chêne,France
+4158,,Liste des produits,Lame de terrasse,Mélèze,Auvergne-Rhône-Alpes
+4158,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Mélèze,France
+4158,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+4158,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+4158,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4158,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Mélèze,France
+4163,,Liste des produits,Abri de jardin / Carport,Pin sylvestre,France
+4170,,Liste des produits,Lame de terrasse,Mélèze,Provence-Alpes-Côte-d'Azur
+4170,,Liste des produits,Abri de jardin / Carport,Mélèze,Provence-Alpes-Côte-d'Azur
+4180,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4180,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4180,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4180,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Épicéa commun,Auvergne-Rhône-Alpes
+4188,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+4188,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Mélèze,Auvergne-Rhône-Alpes
+4188,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4188,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4188,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+4190,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+4190,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+4200,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Pin sylvestre,Europe
+4200,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+4200,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+4200,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+4200,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+4200,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Europe
+4217,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4217,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Auvergne-Rhône-Alpes
+4217,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+4217,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Pin sylvestre,Bretagne
+4217,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau de synthèse ou composite,Tempéré,Aucune
+4217,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4222,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,France
+4222,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+4223,,Liste des produits,Lame de terrasse,Pin maritime,Nouvelle-Aquitaine
+4232,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+4232,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+4232,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Chêne,Auvergne-Rhône-Alpes
+4234,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+4234,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+4234,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau de synthèse ou composite,Mélèze,Europe
+4234,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Europe
+4241,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Europe
+4241,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Mélèze,Europe
+4264,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Mélèze,Auvergne-Rhône-Alpes
+4264,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Mélèze,Auvergne-Rhône-Alpes
+4264,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,Auvergne-Rhône-Alpes
+4264,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4264,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+4274,,Liste des produits,Installation,Sapin pectiné,Auvergne-Rhône-Alpes
+4274,,Liste des produits,Installation,Hêtre,Auvergne-Rhône-Alpes
+4297,,Liste des produits,Escalier,Chêne,Aucune
+4313,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,France
+4313,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,France
+4313,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+4313,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+4317,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+4317,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4317,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Provence-Alpes-Côte-d'Azur
+4317,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Mélèze,Provence-Alpes-Côte-d'Azur
+4344,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Auvergne-Rhône-Alpes
+4344,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+4344,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+4344,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+4353,,Liste des produits,Mobilier,Mélèze,France
+4353,,Liste des produits,Panneau acoustique,Mélèze,France
+4353,,Liste des produits,Panneau massif d'agencement,Mélèze,France
+4353,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Pin sylvestre,France
+4353,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+436,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Châtaignier,Auvergne-Rhône-Alpes
+4360,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Grand-Est
+4360,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Grand-Est
+4360,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Grand-Est
+4360,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Grand-Est
+4360,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Grand-Est
+4361,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Europe
+4361,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Aucune
+4361,Structure bois du bâtiment,Charpente,Charpente industrielle,Sapin pectiné,France
+4385,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+4385,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Auvergne-Rhône-Alpes
+4385,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+4385,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+4386,,Liste des produits,Panneau massif d'agencement,Mélèze,Europe
+4386,,Liste des produits,Mobilier,Mélèze,Europe
+4386,,Liste des produits,Panneau massif d'agencement,Douglas,France
+4386,,Liste des produits,Panneau acoustique,Mélèze,Europe
+4386,,Liste des produits,Lame de terrasse,Mélèze,Europe
+4386,,Liste des produits,Barrière / Croisillons,Mélèze,Europe
+4386,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,France
+4386,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+4386,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Europe
+4386,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,France
+4386,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Douglas,Europe
+4386,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+4386,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Western red cedar (Thuya géant),Amérique
+4389,,Liste des produits,Panneau acoustique,Peuplier,Bourgogne-Franche-Comté
+4389,,Liste des produits,Parquet,Chêne,Grand-Est
+4389,,Liste des produits,Mobilier,Épicéa commun,France
+4389,,Liste des produits,Mobilier,Noyer,Aucune
+4389,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Châtaignier,Auvergne-Rhône-Alpes
+4389,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+4389,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4389,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Châtaignier,Auvergne-Rhône-Alpes
+4389,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+4389,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Châtaignier,Auvergne-Rhône-Alpes
+4398,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4398,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4398,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+440,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Provence-Alpes-Côte-d'Azur
+4404,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+4404,Structure bois du bâtiment,Charpente,Caisson de toiture,Tempéré,Auvergne-Rhône-Alpes
+4404,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4404,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Auvergne-Rhône-Alpes
+4404,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Épicéa commun,France
+4410,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Europe
+4410,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4410,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+4410,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+4410,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+4410,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+4417,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+4417,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+4417,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+4417,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4417,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Douglas,Auvergne-Rhône-Alpes
+4422,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+4425,,Liste des produits,Lambris,Sapin pectiné,Europe
+4428,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+4428,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+4428,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4428,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+4440,,Liste des produits,Mobilier,Frêne,Aucune
+4443,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4443,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+4443,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+4443,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+4446,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+4446,Structure bois du bâtiment,Structure horizontale,Dalle bois,Douglas,Auvergne-Rhône-Alpes
+4446,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+4446,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4446,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Auvergne-Rhône-Alpes
+4464,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4464,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4464,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4464,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+4467,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4467,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4467,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4467,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Aucune
+4469,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,France
+4469,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,Auvergne-Rhône-Alpes
+4469,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4469,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+4478,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+448,,Liste des produits,Panneau acoustique,Épicéa commun,Auvergne-Rhône-Alpes
+448,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Europe
+448,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+448,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+448,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+448,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Pin sylvestre,Europe
+4480,Structure bois du bâtiment,Structure horizontale,Dalle bois,Douglas,Auvergne-Rhône-Alpes
+4480,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+4480,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+4480,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Auvergne-Rhône-Alpes
+4493,,Liste des produits,Escalier,Chêne,Bourgogne-Franche-Comté
+4493,,Liste des produits,Lambris,Chêne,Bourgogne-Franche-Comté
+4493,,Liste des produits,Mobilier,Chêne,Bourgogne-Franche-Comté
+4493,,Liste des produits,Panneau massif d'agencement,Chêne,Bourgogne-Franche-Comté
+4493,,Liste des produits,Parquet,Chêne,Bourgogne-Franche-Comté
+4493,,Liste des produits,Installation,Sapin pectiné,Auvergne-Rhône-Alpes
+4493,,Liste des produits,Mobilier,Noyer,Auvergne-Rhône-Alpes
+4494,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+4494,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Auvergne-Rhône-Alpes
+4494,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+4494,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Épicéa commun,France
+4494,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Asie
+4494,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Europe
+4498,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+4498,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+4498,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+4498,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Épicéa commun,Europe
+4515,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,France
+4515,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4515,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Asie
+4520,,Liste des produits,Panneau acoustique,Sapin pectiné,Auvergne-Rhône-Alpes
+4520,,Liste des produits,Installation,Sapin pectiné,Auvergne-Rhône-Alpes
+4533,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+4533,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-acier,Épicéa commun,Europe
+4533,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+4533,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Peuplier,Bourgogne-Franche-Comté
+4533,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Épicéa commun,Bretagne
+4538,,Liste des produits,Escalier,Frêne,Auvergne-Rhône-Alpes
+4538,,Liste des produits,Parquet,Chêne,Bourgogne-Franche-Comté
+4538,,Liste des produits,Mobilier,Frêne,Auvergne-Rhône-Alpes
+4538,,Liste des produits,Lambris,Épicéa commun,Europe
+4538,,Liste des produits,Abri de jardin / Carport,Châtaignier,Auvergne-Rhône-Alpes
+4538,,Liste des produits,Lame de terrasse,Mélèze,Auvergne-Rhône-Alpes
+4538,,Liste des produits,Passerelle / Estacade,Douglas,Auvergne-Rhône-Alpes
+4538,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Bourgogne-Franche-Comté
+4538,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Bourgogne-Franche-Comté
+4538,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Bourgogne-Franche-Comté
+4538,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Châtaignier,Auvergne-Rhône-Alpes
+4538,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+4547,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Europe
+4547,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+4547,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+4554,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4554,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+4554,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Douglas,Auvergne-Rhône-Alpes
+4554,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4554,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+4554,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4554,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+4555,Structure bois du bâtiment,Structure verticale,Non précisé,Tempéré,Aucune
+4555,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Aucune
+4555,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Bretagne
+4555,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Aucune
+4559,,Liste des produits,Panneau massif d'agencement,Frêne,Auvergne-Rhône-Alpes
+4561,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+4561,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4561,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4576,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,France
+4576,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+4576,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Sapin pectiné,Europe
+4581,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Europe
+4581,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Autres
+4589,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4589,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+4589,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4608,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+4608,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+4608,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+4608,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+4608,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+4639,,Liste des produits,Installation,Tempéré,Autres
+4642,Structure bois du bâtiment,Structure horizontale,Non précisé,Tempéré,Aucune
+4642,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Europe
+4642,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+469,,Liste des produits,Abri de jardin / Carport,Mélèze,Europe
+469,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,France
+469,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+469,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+469,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+469,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,France
+469,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+469,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,France
+469,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+484,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Douglas,Auvergne-Rhône-Alpes
+484,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+484,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Épicéa commun,Europe
+504,,Liste des produits,Mobilier,Érable Sycomore,Auvergne-Rhône-Alpes
+504,,Liste des produits,Mobilier,Châtaignier,Auvergne-Rhône-Alpes
+504,,Liste des produits,Mobilier,Épicéa commun,Auvergne-Rhône-Alpes
+504,Structure bois du bâtiment,Structure verticale,Poteau poutre,Châtaignier,Auvergne-Rhône-Alpes
+504,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Robinier faux acacia,Auvergne-Rhône-Alpes
+504,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+504,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+504,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+504,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Érable Sycomore,Auvergne-Rhône-Alpes
+507,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+507,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+507,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Auvergne-Rhône-Alpes
+507,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+509,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+509,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+509,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Sapin pectiné,Auvergne-Rhône-Alpes
+52,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+52,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+525,Structure bois du bâtiment,Structure verticale,Poteau poutre,Tempéré,Aucune
+525,Structure bois du bâtiment,Structure horizontale,Non précisé,Douglas,Auvergne-Rhône-Alpes
+525,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+541,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Aucune
+541,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+541,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Aucune
+541,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+542,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+542,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+543,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+543,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+543,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+552,,Liste des produits,Mobilier,Chêne,Centre-Val-de-Loire
+552,,Liste des produits,Mobilier,Noyer,Auvergne-Rhône-Alpes
+567,,Liste des produits,Panneau massif d'agencement,Mélèze,France
+567,,Liste des produits,Parquet,Douglas,France
+568,,Liste des produits,Escalier,Épicéa commun,Autres
+568,,Liste des produits,Lambris,Douglas,Bourgogne-Franche-Comté
+568,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Bourgogne-Franche-Comté
+568,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+568,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+568,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau de synthèse ou composite,Tempéré,Europe
+5681,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Bourgogne-Franche-Comté
+5681,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Bourgogne-Franche-Comté
+5681,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Bourgogne-Franche-Comté
+5681,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Europe
+5700,,Liste des produits,Panneau massif d'agencement,Mélèze,Europe
+5707,,Liste des produits,Lame de terrasse,Douglas,Auvergne-Rhône-Alpes
+5707,,Liste des produits,Mobilier,Cèdre,Auvergne-Rhône-Alpes
+5707,,Liste des produits,Mobilier,Douglas,Auvergne-Rhône-Alpes
+5710,,Liste des produits,Abri de jardin / Carport,Châtaignier,Auvergne-Rhône-Alpes
+5719,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+5719,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+5719,Structure bois du bâtiment,Structure horizontale,Non précisé,Tempéré,Aucune
+5719,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+5719,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+5720,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+5720,Structure bois du bâtiment,Structure horizontale,Non précisé,Tempéré,Aucune
+5720,Structure bois du bâtiment,Charpente,Non précisé,Tempéré,Aucune
+5720,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+5728,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+5728,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+5728,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+5728,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+573,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+573,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+5740,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+5740,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+5740,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+5740,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Nouvelle-Aquitaine
+5740,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Auvergne-Rhône-Alpes
+5745,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+5745,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Nouvelle-Aquitaine
+5745,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Douglas,Auvergne-Rhône-Alpes
+5745,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+5746,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+5746,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+5746,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+5746,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+5763,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Europe
+5763,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Europe
+5763,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Europe
+5763,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Épicéa commun,Europe
+5763,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,France
+5793,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+5793,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Auvergne-Rhône-Alpes
+5793,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+5793,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+58,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+58,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+58,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Auvergne-Rhône-Alpes
+5804,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+5804,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+5804,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+5804,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+5804,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+5816,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Mélèze,Europe
+5816,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+5816,Structure bois du bâtiment,Charpente,Charpente historique,Sapin pectiné,Auvergne-Rhône-Alpes
+5816,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Europe
+5816,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Douglas,Auvergne-Rhône-Alpes
+5816,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Centre-Val-de-Loire
+5825,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+5825,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+5825,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+5825,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Normandie
+5834,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,France
+5834,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,France
+5834,Structure bois du bâtiment,Charpente,Non précisé,Épicéa commun,France
+5834,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,France
+5850,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+5850,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+5850,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+5850,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+5851,,Liste des produits,Barrière / Croisillons,Douglas,Auvergne-Rhône-Alpes
+5851,,Liste des produits,Lame de terrasse,Pin sylvestre,Aucune
+5851,,Liste des produits,Mobilier,Pin sylvestre,Aucune
+5873,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+5874,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Épicéa commun,Autres
+5888,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Auvergne-Rhône-Alpes
+5888,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Douglas,Auvergne-Rhône-Alpes
+5888,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+5888,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+5891,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Europe
+5891,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Mélèze,Europe
+5891,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+5891,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+5891,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+5942,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+5942,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+5942,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+5942,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Auvergne-Rhône-Alpes
+5942,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+5942,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Sapin pectiné,Auvergne-Rhône-Alpes
+5949,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+5949,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Douglas,Auvergne-Rhône-Alpes
+5949,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+5949,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Sapin pectiné,Auvergne-Rhône-Alpes
+5949,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Sapin pectiné,Auvergne-Rhône-Alpes
+5959,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+5959,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+5959,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+5959,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Épicéa commun,France
+596,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+596,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+596,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+596,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+596,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Douglas,Auvergne-Rhône-Alpes
+597,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+597,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Europe
+597,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Aucune
+5975,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+5975,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+5975,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Auvergne-Rhône-Alpes
+5975,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+5975,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+5975,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Europe
+5975,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Europe
+6001,,Liste des produits,Passerelle / Estacade,Épicéa commun,Auvergne-Rhône-Alpes
+6003,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,France
+6003,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,France
+6003,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+6008,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-acier,Douglas,Nouvelle-Aquitaine
+6008,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Nouvelle-Aquitaine
+6008,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Europe
+6009,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,France
+6009,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Aucune
+6013,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+6013,Structure bois du bâtiment,Structure verticale,Poteau poutre,Tempéré,Auvergne-Rhône-Alpes
+6013,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Auvergne-Rhône-Alpes
+6013,Structure bois du bâtiment,Structure horizontale,Non précisé,Tempéré,Auvergne-Rhône-Alpes
+6013,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Auvergne-Rhône-Alpes
+6013,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Auvergne-Rhône-Alpes
+6013,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau de synthèse ou composite,Tempéré,Europe
+6015,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+6015,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6015,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6015,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6015,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Épicéa commun,Auvergne-Rhône-Alpes
+6016,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6016,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6016,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6016,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6016,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Épicéa commun,Auvergne-Rhône-Alpes
+6026,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6026,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6026,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Auvergne-Rhône-Alpes
+6029,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Nouvelle-Aquitaine
+6029,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6029,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Nouvelle-Aquitaine
+6029,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Europe
+6043,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6043,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6043,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6043,Structure bois du bâtiment,Charpente,Charpente historique,Épicéa commun,Auvergne-Rhône-Alpes
+6043,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+6043,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+6043,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+605,Structure bois du bâtiment,Structure horizontale,Non précisé,Épicéa commun,France
+605,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+605,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+6050,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+6050,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6050,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+6050,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+6050,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+6060,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Auvergne-Rhône-Alpes
+6060,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+6060,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6060,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Auvergne-Rhône-Alpes
+6069,Structure bois du bâtiment,Structure verticale,Poteau poutre,Tempéré,Aucune
+6069,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+6069,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+607,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+607,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+607,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+607,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+6071,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6071,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6072,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6072,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+6072,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+608,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+608,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+608,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+608,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau de synthèse ou composite,Tempéré,Autres
+609,Structure bois du bâtiment,Structure horizontale,Non précisé,Épicéa commun,Aucune
+609,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Tempéré,Autres
+609,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Europe
+6101,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+6101,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+6102,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6102,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6102,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+6102,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+6102,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Europe
+6102,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Centre-Val-de-Loire
+6108,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Auvergne-Rhône-Alpes
+6108,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Mélèze,Auvergne-Rhône-Alpes
+6108,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Mélèze,Auvergne-Rhône-Alpes
+6108,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+612,,Liste des produits,Ganivelle,Châtaignier,Nouvelle-Aquitaine
+612,,Liste des produits,Échalas,Châtaignier,Nouvelle-Aquitaine
+612,,Liste des produits,Pieux / tuteurs / piquets,Robinier faux acacia,Europe
+6133,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+6133,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,France
+6133,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+6133,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+6137,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Europe
+6139,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+6139,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6148,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+6148,Structure bois du bâtiment,Charpente,Charpente industrielle,Tempéré,Europe
+6148,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Châtaignier,Auvergne-Rhône-Alpes
+6148,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+6154,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6154,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+6154,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+6154,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6154,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+617,,Liste des produits,Escalier,Chêne,Auvergne-Rhône-Alpes
+617,,Liste des produits,Lambris,Épicéa commun,Auvergne-Rhône-Alpes
+617,,Liste des produits,Mobilier,Épicéa commun,Auvergne-Rhône-Alpes
+617,,Liste des produits,Panneau acoustique,Épicéa commun,Auvergne-Rhône-Alpes
+617,,Liste des produits,Panneau massif d'agencement,Chêne,Auvergne-Rhône-Alpes
+617,,Liste des produits,Parquet,Chêne,Auvergne-Rhône-Alpes
+617,,Liste des produits,Mobilier,Chêne,Auvergne-Rhône-Alpes
+6170,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+6170,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Centre-Val-de-Loire
+6170,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+6170,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+6170,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Grand-Est
+6170,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+6177,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+6177,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Aucune
+6177,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6177,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6177,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Aucune
+6183,,Liste des produits,Mobilier,Chêne,France
+6195,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6195,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+6195,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+6195,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6196,,Liste des produits,Escalier,Douglas,Auvergne-Rhône-Alpes
+6196,,Liste des produits,Mobilier,Douglas,Auvergne-Rhône-Alpes
+6196,,Liste des produits,Panneau massif d'agencement,Douglas,Auvergne-Rhône-Alpes
+6204,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6204,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+6217,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6217,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Pin sylvestre,Auvergne-Rhône-Alpes
+6217,Structure bois du bâtiment,Charpente,Panneau massif,Pin sylvestre,Auvergne-Rhône-Alpes
+622,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+622,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+6220,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6220,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+6220,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+6220,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6220,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+6222,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+6222,Structure bois du bâtiment,Charpente,Non précisé,Tempéré,Aucune
+6222,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+6236,,Liste des produits,Mobilier,Mélèze,Provence-Alpes-Côte-d'Azur
+6236,,Liste des produits,Palissade,Mélèze,Provence-Alpes-Côte-d'Azur
+6236,,Liste des produits,Lame de terrasse,Mélèze,Provence-Alpes-Côte-d'Azur
+6244,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6244,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+6244,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Bourgogne-Franche-Comté
+6245,,Liste des produits,Installation,Mélèze,Auvergne-Rhône-Alpes
+6245,,Liste des produits,Mobilier,Mélèze,Auvergne-Rhône-Alpes
+6245,,Liste des produits,Brise soleil,Mélèze,Auvergne-Rhône-Alpes
+6254,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+6254,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+6254,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Europe
+6254,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+6256,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Tempéré,Auvergne-Rhône-Alpes
+6258,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+6258,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+6262,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6262,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-acier,Sapin pectiné,Auvergne-Rhône-Alpes
+6262,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6262,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Tempéré,Aucune
+6273,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6273,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+6276,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+628,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6284,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Auvergne-Rhône-Alpes
+6284,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Europe
+6296,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Bourgogne-Franche-Comté
+6296,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Bourgogne-Franche-Comté
+6296,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Bourgogne-Franche-Comté
+6296,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,France
+6296,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,France
+6357,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6357,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+6367,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6367,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+6367,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+6373,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+6373,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6373,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+6377,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+6377,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+6377,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6377,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6378,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6378,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Auvergne-Rhône-Alpes
+6378,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6378,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+6378,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+638,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+638,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Sapin pectiné,Auvergne-Rhône-Alpes
+638,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Provence-Alpes-Côte-d'Azur
+638,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+638,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Provence-Alpes-Côte-d'Azur
+638,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+6391,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6391,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Douglas,Europe
+6391,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+6392,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Europe
+6392,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Auvergne-Rhône-Alpes
+6392,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6393,,Liste des produits,Installation,Sapin pectiné,France
+6393,,Liste des produits,Installation,Sapin pectiné,France
+6393,,Liste des produits,Panneau acoustique,Frêne,France
+6393,,Liste des produits,Panneau acoustique,Bouleau,France
+6393,,Liste des produits,Escalier,Épicéa commun,France
+6393,,Liste des produits,Abri de jardin / Carport,Mélèze,France
+6400,,Liste des produits,Brise soleil,Douglas,Auvergne-Rhône-Alpes
+6459,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,France
+6459,Structure bois du bâtiment,Structure horizontale,"Plancher béton, Solivage traditionnel",Épicéa commun,France
+6459,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+6459,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,France
+6459,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,France
+647,,Liste des produits,Clôture,Robinier faux acacia,Auvergne-Rhône-Alpes
+647,,Liste des produits,Lame de terrasse,Cèdre,Auvergne-Rhône-Alpes
+647,,Liste des produits,Mobilier,Cèdre,Auvergne-Rhône-Alpes
+6472,Structure bois du bâtiment,Structure verticale,Poteau poutre,Châtaignier,Auvergne-Rhône-Alpes
+6472,Structure bois du bâtiment,Structure horizontale,Dalle bois,Douglas,Auvergne-Rhône-Alpes
+6472,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+6472,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6472,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Europe
+648,,Liste des produits,Clôture,Robinier faux acacia,Auvergne-Rhône-Alpes
+648,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+648,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+648,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+648,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Chêne,Auvergne-Rhône-Alpes
+648,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Douglas,Auvergne-Rhône-Alpes
+6523,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+6523,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,France
+6532,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+6532,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6532,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+6532,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+6540,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+6540,Structure bois du bâtiment,Structure horizontale,"Plancher béton, Poutre en I ou mixte, Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+6540,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé, Charpente traditionnelle",Épicéa commun,Auvergne-Rhône-Alpes
+6540,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Bourgogne-Franche-Comté
+6540,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Chêne,Europe
+6542,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6542,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Auvergne-Rhône-Alpes
+6542,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Auvergne-Rhône-Alpes
+6542,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Épicéa commun,Auvergne-Rhône-Alpes
+6542,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6542,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6593,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6594,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6594,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+6594,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6594,Revêtement bois extérieur,Revêtement bois ou dérivés,"Bardeau bois, Lame bois massif",Épicéa commun,Auvergne-Rhône-Alpes
+6608,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6608,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Sapin pectiné,Auvergne-Rhône-Alpes
+6608,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6608,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+6610,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+6610,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6610,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+6610,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6619,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+6619,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Bretagne
+6619,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé",Mélèze,Auvergne-Rhône-Alpes
+6619,Structure bois du bâtiment,Charpente,Caisson de toiture,Sapin pectiné,Auvergne-Rhône-Alpes
+6619,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Chêne,Auvergne-Rhône-Alpes
+6630,,Liste des produits,Lame de terrasse,Douglas,Auvergne-Rhône-Alpes
+6680,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+6680,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6680,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Auvergne-Rhône-Alpes
+6680,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+6680,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+6680,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6680,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+6698,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Pays-de-la-Loire
+6698,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé, Charpente traditionnelle",Sapin pectiné,Grand-Est
+6698,Revêtement bois extérieur,Revêtement bois ou dérivés,"Lame bois lamellé-collé ou abouté, Lame bois massif",Douglas,Pays-de-la-Loire
+6698,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Sapin pectiné,Auvergne-Rhône-Alpes
+670,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Europe
+670,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Europe
+670,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Europe
+670,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Douglas,Europe
+670,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+6706,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6706,Structure bois du bâtiment,Structure horizontale,"Poutre en I ou mixte, Solivage traditionnel",Douglas,Auvergne-Rhône-Alpes
+6706,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6706,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6706,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+671,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+671,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Europe
+671,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,France
+6713,,Liste des produits,Mobilier,Épicéa commun,Europe
+672,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+672,Structure bois du bâtiment,Charpente,Panneau massif,Épicéa commun,Europe
+672,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+672,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+6741,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+6741,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé",Épicéa commun,Auvergne-Rhône-Alpes
+6741,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+6741,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+6742,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Douglas,France
+6742,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6742,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+6742,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+6760,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6760,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6760,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+6760,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Europe
+6760,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Europe
+6761,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Panneau ossature bois",Épicéa commun,Auvergne-Rhône-Alpes
+6761,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Panneau ossature bois",Épicéa commun,Auvergne-Rhône-Alpes
+6761,Structure bois du bâtiment,Structure horizontale,"Dalle bois, Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+6761,Structure bois du bâtiment,Structure horizontale,"Dalle bois, Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+6761,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+6761,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Autres
+6761,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,France
+6764,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,France
+6764,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Pin sylvestre,Auvergne-Rhône-Alpes
+6776,,Liste des produits,Escalier,Sapin pectiné,Europe
+6776,,Liste des produits,Mobilier,Mélèze,Europe
+6776,,Liste des produits,Panneau acoustique,Mélèze,Europe
+6776,,Liste des produits,Panneau massif d'agencement,Mélèze,Europe
+6776,,Liste des produits,Parquet,Sapin pectiné,Europe
+6778,,Liste des produits,Panneau acoustique,Épicéa commun,Auvergne-Rhône-Alpes
+6778,,Liste des produits,Panneau acoustique,Épicéa commun,Europe
+6778,,Liste des produits,Mobilier,Épicéa commun,Europe
+6778,,Liste des produits,Panneau massif d'agencement,Épicéa commun,France
+6778,,Liste des produits,Mobilier,Hêtre,Europe
+6779,,Liste des produits,"Lame de terrasse, Mobilier",Robinier faux acacia,Auvergne-Rhône-Alpes
+6785,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Grand-Est
+6785,Structure bois du bâtiment,Structure horizontale,"Plancher mixte bois-acier , Solivage traditionnel",Douglas,Grand-Est
+6785,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Douglas,Grand-Est
+6785,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame composite,Douglas,Grand-Est
+6785,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Europe
+6793,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6793,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6793,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+6793,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+6798,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6798,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Auvergne-Rhône-Alpes
+6798,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente traditionnelle",Épicéa commun,Auvergne-Rhône-Alpes
+6798,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6798,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Châtaignier,Auvergne-Rhône-Alpes
+6798,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Mur rideau bois",Pin sylvestre,Auvergne-Rhône-Alpes
+6801,,Liste des produits,Passerelle / Estacade,Douglas,Auvergne-Rhône-Alpes
+6804,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+6804,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+6804,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+6804,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame composite,Tempéré,Europe
+681,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Auvergne-Rhône-Alpes
+681,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+6819,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+6819,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+6819,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Mélèze,Auvergne-Rhône-Alpes
+6819,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+6821,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6821,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6821,Structure bois du bâtiment,Charpente,Caisson de toiture,Douglas,Auvergne-Rhône-Alpes
+6821,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6825,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Europe
+6825,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+6825,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Europe
+6825,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+6830,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6830,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6830,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Asie
+6830,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Épicéa commun,Auvergne-Rhône-Alpes
+6836,,Liste des produits,Mobilier,Mélèze,Auvergne-Rhône-Alpes
+6836,,Liste des produits,Panneau acoustique,Mélèze,Auvergne-Rhône-Alpes
+6843,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+6843,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Europe
+6843,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6843,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau contreplaqué,Tempéré,France
+6843,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+685,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+685,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+685,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+685,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+685,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+6850,Structure bois du bâtiment,Structure verticale,Colombage,Douglas,Auvergne-Rhône-Alpes
+6850,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+6850,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6850,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+6858,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+6858,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6858,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+6858,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6858,Structure bois du bâtiment,Charpente,Charpente industrielle,Épicéa commun,Europe
+6869,,Liste des produits,Panneau acoustique,Épicéa commun,Auvergne-Rhône-Alpes
+6869,,Liste des produits,Mobilier,Épicéa commun,Europe
+6869,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Europe
+6878,,Liste des produits,Mobilier,Sapin pectiné,Europe
+6878,,Liste des produits,Mobilier,Bouleau,Europe
+6885,,Liste des produits,"Lame de terrasse, Mobilier",Douglas,Auvergne-Rhône-Alpes
+6891,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+6891,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+6891,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Europe
+6891,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Europe
+6891,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+6891,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+6903,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Nouvelle-Aquitaine
+6903,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé, Charpente industrielle",Sapin pectiné,Europe
+6903,Structure bois du bâtiment,Charpente,Non précisé,Épicéa commun,Nouvelle-Aquitaine
+6916,,Liste des produits,"Mobilier, Panneau acoustique, Panneau massif d'agencement",Pin sylvestre,Auvergne-Rhône-Alpes
+6925,,Liste des produits,Abri de jardin / Carport,Sapin pectiné,Auvergne-Rhône-Alpes
+6943,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6943,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6943,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+6943,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6943,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+6945,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Bourgogne-Franche-Comté
+6945,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+6945,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6958,,Liste des produits,Mobilier,Douglas,Auvergne-Rhône-Alpes
+696,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+696,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+696,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes
+696,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+6972,,Liste des produits,"Luminaire, Mobilier, Panneau massif d'agencement",Épicéa commun,Europe
+6986,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+6986,Structure bois du bâtiment,Structure horizontale,"Plancher béton, Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+6986,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+699,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+699,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+699,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+699,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6990,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+6990,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+6990,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+6990,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+6991,,Liste des produits,Abri de jardin / Carport,Épicéa commun,Auvergne-Rhône-Alpes
+6995,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Europe
+6995,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Auvergne-Rhône-Alpes
+6995,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+6995,Revêtement bois extérieur,Revêtement bois ou dérivés,"Lame bois massif, Panneau bois massif contrecollé",Douglas,Auvergne-Rhône-Alpes
+6995,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Douglas,Auvergne-Rhône-Alpes
+7002,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+7002,Structure bois du bâtiment,Structure horizontale,"Poutre en I ou mixte, Solivage traditionnel",Sapin pectiné,Auvergne-Rhône-Alpes
+7002,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente traditionnelle",Sapin pectiné,Auvergne-Rhône-Alpes
+7002,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7010,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+7010,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7010,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+7010,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+7016,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Nouvelle-Aquitaine
+7016,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Nouvelle-Aquitaine
+7016,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Douglas,Nouvelle-Aquitaine
+7016,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Nouvelle-Aquitaine
+7016,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Nouvelle-Aquitaine
+7032,,Liste des produits,"Abri de jardin / Carport, Lame de terrasse, Mobilier",Douglas,Auvergne-Rhône-Alpes
+7037,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7037,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+7037,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+7037,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7037,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Volet bois",Douglas,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+7057,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Bourgogne-Franche-Comté
+7057,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+7057,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Europe
+7057,Structure bois du bâtiment,Structure verticale,Non précisé,Épicéa commun,Europe
+7057,Structure bois du bâtiment,Structure verticale,Non précisé,Épicéa commun,France
+7057,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Pin maritime,Nouvelle-Aquitaine
+7057,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+7057,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+7057,Structure bois du bâtiment,Charpente,Panneau massif,Pin maritime,Nouvelle-Aquitaine
+7057,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7057,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7057,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+707,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+7096,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7096,Structure bois du bâtiment,Structure horizontale,"Poutre en I ou mixte, Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+7096,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+7096,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+7096,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7096,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,France
+7098,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7098,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Auvergne-Rhône-Alpes
+7098,Structure bois du bâtiment,Charpente,Caisson de toiture,Tempéré,France
+7098,Structure bois du bâtiment,Charpente,Caisson de toiture,Tempéré,Auvergne-Rhône-Alpes
+7098,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7102,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,France
+7102,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,France
+7102,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Douglas,France
+7115,Structure bois du bâtiment,Structure verticale,"Colombage, Panneau ossature bois",Épicéa commun,Auvergne-Rhône-Alpes
+7115,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+7115,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+7115,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7115,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+7127,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7127,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Auvergne-Rhône-Alpes
+7127,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,France
+7127,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,France
+7127,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Nouvelle-Aquitaine
+7127,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+7141,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Sapin pectiné,Auvergne-Rhône-Alpes
+7141,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7141,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Sapin pectiné,Auvergne-Rhône-Alpes
+7141,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Tempéré,France
+7152,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7152,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Douglas,Auvergne-Rhône-Alpes
+7152,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7155,Structure bois du bâtiment,Structure verticale,Madrier empilé,Sapin pectiné,Auvergne-Rhône-Alpes
+7155,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+7155,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7155,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+7155,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Sapin pectiné,Auvergne-Rhône-Alpes
+7157,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+7157,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,France
+7157,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,France
+7157,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+7166,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+7166,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7166,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+7166,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,France
+7166,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+7166,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Mélèze,Europe
+7166,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Sapin pectiné,Auvergne-Rhône-Alpes
+7166,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+7166,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Mélèze,France
+7169,Structure bois du bâtiment,Structure verticale,Non précisé,Épicéa commun,Auvergne-Rhône-Alpes
+7169,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+7169,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+7169,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+7169,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Épicéa commun,Auvergne-Rhône-Alpes
+7170,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+7170,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+7182,,Liste des produits,Parquet,Chêne,Auvergne-Rhône-Alpes
+7182,,Liste des produits,Escalier,Chêne,Auvergne-Rhône-Alpes
+7182,,Liste des produits,Lambris,Chêne,Auvergne-Rhône-Alpes
+7182,,Liste des produits,Mobilier,Tempéré,Auvergne-Rhône-Alpes
+7187,,Liste des produits,Mobilier,Peuplier,Auvergne-Rhône-Alpes
+7189,,Liste des produits,"Abri de jardin / Carport, Clôture, Lame de terrasse, Mobilier, Passerelle / Estacade, Pieux / tuteurs / piquets, Portail, Traverse paysagère",Chêne,Auvergne-Rhône-Alpes
+7190,,Liste des produits,"Mobilier, Panneau acoustique, Panneau massif d'agencement, Parquet",Hêtre,Europe
+7205,,Liste des produits,Mobilier,Frêne,France
+7205,,Liste des produits,Panneau massif d'agencement,Peuplier,Europe
+7209,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Europe
+7300,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7300,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,Auvergne-Rhône-Alpes
+7300,Structure bois du bâtiment,Charpente,Caisson de toiture,Tempéré,Auvergne-Rhône-Alpes
+7300,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,France
+7300,Menuiserie intérieure et extérieure,Menuiserie intérieure,Mobilier,Tempéré,Auvergne-Rhône-Alpes
+7300,Menuiserie intérieure et extérieure,Menuiserie intérieure,Escalier,Tempéré,Europe
+7361,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,France
+7361,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente non bois",Tempéré,France
+7361,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Tempéré,Pays-de-la-Loire
+7361,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Tempéré,France
+7361,Menuiserie intérieure et extérieure,Menuiserie intérieure,Panneau acoustique,Tempéré,France
+7387,,Liste des produits,"Abri de jardin / Carport, Mobilier",Résineux,Auvergne-Rhône-Alpes
+74,,Liste des produits,Mobilier,Pin sylvestre,Auvergne-Rhône-Alpes
+74,,Liste des produits,Mobilier,Épicéa commun,Auvergne-Rhône-Alpes
+7408,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7408,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,Auvergne-Rhône-Alpes
+7408,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Tempéré,Auvergne-Rhône-Alpes
+7427,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin de Nordmann,Auvergne-Rhône-Alpes
+7427,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7469,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Europe
+7469,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,Europe
+7469,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Tempéré,Europe
+7469,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Bourgogne-Franche-Comté
+7486,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,France
+7490,,Liste des produits,Installation,Sapin pectiné,Auvergne-Rhône-Alpes
+7490,,Liste des produits,Escalier,Noyer,Auvergne-Rhône-Alpes
+7490,,Liste des produits,Mobilier,Frêne,France
+7490,,Liste des produits,Panneau acoustique,Frêne,France
+7490,,Liste des produits,Parquet,Chêne,France
+7491,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7491,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,Auvergne-Rhône-Alpes
+7491,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Tempéré,Auvergne-Rhône-Alpes
+7491,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Auvergne-Rhône-Alpes
+7491,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Mobilier, Panneau massif d'agencement",Tempéré,Auvergne-Rhône-Alpes
+7504,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Grand-Est
+7504,Structure bois du bâtiment,Structure horizontale,Dalle bois,Épicéa commun,Europe
+7504,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Europe
+7504,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Grand-Est
+7504,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Grand-Est
+7504,Menuiserie intérieure et extérieure,Menuiserie intérieure,Lambris,Épicéa commun,Europe
+7504,Menuiserie intérieure et extérieure,Menuiserie intérieure,Parquet,Chêne,Europe
+7513,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+7513,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Résineux,Bourgogne-Franche-Comté
+7549,Structure bois du bâtiment,Charpente,Charpente industrielle,Tempéré,Auvergne-Rhône-Alpes
+7571,,Liste des produits,Passerelle / Estacade,Douglas,Auvergne-Rhône-Alpes
+7571,,Liste des produits,Abri de jardin / Carport,Douglas,Auvergne-Rhône-Alpes
+7571,,Liste des produits,Mobilier,Douglas,Auvergne-Rhône-Alpes
+7577,,Liste des produits,Mobilier,Bouleau,Europe
+7577,,Liste des produits,Parquet,Hêtre,Europe
+7577,,Liste des produits,Mobilier,Hêtre,Europe
+7581,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,France
+7581,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,France
+7581,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+7581,Menuiserie intérieure et extérieure,Menuiserie intérieure,Mobilier,Pin maritime,Nouvelle-Aquitaine
+7582,,Liste des produits,Mobilier,Pin maritime,France
+7583,,Liste des produits,Mobilier,Pin maritime,France
+7583,,Liste des produits,Mobilier,Frêne,France
+7584,,Liste des produits,Traverse paysagère,Chêne,Auvergne-Rhône-Alpes
+7584,,Liste des produits,Passerelle / Estacade,Robinier faux acacia,Auvergne-Rhône-Alpes
+7584,,Liste des produits,Lame de terrasse,Douglas,Auvergne-Rhône-Alpes
+7584,,Liste des produits,Pieux / tuteurs / piquets,Châtaignier,Auvergne-Rhône-Alpes
+7584,,Liste des produits,Clôture,Châtaignier,Auvergne-Rhône-Alpes
+7584,,Liste des produits,Barrière / Croisillons,Robinier faux acacia,Auvergne-Rhône-Alpes
+7586,Structure bois du bâtiment,Structure verticale,Poteau poutre,Pin laricio,Provence-Alpes-Côte-d'Azur
+7586,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+7586,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7586,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Lambris, Parquet",Frêne,France
+7586,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Volet bois",Pin sylvestre,France
+7587,Structure bois du bâtiment,Charpente,Non précisé,Épicéa commun,Europe
+7591,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Panneau ossature bois, Poteau poutre",Tempéré,Auvergne-Rhône-Alpes
+7591,Structure bois du bâtiment,Structure horizontale,"Panneau de bois massif (CLT collé ou CLT cloué), Poutre en I ou mixte",Tempéré,Auvergne-Rhône-Alpes
+7591,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente industrielle",Tempéré,Auvergne-Rhône-Alpes
+7591,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Auvergne-Rhône-Alpes
+7591,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Panneau acoustique",Tempéré,Auvergne-Rhône-Alpes
+7591,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Brise soleil bois, Menuiserie mixte",Tempéré,Auvergne-Rhône-Alpes
+7609,,Liste des produits,"Installation, Mobilier",Tempéré,Auvergne-Rhône-Alpes
+7610,,Liste des produits,Abri de jardin / Carport,Tempéré,Aucun traitement
+7615,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,France
+7615,Structure bois du bâtiment,Structure horizontale,"Poutre en I ou mixte, Solivage traditionnel",Épicéa commun,France
+7615,Structure bois du bâtiment,Structure horizontale,"Poutre en I ou mixte, Solivage traditionnel",Mélèze,France
+7615,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+7615,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,France
+7615,Menuiserie intérieure et extérieure,Menuiserie intérieure,Escalier,Épicéa commun,France
+7615,Menuiserie intérieure et extérieure,Menuiserie intérieure,Lambris,Épicéa commun,France
+7615,Menuiserie intérieure et extérieure,Menuiserie intérieure,Parquet,Épicéa commun,France
+7615,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+7615,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Mélèze,France
+7619,Structure bois du bâtiment,Structure horizontale,"Dalle bois, Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+7619,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+7619,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Lambris, Panneau massif d'agencement",Hêtre,Auvergne-Rhône-Alpes
+7619,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Volet bois",Mélèze,Auvergne-Rhône-Alpes
+7624,,Liste des produits,"Abri de jardin / Carport, Brise soleil, Traverse paysagère",Sapin de Nordmann,Auvergne-Rhône-Alpes
+7643,,Liste des produits,Escalier,Hêtre,Auvergne-Rhône-Alpes
+7643,,Liste des produits,Mobilier,Hêtre,Auvergne-Rhône-Alpes
+7643,,Liste des produits,Parquet,Épicéa commun,France
+7643,,Liste des produits,Panneau massif d'agencement,Mélèze,Nouvelle-Aquitaine
+7655,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,France
+7655,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,France
+7655,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,France
+7655,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Résineux,France
+7655,Menuiserie intérieure et extérieure,Menuiserie intérieure,Panneau acoustique,Résineux,France
+7655,Menuiserie intérieure et extérieure,Menuiserie intérieure,Panneau massif d'agencement,Tempéré,France
+7658,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7658,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+7658,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+7658,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+7658,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+7658,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+7658,Revêtement bois extérieur,Revêtement bois ou dérivés,Roseau - chaume,Feuillus précieux,Centre-Val-de-Loire
+7658,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+7658,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+7658,Menuiserie intérieure et extérieure,Menuiserie extérieure,Brise soleil bois,Feuillus précieux,Centre-Val-de-Loire
+7659,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-acier,Tempéré,Auvergne-Rhône-Alpes
+7659,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Auvergne-Rhône-Alpes
+7661,,Liste des produits,"Escalier, Lambris, Panneau acoustique, Parquet",Tempéré,Auvergne-Rhône-Alpes
+7671,,Liste des produits,Installation,Mélèze,Europe
+7671,,Liste des produits,Panneau massif d'agencement,Hêtre,France
+7680,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,France
+7680,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Résineux,France
+7680,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Aucune
+7681,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Europe
+7681,Structure bois du bâtiment,Structure horizontale,"Panneau de bois massif (CLT collé ou CLT cloué), Solivage traditionnel",Résineux,Europe
+7681,Structure bois du bâtiment,Charpente,Charpente industrielle,Épicéa commun,France
+7681,Menuiserie intérieure et extérieure,Menuiserie intérieure,Mobilier,Tempéré,Europe
+7681,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Tempéré,France
+7683,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+7683,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Europe
+7683,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+7683,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+7683,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Asie
+7683,Menuiserie intérieure et extérieure,Menuiserie intérieure,Panneau acoustique,Mélèze,Asie
+7683,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Pin sylvestre,Pays-de-la-Loire
+7684,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+7684,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+7684,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+7684,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Western red cedar (Thuya géant),Autres
+7684,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+7684,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin maritime,Aucune
+7689,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,France
+7689,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,France
+7721,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Europe
+7721,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Europe
+7721,Structure bois du bâtiment,Charpente,Caisson de toiture,Tempéré,France
+7721,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,France
+7721,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Tempéré,France
+7726,Structure bois du bâtiment,Structure verticale,Non précisé,Sapin pectiné,Auvergne-Rhône-Alpes
+7726,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+7726,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Sapin pectiné,Auvergne-Rhône-Alpes
+7804,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Panneau ossature bois, Poteau poutre",Douglas,Auvergne-Rhône-Alpes
+7804,Structure bois du bâtiment,Structure horizontale,"Dalle bois, Panneau de bois massif (CLT collé ou CLT cloué), Plancher béton, Solivage traditionnel",Douglas,Auvergne-Rhône-Alpes
+7804,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7804,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7804,Menuiserie intérieure et extérieure,Menuiserie intérieure,Parquet,Chêne,France
+7804,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Installation, Mobilier, Panneau massif d'agencement",Épicéa commun,France
+7815,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Panneau ossature bois",Tempéré,Europe
+7815,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Tempéré,Europe
+7815,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Auvergne-Rhône-Alpes
+7815,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,France
+7815,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Mobilier",Tempéré,France
+7816,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+7816,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Épicéa commun,Auvergne-Rhône-Alpes
+7816,Menuiserie intérieure et extérieure,Menuiserie intérieure,Lambris,Douglas,Auvergne-Rhône-Alpes
+7816,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Volet bois",Résineux,Auvergne-Rhône-Alpes
+7818,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7818,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Auvergne-Rhône-Alpes
+7818,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Mobilier, Panneau acoustique, Panneau massif d'agencement",Tempéré,Europe
+7827,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7827,Structure bois du bâtiment,Structure horizontale,Dalle bois,Tempéré,Auvergne-Rhône-Alpes
+7827,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Tempéré,Auvergne-Rhône-Alpes
+7827,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Auvergne-Rhône-Alpes
+7827,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Tempéré,Aucune
+7828,,Liste des produits,Escalier,Chêne,France
+7828,,Liste des produits,Parquet,Chêne,France
+7828,,Liste des produits,Panneau massif d'agencement,Épicéa commun,Europe
+7845,Structure bois du bâtiment,Structure verticale,Poteau poutre,Sapin pectiné,Auvergne-Rhône-Alpes
+7845,Structure bois du bâtiment,Charpente,"Charpente historique, Charpente traditionnelle",Sapin pectiné,Auvergne-Rhône-Alpes
+7845,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Sapin pectiné,Auvergne-Rhône-Alpes
+7845,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Sapin pectiné,Auvergne-Rhône-Alpes
+7862,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Sapin pectiné,Auvergne-Rhône-Alpes
+7862,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Sapin pectiné,Auvergne-Rhône-Alpes
+7862,Structure bois du bâtiment,Charpente,Panneau massif,Sapin pectiné,Auvergne-Rhône-Alpes
+7862,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7865,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+7865,Structure bois du bâtiment,Structure horizontale,Dalle bois,Sapin pectiné,Auvergne-Rhône-Alpes
+7865,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+7865,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7870,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Sapin pectiné,Auvergne-Rhône-Alpes
+7870,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7870,Structure bois du bâtiment,Charpente,Panneau massif,Sapin pectiné,Auvergne-Rhône-Alpes
+7870,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7871,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+7871,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7871,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+7871,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7871,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+7873,Structure bois du bâtiment,Structure verticale,Panneau de bois massif (CLT collé ou CLT cloué),Sapin pectiné,Auvergne-Rhône-Alpes
+7873,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+7873,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Sapin pectiné,Auvergne-Rhône-Alpes
+7873,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7890,,Liste des produits,Mobilier,Frêne,Europe
+7890,,Liste des produits,Parquet,Chêne,France
+7890,,Liste des produits,Panneau massif d'agencement,Frêne,Europe
+7898,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,France
+7898,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+7898,Menuiserie intérieure et extérieure,Menuiserie intérieure,Escalier,Chêne,France
+7899,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Tempéré,Auvergne-Rhône-Alpes
+7899,Structure bois du bâtiment,Structure horizontale,"Plancher mixte bois-béton, Solivage traditionnel",Tempéré,Auvergne-Rhône-Alpes
+7899,Structure bois du bâtiment,Charpente,"Charpente historique, Charpente traditionnelle, Panneau massif",Tempéré,Auvergne-Rhône-Alpes
+7899,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Auvergne-Rhône-Alpes
+7899,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Lambris, Mobilier",Tempéré,Auvergne-Rhône-Alpes
+7899,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Tempéré,Auvergne-Rhône-Alpes
+7908,,Liste des produits,"Barrière / Croisillons, Clôture, Ganivelle, Lame de terrasse, Pieux / tuteurs / piquets",Tempéré,Auvergne-Rhône-Alpes
+7948,,Liste des produits,Brise soleil,Frêne,France
+7948,,Liste des produits,Mobilier,Frêne,France
+7948,,Liste des produits,Ganivelle,Châtaignier,Auvergne-Rhône-Alpes
+7948,,Liste des produits,Fascine,Châtaignier,Auvergne-Rhône-Alpes
+7948,,Liste des produits,Pieux / tuteurs / piquets,Robinier faux acacia,Auvergne-Rhône-Alpes
+7948,,Liste des produits,Traverse paysagère,Chêne,Auvergne-Rhône-Alpes
+7948,,Liste des produits,Mobilier,Douglas,Auvergne-Rhône-Alpes
+7948,,Liste des produits,Lame de terrasse,Tempéré,France
+7950,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,France
+7950,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,France
+7950,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,France
+7950,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,France
+7988,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+7988,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+7988,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé, Charpente traditionnelle",Épicéa commun,Auvergne-Rhône-Alpes
+7988,Revêtement bois extérieur,Revêtement bois ou dérivés,"Lame bois massif, Panneau bois massif contrecollé",Douglas,Auvergne-Rhône-Alpes
+7988,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Robinier faux acacia,Auvergne-Rhône-Alpes
+7988,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+7988,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Mobilier, Panneau massif d'agencement",Épicéa commun,Auvergne-Rhône-Alpes
+7988,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Auvergne-Rhône-Alpes
+7995,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+7995,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Tempéré,Auvergne-Rhône-Alpes
+7995,Structure bois du bâtiment,Charpente,Caisson de toiture,Tempéré,Auvergne-Rhône-Alpes
+7995,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Tempéré,France
+7995,Menuiserie intérieure et extérieure,Menuiserie intérieure,Escalier,Tempéré,France
+80,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+80,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+80,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+80,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Auvergne-Rhône-Alpes
+8028,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+8035,,Liste des produits,"Escalier, Mobilier, Panneau acoustique, Panneau massif d'agencement",Épicéa commun,Europe
+8035,,Liste des produits,Mobilier,Pin sylvestre,Europe
+8040,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Poteau poutre",Tempéré,Centre-Val-de-Loire
+8040,Structure bois du bâtiment,Structure horizontale,"Dalle bois, Panneau de bois massif (CLT collé ou CLT cloué)",Tempéré,Bourgogne-Franche-Comté
+8040,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente traditionnelle, Panneau massif",Tempéré,Bourgogne-Franche-Comté
+8040,Revêtement bois extérieur,Revêtement bois ou dérivés,"Lame bois lamellé-collé ou abouté, Lame bois massif",Tempéré,Centre-Val-de-Loire
+8045,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Tempéré,Auvergne-Rhône-Alpes
+8045,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Tempéré,Auvergne-Rhône-Alpes
+8045,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Tempéré,Auvergne-Rhône-Alpes
+8057,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+8057,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+8057,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+8057,Menuiserie intérieure et extérieure,Menuiserie intérieure,Panneau acoustique,Pin sylvestre,Auvergne-Rhône-Alpes
+8063,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Mobilier, Panneau massif d'agencement",Tempéré,Provence-Alpes-Côte-d'Azur
+8068,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+8068,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Sapin pectiné,Auvergne-Rhône-Alpes
+8068,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Sapin pectiné,Auvergne-Rhône-Alpes
+8068,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+8068,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Auvergne-Rhône-Alpes
+8072,,Liste des produits,"Installation, Lambris, Mobilier, Panneau acoustique, Panneau massif d'agencement",BAMBOU,Occitanie
+8072,,Liste des produits,"Luminaire, Mobilier, Panneau acoustique, Panneau massif d'agencement",Mélèze,France
+8087,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+8087,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+8087,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes
+8087,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Volet bois",Pin sylvestre,Europe
+8104,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+8104,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+8104,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Douglas,Auvergne-Rhône-Alpes
+8104,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+8104,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Mobilier",Hêtre,Auvergne-Rhône-Alpes
+8104,Menuiserie intérieure et extérieure,Menuiserie intérieure,Parquet,Chêne,Auvergne-Rhône-Alpes
+8104,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Mélèze,Europe
+8104,Menuiserie intérieure et extérieure,Menuiserie extérieure,Volet bois,Douglas,Auvergne-Rhône-Alpes
+8128,,Liste des produits,Parquet,Chêne,Auvergne-Rhône-Alpes
+8128,,Liste des produits,Mobilier,Pin sylvestre,Auvergne-Rhône-Alpes
+8128,,Liste des produits,Panneau acoustique,Pin maritime,Nouvelle-Aquitaine
+824,,Liste des produits,Panneau acoustique,Sapin pectiné,Europe
+829,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+829,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Mélèze,Europe
+834,Structure bois du bâtiment,Structure horizontale,Poutre en I ou mixte,Épicéa commun,Europe
+834,Structure bois du bâtiment,Charpente,Charpente industrielle,Sapin pectiné,Auvergne-Rhône-Alpes
+834,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+834,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Europe
+835,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+835,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+835,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+838,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,Auvergne-Rhône-Alpes
+838,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Tempéré,Auvergne-Rhône-Alpes
+838,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Provence-Alpes-Côte-d'Azur
+838,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie mixte,Pin sylvestre,Auvergne-Rhône-Alpes
+839,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Mélèze,Auvergne-Rhône-Alpes
+839,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+839,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+839,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+841,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Europe
+841,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,Europe
+841,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+841,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,Europe
+88,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Europe
+88,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+88,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+88,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Bourgogne-Franche-Comté
+88,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Bourgogne-Franche-Comté
+88,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,France
+88,Menuiserie intérieure et extérieure,Menuiserie extérieure,Mur rideau bois,Pin sylvestre,France
+885,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin pectiné,France
+885,Structure bois du bâtiment,Structure verticale,Poteau poutre,Douglas,Auvergne-Rhône-Alpes
+885,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Douglas,Auvergne-Rhône-Alpes
+885,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Nouvelle-Aquitaine
+885,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+8941,,Liste des produits,"Lame de terrasse, Mobilier, Pieux / tuteurs / piquets",Douglas,Auvergne-Rhône-Alpes
+9017,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+9017,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+9017,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Auvergne-Rhône-Alpes
+9017,Revêtement bois extérieur,Revêtement bois ou dérivés,"Lame bois lamellé-collé ou abouté, Lame bois massif",Épicéa commun,Auvergne-Rhône-Alpes
+9017,Menuiserie intérieure et extérieure,Menuiserie intérieure,Plinthes,Épicéa commun,Auvergne-Rhône-Alpes
+9017,Menuiserie intérieure et extérieure,Menuiserie intérieure,Installation,Hêtre,France
+9136,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Douglas,France
+9136,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Autres
+9136,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Douglas,France
+9136,Structure bois du bâtiment,Charpente,"Caisson de toiture, Charpente bois lamellé-collé",Épicéa commun,Autres
+9136,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,France
+9136,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Mobilier, Panneau acoustique, Plinthes",Pin sylvestre,Autres
+9156,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Auvergne-Rhône-Alpes
+9156,Structure bois du bâtiment,Structure horizontale,Panneau de bois massif (CLT collé ou CLT cloué),Épicéa commun,Auvergne-Rhône-Alpes
+9156,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+9156,Revêtement bois extérieur,Revêtement bois ou dérivés,Bardeau bois,Douglas,Auvergne-Rhône-Alpes
+9157,Structure bois du bâtiment,Structure verticale,"Panneau de bois massif (CLT collé ou CLT cloué), Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+9157,Structure bois du bâtiment,Structure horizontale,"Panneau de bois massif (CLT collé ou CLT cloué), Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+9157,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Panneau massif",Épicéa commun,Auvergne-Rhône-Alpes
+9157,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle, Panneau massif",Épicéa commun,Auvergne-Rhône-Alpes
+9157,Revêtement bois extérieur,Revêtement bois ou dérivés,"Bardeau bois, Lame bois lamellé-collé ou abouté",Douglas,Auvergne-Rhône-Alpes
+9157,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Escalier, Installation, Lambris, Panneau acoustique, Panneau massif d'agencement, Parquet, Plinthes",Chêne,Auvergne-Rhône-Alpes
+9157,Menuiserie intérieure et extérieure,Menuiserie extérieure,"Menuiserie bois, Mur rideau bois",Chêne,Auvergne-Rhône-Alpes
+9311,,Liste des produits,Lame de terrasse,Robinier faux acacia,Bourgogne-Franche-Comté
+9311,,Liste des produits,Mobilier,Mélèze,Bourgogne-Franche-Comté
+9311,,Liste des produits,Abri de jardin / Carport,Mélèze,Bourgogne-Franche-Comté
+9327,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+9327,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+9327,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Auvergne-Rhône-Alpes
+9327,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Auvergne-Rhône-Alpes
+9327,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Pin sylvestre,Europe
+9350,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Europe
+9350,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Europe
+9350,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Europe
+9498,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Sapin de Nordmann,Auvergne-Rhône-Alpes
+9498,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Douglas,Auvergne-Rhône-Alpes
+9498,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Douglas,Auvergne-Rhône-Alpes
+9498,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Chêne rouge d'Amérique,Nouvelle-Aquitaine
+9545,Structure bois du bâtiment,Structure verticale,Poteau poutre,Châtaignier,Occitanie
+9545,Structure bois du bâtiment,Structure horizontale,"Dalle bois, Solivage traditionnel",Châtaignier,Occitanie
+9545,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Châtaignier,Occitanie
+9545,Structure bois du bâtiment,Charpente,Charpente traditionnelle,Épicéa commun,Occitanie
+9545,Menuiserie intérieure et extérieure,Menuiserie intérieure,Escalier,Frêne,France
+9545,Menuiserie intérieure et extérieure,Menuiserie intérieure,Parquet,Châtaignier,Occitanie
+9545,Menuiserie intérieure et extérieure,Menuiserie intérieure,Panneau massif d'agencement,Frêne,Auvergne-Rhône-Alpes
+9665,Structure bois du bâtiment,Structure verticale,"Panneau ossature bois, Poteau poutre",Épicéa commun,Auvergne-Rhône-Alpes
+9665,Structure bois du bâtiment,Structure horizontale,"Panneau de bois massif (CLT collé ou CLT cloué), Solivage traditionnel",Épicéa commun,Auvergne-Rhône-Alpes
+9665,Structure bois du bâtiment,Charpente,"Charpente bois lamellé-collé, Charpente traditionnelle",Épicéa commun,Auvergne-Rhône-Alpes
+9665,Revêtement bois extérieur,Revêtement bois ou dérivés,Panneau bois massif contrecollé,Douglas,Auvergne-Rhône-Alpes
+9665,Menuiserie intérieure et extérieure,Menuiserie intérieure,"Lambris, Mobilier, Panneau acoustique, Panneau massif d'agencement",Épicéa commun,Auvergne-Rhône-Alpes
+9665,Menuiserie intérieure et extérieure,Menuiserie extérieure,Menuiserie bois,Mélèze,France
+9687,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Douglas,Auvergne-Rhône-Alpes
+9687,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+9687,Structure bois du bâtiment,Charpente,Caisson de toiture,Épicéa commun,Auvergne-Rhône-Alpes
+9687,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois lamellé-collé ou abouté,Mélèze,Europe
+97,Structure bois du bâtiment,Structure verticale,Poteau poutre,Mélèze,Europe
+97,Structure bois du bâtiment,Structure horizontale,Plancher béton,Tempéré,Aucune
+97,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Mélèze,Europe
+97,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Mélèze,Europe
+9712,Structure bois du bâtiment,Structure verticale,Panneau ossature bois,Épicéa commun,Europe
+9712,Structure bois du bâtiment,Structure horizontale,Plancher mixte bois-béton,Épicéa commun,Europe
+9727,,Liste des produits,Mobilier,Chêne,France
+9739,Structure bois du bâtiment,Structure verticale,Poteau poutre,Épicéa commun,Auvergne-Rhône-Alpes
+9739,Structure bois du bâtiment,Structure horizontale,Solivage traditionnel,Épicéa commun,Auvergne-Rhône-Alpes
+992,Structure bois du bâtiment,Charpente,Panneau massif,Tempéré,Aucune
+9935,Structure bois du bâtiment,Charpente,Charpente bois lamellé-collé,Épicéa commun,Auvergne-Rhône-Alpes
+9935,Revêtement bois extérieur,Revêtement bois ou dérivés,Lame bois massif,Épicéa commun,Auvergne-Rhône-Alpes

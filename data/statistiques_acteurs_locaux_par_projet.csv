@@ -1,0 +1,210 @@
+id_projet,nom_projet,commune_projet,departement_projet,region_projet,nb_acteurs_departement_connu,nb_acteurs_meme_departement,nb_acteurs_region_connue,nb_acteurs_meme_region,part_acteurs_meme_departement,part_acteurs_meme_region
+1598,Station de Recharge Solaire du Lac des Sapins,Cublize,Rhone,Auvergne-Rhone-Alpes,3,3,3,3,1,1
+1872,Extension avec remise en hameau,Quincie-En-Beaujolais,Rhone,Auvergne-Rhone-Alpes,3,3,3,3,1,1
+1924,Mairie et salles culturelles et associatives au standard Passiv Haus,Parent,Puy-de-Dome,Auvergne-Rhone-Alpes,5,5,5,5,1,1
+3800,Bureaux du SITOM des Vallées du mont Blanc,Passy,Haute-Savoie,Auvergne-Rhone-Alpes,10,10,10,10,1,1
+3956,quai de transfert,Villard-De-Lans,Isere,Auvergne-Rhone-Alpes,6,6,6,6,1,1
+4188,Projet de sauvegarde et de restauration de la scierie et de l'usine hydroélectrique du site des Ségoins et aménagement des abords,Valjouffrey,Isere,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+4464,Construction d’un multi-accueil Crèche + RAM,Fareins,Ain,Auvergne-Rhone-Alpes,6,6,6,6,1,1
+448,Construction d'un pôle enfance,Saint-Egreve,Isere,Auvergne-Rhone-Alpes,11,11,11,11,1,1
+4515,Extension d'un chalet,Bonneville,Haute-Savoie,Auvergne-Rhone-Alpes,2,2,2,2,1,1
+4538,Habitat H2O par AtticorA,La Mure,Isere,Auvergne-Rhone-Alpes,2,2,2,2,1,1
+567,HUMAN box,Lyon,Rhone,Auvergne-Rhone-Alpes,2,2,2,2,1,1
+6102,"Réhabilitation de la mairie et du four communal, extension de l’école de Mizoën",Mizoen,Isere,Auvergne-Rhone-Alpes,8,8,8,8,1,1
+6204,Extension d'une Maison d'habitation principale,Serezin-De-La-Tour,Isere,Auvergne-Rhone-Alpes,6,6,6,6,1,1
+6220,CONSTRUCTION D'UNE MAISON INDIVIDUELLE,Villemontais,Loire,Auvergne-Rhone-Alpes,3,3,3,3,1,1
+638,Maison T,Saint-Martin-D'heres,Isere,Auvergne-Rhone-Alpes,5,5,5,5,1,1
+6410,Villa L+P,Alex,Haute-Savoie,Auvergne-Rhone-Alpes,6,6,6,6,1,1
+6594,LCR PETIT BOIS,Meylan,Isere,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+6610,CENTRE EQUESTRE AU PIED DES MONTAGNES,Aviernoz (Filliere),Haute Savoie,Auvergne-Rhone-Alpes,5,5,5,5,1,1
+6779,"Terrasses ludiques, ou comment transformer nos places de parking !",Grenoble,Isere,Auvergne-Rhone-Alpes,5,5,5,5,1,1
+6785,Les Petites Roches,Le Touvet,Isere,Auvergne-Rhone-Alpes,8,8,8,8,1,1
+6825,VILLA MV,La Tronche,Isere,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+6830,au bout du monde,Egliseneuve-Pres-Billom,Puy-de-Dome,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+685,Carbet urbain,Venissieux,Rhone,Auvergne-Rhone-Alpes,2,2,2,2,1,1
+699,Halle des Grands Murcins,Arcon,Loire,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+7002,Protection d'urgence du laboratoire 3SR,Saint-Martin-D'heres,Isere,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+7141,Extension de l'EHPAD privé Saint vincent de Paul,Saint-Etienne,Loire,Auvergne-Rhone-Alpes,10,10,10,10,1,1
+7609,"Exposition ""Musée Champollion en Isère, un chantier déchiffré""",Vif,Isere,Auvergne-Rhone-Alpes,3,3,3,3,1,1
+7845,Halle de convivialité,Coublevie,Isere,Auvergne-Rhone-Alpes,6,6,6,6,1,1
+7865,CENTRE ANIMATION DU PARC MONTAUD,Saint-Etienne,Loire,Auvergne-Rhone-Alpes,10,10,10,10,1,1
+8104,Maison AV,Chichilianne,Isere,Auvergne-Rhone-Alpes,4,4,4,4,1,1
+829,construction de nouveaux locaux pour le club de rugby,Le Touvet,Isere,Auvergne-Rhone-Alpes,5,5,5,5,1,1
+5959,Mairie et Salle des Fêtes à Lully (74),Lully,Haute-Savoie,Auvergne-Rhone-Alpes,13,12,13,13,0.923,1
+6284,BASE NAUTIQUE DE SCIEZ,Sciez,Haute-Savoie,Auvergne-Rhone-Alpes,11,10,11,11,0.909,1
+7726,Halle du marché de Noirétable,Noiretable,Loire,Auvergne-Rhone-Alpes,11,10,11,11,0.909,1
+58,Amphithéâtre Wilfrid Kilian,Gieres,Isere,Auvergne-Rhone-Alpes,9,8,9,9,0.889,1
+6378,Le Clos du Fayard - Habitats intergénérationnels à Fayet-le-Château,Riom,Puy-de-Dome,Auvergne-Rhone-Alpes,9,8,9,9,0.889,1
+1137,le Mangetou,Monestier-De-Clermont,Isere,Auvergne-Rhone-Alpes,8,7,8,8,0.875,1
+4589,TELESPACE,Villard-De-Lans,Isere,Auvergne-Rhone-Alpes,8,7,8,8,0.875,1
+7935,Rénovation et extension de la Salle Polyvalente et création d'une chaufferie,Dorat,Puy-de-Dome,Auvergne-Rhone-Alpes,8,7,8,8,0.875,1
+835,Extension du groupe scolaire ELISEE CHATIN à GRENOBLE (38),Grenoble,Isere,Auvergne-Rhone-Alpes,8,7,8,8,0.875,1
+353,Ecole du Pertuis,Le Pertuis,Haute-Loire,Auvergne-Rhone-Alpes,7,6,7,7,0.857,1
+6391,Réhabilitation du batiment de La Corniche à Firminy,Firminy,Loire,Auvergne-Rhone-Alpes,7,6,7,7,0.857,1
+6916,RENOVATION - EXTENSION DE LA SALLE POLYVALENTE DE MASSIEU,Massieu,Isere,Auvergne-Rhone-Alpes,7,6,7,7,0.857,1
+7587,Halle de marché de la place du Bourniau à Novalaise,Novalaise,Savoie,Auvergne-Rhone-Alpes,7,6,7,7,0.857,1
+1025,Espace pédagogique Gare Part-Dieu,Lyon,Rhone,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+1269,"Coopérative Laitière ""VERCORS LAIT""",Villard-De-Lans,Isere,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+1315,"centre d'accueil sportif, ""ZECAMP""",Correncon-En-Vercors,Isere,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+1833,Volière au zoo de Saint Martin la Plaine,Saint-Martin-La-Plaine,Loire,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+609,Pré-Fabrique de l'Innovation - Campus LyonTech La Doua,Villeurbanne,Rhone,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+6392,Construction d’une cuisine et d’un restaurant de groupe scolaire,Saint-Genest-Lerpt,Loire,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+7429,Place de Village du Touvet,Le Touvet,Isere,Auvergne-Rhone-Alpes,6,5,6,6,0.833,1
+7862,PÔLE ENFANCE,Saint-Marcellin-En-Forez,Loire,Auvergne-Rhone-Alpes,12,10,12,12,0.833,1
+838,Groupe Scolaire Simone Lagrange,Grenoble,Isere,Auvergne-Rhone-Alpes,11,9,11,11,0.818,1
+1675,Habert du col de Porte,Sarcenas,Isere,Auvergne-Rhone-Alpes,5,4,5,5,0.8,1
+4313,Mélèze de Maurienne dans les vignobles de Savoie,Saint-Jeoire-Prieure,Savoie,Auvergne-Rhone-Alpes,5,4,5,5,0.8,1
+4428,Village 2 santé - centre de santé communautaire,Echirolles,Isere,Auvergne-Rhone-Alpes,10,8,10,10,0.8,1
+6196,Réfection du Refuge du Tubanet,Ombleze,Drome,Auvergne-Rhone-Alpes,5,4,5,5,0.8,1
+2916,Salle des congrés,Vizille,Isere,Auvergne-Rhone-Alpes,9,7,9,9,0.778,1
+4072,Construction de la nouvelle école primaire et réhabilitation d'une grange patrimoniale,Le Haut-Breda,Isere,Auvergne-Rhone-Alpes,9,7,9,9,0.778,1
+6532,Accueil de jour de l'EHPAD Belle-vallée & jardin thérapeutique,Froges,Isere,Auvergne-Rhone-Alpes,9,7,9,9,0.778,1
+7491,LE PRE VERT,Crolles,Isere,Auvergne-Rhone-Alpes,9,7,9,9,0.778,1
+1261,Observatoire de la nature de l'Ile du Beurre,Tupin-Et-Semons,Rhone,Auvergne-Rhone-Alpes,4,3,4,4,0.75,1
+1586,Basse-cour et Potager - Epicerie biologique,Miribel,Ain,Auvergne-Rhone-Alpes,4,3,4,4,0.75,1
+413,Construction de la Maison des Ages de la Vie et Université Populaire à Givors,Givors,Rhone,Auvergne-Rhone-Alpes,8,6,8,8,0.75,1
+4446,Extension des Écoles Leclerc et Prévert à Tassin la Demi-Lune,Tassin-La-Demi-Lune,Rhone,Auvergne-Rhone-Alpes,8,6,8,8,0.75,1
+6195,Centre Départemental d'Aide par le Travail (CDAT),Saint-Priest-En-Jarez,Loire,Auvergne-Rhone-Alpes,12,9,12,12,0.75,1
+9327,RÉHABILITATION D’UNE GRANGE ET CONSTRUCTION D’UNE HALLE AU MOUTARET,Le Moutaret,Isere,Auvergne-Rhone-Alpes,8,6,8,8,0.75,1
+1252,Maison Aribert _ transformation d'une Bâtisse du 19ème en restaurant - maison d'hôtes,Saint-Martin-D'uriage,Isere,Auvergne-Rhone-Alpes,15,11,14,14,0.733,1
+7683,Maison de la vigne et du vin à Apremont,Apremont,Savoie,Auvergne-Rhone-Alpes,11,8,11,11,0.727,1
+6016,"Salle polyvalente, école, bibliothèque à Labalme",Labalme,Ain,Auvergne-Rhone-Alpes,7,5,7,7,0.714,1
+7581,Magasin de producteurs la gamme paysanne,La Frette,Isere,Auvergne-Rhone-Alpes,7,5,7,7,0.714,1
+6540,Collège Lucie Aubrac,Grenoble,Isere,Auvergne-Rhone-Alpes,17,12,17,17,0.706,1
+5949,Rénovation et extension de l'école élémentaire publique,Saint-Remy-Sur-Durolle,Puy-de-Dome,Auvergne-Rhone-Alpes,10,7,10,10,0.7,1
+7619,Projet centre village à Saint Jean-le-Vieux,Saint-Jean-Le-Vieux,Isere,Auvergne-Rhone-Alpes,10,7,10,10,0.7,1
+4389,Maison Aribert _extension neuve _ restaurant gastronomique,Saint-Martin-D'uriage,Isere,Auvergne-Rhone-Alpes,13,9,12,12,0.692,1
+6778,Salle multi-activités,Saint-Sauveur,Isere,Auvergne-Rhone-Alpes,13,9,13,13,0.692,1
+5793,Aménagement des bureaux scierie blanc,Marches,Drome,Auvergne-Rhone-Alpes,3,2,3,3,0.667,1
+6015,Création d'un commerce et aménagement de place à Echallon,Echallon,Ain,Auvergne-Rhone-Alpes,6,4,6,6,0.667,1
+7513,SAINT EXUPERY,Villeurbanne,Rhone,Auvergne-Rhone-Alpes,9,6,9,9,0.667,1
+7826,Construction d'un bâtiment d'accueil,Albepierre-Bredons,Cantal,Auvergne-Rhone-Alpes,6,4,6,6,0.667,1
+7988,Médiathèque tête de réseau Vals du Dauphiné,Le Pont-De-Beauvoisin,Isere,Auvergne-Rhone-Alpes,12,8,12,12,0.667,1
+6177,Pôle associatif à Messimy,Messimy,Rhone,Auvergne-Rhone-Alpes,8,5,8,8,0.625,1
+6943,Une école rayonnante,Le Vernet,Allier,Auvergne-Rhone-Alpes,8,5,8,8,0.625,1
+5942,Pôle scientifique du lycée du Forez,Feurs,Loire,Auvergne-Rhone-Alpes,10,6,10,10,0.6,1
+6777,Halle couverte de coeur de village,Entre-Deux-Guiers,Isere,Auvergne-Rhone-Alpes,5,3,5,5,0.6,1
+6869,Ecole centre bourg,Chantesse,Isere,Auvergne-Rhone-Alpes,15,9,15,15,0.6,1
+6608,MAISON DE SANTE DU PAYS DU VUACHE,Valleiry,Haute-Savoie,Auvergne-Rhone-Alpes,7,4,7,7,0.571,1
+5888,Maison passive à Yzeron,Yzeron,Rhone,Auvergne-Rhone-Alpes,4,2,4,4,0.5,1
+7391,Construction d'un bâtiment d'accueil au Col de la Loge,La Chambonie,Loire,Auvergne-Rhone-Alpes,8,4,8,8,0.5,1
+7577,maison THO,Voiron,Isere,Auvergne-Rhone-Alpes,2,1,2,2,0.5,1
+839,Le cap - Pépinière d'entreprises,Saint-Clair-De-La-Tour,Isere,Auvergne-Rhone-Alpes,8,4,8,8,0.5,1
+617,Aménagement intérieur du Siège de la Communauté de communes de l'Oisans,Le Bourg-D'oisans,Isere,Auvergne-Rhone-Alpes,11,5,11,11,0.455,1
+1575,Atelier de Danse + Habitation,Tourzelle-Ronziere,Puy de Dome,Auvergne-Rhone-Alpes,5,2,5,5,0.4,1
+6990,Sur la cascade,Saint-Cassin,Savoie,Auvergne-Rhone-Alpes,10,4,10,10,0.4,1
+6367,Maison LFC,Champagne-Au-Mont-D'or,Rhone,Auvergne-Rhone-Alpes,3,1,3,3,0.333,1
+6154,ECOLE PUBLIQUE JACQUES PREVERT A DUNIERES,Dunieres,Haute-Loire,Auvergne-Rhone-Alpes,10,3,10,10,0.3,1
+2903,CITE DE LA MUSIQUE DE ROMANS,Romans-Sur-Isere,Drome,Auvergne-Rhone-Alpes,7,2,7,7,0.286,1
+7583,Office du tourisme des Menuires,Les Belleville,Savoie,Auvergne-Rhone-Alpes,7,2,7,7,0.286,1
+344,Maison Bimby,Perignat Les Sarlieves,Puy de Dome,Auvergne-Rhone-Alpes,4,1,4,4,0.25,1
+4385,Extension,Oullins-Pierre-Benite,Rhone,Auvergne-Rhone-Alpes,4,1,4,4,0.25,1
+4566,88,Vaulx-Milieu,Isere,Auvergne-Rhone-Alpes,4,1,4,4,0.25,1
+531,Complexe Sportif à Pusignan,Pusignan,Rhone,Auvergne-Rhone-Alpes,8,2,8,8,0.25,1
+6986,BURON DORÉ,Mont-Dore,Puy-de-Dome,Auvergne-Rhone-Alpes,4,1,4,4,0.25,1
+7871,EXTENSION D'UN COMPLEXE SPORTIF,Monistrol-Sur-Loire,Haute-Loire,Auvergne-Rhone-Alpes,12,3,12,12,0.25,1
+885,halles municipales,Longessaigne,Rhone,Auvergne-Rhone-Alpes,9,2,9,9,0.222,1
+415,Collège de Beaumont les valence,Beaumont-Les-Valence,Drome,Auvergne-Rhone-Alpes,13,2,13,13,0.154,1
+1743,MAISON POUR TOUS,Four,Isere,Auvergne-Rhone-Alpes,19,13,19,18,0.684,0.947
+7096,Groupe scolaire DIDEROT,Grenoble,Isere,Auvergne-Rhone-Alpes,17,12,17,16,0.706,0.941
+410,Siège de la Communauté de communes de l'Oisans,Le Bourg-D'oisans,Isere,Auvergne-Rhone-Alpes,17,7,16,15,0.412,0.938
+6776,Le 38B,Fontaine,Isere,Auvergne-Rhone-Alpes,15,11,15,14,0.733,0.933
+5891,Construction de Locaux pour Diverses Activités Nautiques à Thonon-Les-Bains,Thonon-Les-Bains,Haute-Savoie,Auvergne-Rhone-Alpes,14,13,14,13,0.929,0.929
+9136,"Équipement culturel et évènementiel : ""Salle des Fêtes du Creux"" - Thoiry (01)",Thoiry,Ain,Auvergne-Rhone-Alpes,14,2,14,13,0.143,0.929
+6210,Construction d'un Restaurant Scolaire - Ecole Maternelle de l'Oiselet,Bourgoin-Jallieu,Isere,Auvergne-Rhone-Alpes,13,10,13,12,0.769,0.923
+9157,2202-ST DENIS LES BOURG-Salle des fêtes,Saint-Denis-Les-Bourg,Ain,Auvergne-Rhone-Alpes,13,10,13,12,0.769,0.923
+6723,Groupe Scolaire et Bibliothéque,Mercurol-Veaunes,Drome,Auvergne-Rhone-Alpes,13,8,13,12,0.615,0.923
+7684,Auberge nordique au Grand-Bornand,Le Grand-Bornand,Haute-Savoie,Auvergne-Rhone-Alpes,13,8,13,12,0.615,0.923
+7057,CONSTRUCTION D'UN COLLÈGE ET D'UNE SALLE MULTISPORTS,Joyeuse,Ardeche,Auvergne-Rhone-Alpes,26,11,26,24,0.423,0.923
+5850,CONSEIL DEPARTEMENTAL IMMEUBLE RUE PAUL PETIT,Saint-Etienne,Loire,Auvergne-Rhone-Alpes,12,11,12,11,0.917,0.917
+4200,POLE ENFANCE JEUNESSE A PLAUZAT,Plauzat,Puy-de-Dome,Auvergne-Rhone-Alpes,12,9,12,11,0.75,0.917
+4554,GROUPE SCOLAIRE DU GRAND LEMPS,Le Grand-Lemps,Isere,Auvergne-Rhone-Alpes,12,9,12,11,0.75,0.917
+9498,Centre de formation pour les pompiers du SDIS 63 en ossature bois et paille,Clermont-Ferrand,Puy-de-Dome,Auvergne-Rhone-Alpes,12,5,12,11,0.417,0.917
+5975,GROUPE SCOLAIRE À MONESTIER-DE-CLERMONT (38),Monestier-De-Clermont,Isere,Auvergne-Rhone-Alpes,11,9,11,10,0.818,0.909
+7300,La Station M,Grenoble,Isere,Auvergne-Rhone-Alpes,11,9,11,10,0.818,0.909
+1014,Mairie de Brié & Angonnes,Brie & Angonnes,Isere,Auvergne-Rhone-Alpes,11,8,11,10,0.727,0.909
+7818,Extension de l'EHPAD de Froges,Froges,Isere,Auvergne-Rhone-Alpes,11,8,11,10,0.727,0.909
+6793,BUREAUX MERIEUX,Lyon,Rhone,Auvergne-Rhone-Alpes,12,7,11,10,0.583,0.909
+5816,Rénovation de l'ancien hôtel des Ecrins en logements saisonniers,Saint-Christophe-En-Oisans,Isere,Auvergne-Rhone-Alpes,10,8,10,9,0.8,0.9
+6843,Lyon Confluence - Pôle Santé,Lyon,Rhone,Auvergne-Rhone-Alpes,11,8,10,9,0.727,0.9
+7888,Pluriel,Lyon,Rhone,Auvergne-Rhone-Alpes,11,7,10,9,0.636,0.9
+180,Centre d'exploitation et d'intervention du Puy en Velay,Le Puy-En-Velay,Haute-Loire,Auvergne-Rhone-Alpes,10,4,10,9,0.4,0.9
+4310,Cuisine et restaurant scolaire du Lycée Champollion,Grenoble,Isere,Auvergne-Rhone-Alpes,10,4,10,9,0.4,0.9
+6619,SAINT AGATHE,Condrieu,Rhone,Auvergne-Rhone-Alpes,10,1,10,9,0.1,0.9
+1254,Réhabilitation et extension de la mairie de CHESSENAZ,Chessenaz,Haute-Savoie,Auvergne-Rhone-Alpes,9,8,9,8,0.889,0.889
+6706,La halle de Reventin-Vaugris,Reventin-Vaugris,Isere,Auvergne-Rhone-Alpes,9,3,9,8,0.333,0.889
+7659,Dispositif Expérimental de l'Unité Herbipôle sur le site de l'INRA de Theix (63),Saint-Genes-Champanelle,Puy-de-Dome,Auvergne-Rhone-Alpes,9,2,9,8,0.222,0.889
+2006,Résidence Saint-Ange,Seyssins,Isere,Auvergne-Rhone-Alpes,8,7,8,7,0.875,0.875
+4386,Salle Hors-Sac aux LINDARETS - MONTRIOND,Montriond,Haute-Savoie,Auvergne-Rhone-Alpes,8,7,8,7,0.875,0.875
+6798,Extension de l'école technique du bois de Cormaranche-en-Bugey,Plateau D'hauteville,Ain,Auvergne-Rhone-Alpes,8,7,8,7,0.875,0.875
+1331,REHABILITATION DU GYMNASE PIERRE DE COUBERTIN,La Cote St Andre,Isere,Auvergne-Rhone-Alpes,8,6,8,7,0.75,0.875
+4217,Maison Gérard Philipe,Le Versoud,Isere,Auvergne-Rhone-Alpes,16,12,16,14,0.75,0.875
+6101,Cabane pastorale héliportable,NA,Isere,Auvergne-Rhone-Alpes,8,6,8,7,0.75,0.875
+1835,Surélévation immeuble Europarc du Chêne,Bron,Rhone,Auvergne-Rhone-Alpes,8,5,8,7,0.625,0.875
+7680,Collège La Lauzière,Val-D'arc,Savoie,Auvergne-Rhone-Alpes,8,5,8,7,0.625,0.875
+1758,Extension Bureaux CCVL,Vaugneray,Rhone,Auvergne-Rhone-Alpes,9,5,8,7,0.556,0.875
+6050,RESIDENCE L'ETOILE DES SYBELLES,Villarembert,Savoie,Auvergne-Rhone-Alpes,8,4,8,7,0.5,0.875
+7427,Extension de la salle des fêtes de Lupé,Lupe,Loire,Auvergne-Rhone-Alpes,8,4,8,7,0.5,0.875
+6377,Le pisé Valentin,Bourg-Les-Valence,Drome,Auvergne-Rhone-Alpes,8,2,8,7,0.25,0.875
+3906,Le Village des Oiseaux - Hébergements touristiques à Motz,Motz,Savoie,Auvergne-Rhone-Alpes,8,1,8,7,0.125,0.875
+4071,Lycée Pierre du Terrail - Restructuration et construction neuve - Internat et restaurant scolaire,Pontcharra,Isere,Auvergne-Rhone-Alpes,15,9,15,13,0.6,0.867
+6069,Halle de la station de pleine nature,Mandailles-Saint-Julien,Cantal,Auvergne-Rhone-Alpes,15,7,15,13,0.467,0.867
+449,Construction d'une nouvelle mairie,Plan,Isere,Auvergne-Rhone-Alpes,7,6,7,6,0.857,0.857
+6804,"PÔLE ENFANCE ""FORMES ET COULEURS""",Aulnat,Puy-de-Dome,Auvergne-Rhone-Alpes,7,6,7,6,0.857,0.857
+5763,MAISON J,Grenoble,Isere,Auvergne-Rhone-Alpes,7,5,7,6,0.714,0.857
+7816,Une école et une place à Veyssilieu,Veyssilieu,Isere,Auvergne-Rhone-Alpes,7,5,7,6,0.714,0.857
+5746,l'Adeline,Saint-Martin-D'heres,Isere,Auvergne-Rhone-Alpes,14,9,14,12,0.643,0.857
+6680,SIEGE SOCIAL PICTURE ORGANIC CLOTHING,Cebazat,Puy-de-Dome,Auvergne-Rhone-Alpes,14,9,14,12,0.643,0.857
+8128,Centre Jean Labellie - Espace culturel et sportif,Le Rouget-Pers,Cantal,Auvergne-Rhone-Alpes,14,7,14,12,0.5,0.857
+6591,MAISON DU DÉPARTEMENT DE L'OISANS,Le Bourg-D'oisans,Isere,Auvergne-Rhone-Alpes,13,6,13,11,0.462,0.846
+8057,"Centre Jean Labellie, Espace Culturel et Sportif au Rouget",Le Rouget-Pers,Cantal,Auvergne-Rhone-Alpes,13,6,13,11,0.462,0.846
+7166,"""Entre Terre et Ciel""",Saint-Martin-D'uriage,Isere,Auvergne-Rhone-Alpes,19,12,19,16,0.632,0.842
+5681,Le Maquis,Lyon,Rhone,Auvergne-Rhone-Alpes,6,4,6,5,0.667,0.833
+6513,Maison bioclimatique,Annecy,Haute-Savoie,Auvergne-Rhone-Alpes,6,4,6,5,0.667,0.833
+7804,Maison passive dans le Parc Naturel du Pilat,Saint-Cyr-Sur-Le-Rhone,Rhone,Auvergne-Rhone-Alpes,6,2,6,5,0.333,0.833
+6258,Equipements de service public,Neuvecelle,Haute-Savoie,Auvergne-Rhone-Alpes,12,3,12,10,0.25,0.833
+1376,CENTRE SOCIAL LA TALAUDIÈRE,La Talaudiere,Loire,Auvergne-Rhone-Alpes,11,7,11,9,0.636,0.818
+6801,Remplacement d'une passerelle skieurs dans le Cantal - Le Lioran,Laveissiere,Cantal,Auvergne-Rhone-Alpes,11,3,11,9,0.273,0.818
+6991,abris pour voyageurs,Villard-De-Lans,Isere,Auvergne-Rhone-Alpes,21,13,21,17,0.619,0.81
+5710,Gîte du Noisetier,Saint-Bonnet-Pres-Orcival,Puy-de-Dome,Auvergne-Rhone-Alpes,5,3,5,4,0.6,0.8
+6217,CLOS 72,Vaulx-Milieu,Isere,Auvergne-Rhone-Alpes,5,3,5,4,0.6,0.8
+648,Eco Jardinier de Gières,Gieres,Isere,Auvergne-Rhone-Alpes,5,3,5,4,0.6,0.8
+6761,Centre Médico Social de Villard Bonnot 38190,Villard-Bonnot,Isere,Auvergne-Rhone-Alpes,15,9,15,12,0.6,0.8
+6393,Les Frimousses - Une Crèche et un jardin d'hiver à Trevoux,Trevoux,Ain,Auvergne-Rhone-Alpes,5,2,5,4,0.4,0.8
+6254,Nouvelle Halle des Sports de Donzère,Donzere,Drome,Auvergne-Rhone-Alpes,10,2,10,8,0.2,0.8
+552,Canopée,Saint-Hilaire,Allier,Auvergne-Rhone-Alpes,5,0,5,4,0,0.8
+5874,Collége de Champier,Champier,Isere,Auvergne-Rhone-Alpes,14,6,14,11,0.429,0.786
+6137,Restaurant Scolaire St Alban de Roche,Saint-Alban-De-Roche,Isere,Auvergne-Rhone-Alpes,13,10,13,10,0.769,0.769
+6542,Gymnase Les Petites Roches,Plateau-Des-Petites-Roches,Isere,Auvergne-Rhone-Alpes,13,8,13,10,0.615,0.769
+1550,CRÉATION D'UN BÂTIMENT DE BUREAUX PASSIF,Tassin-La-Demi-Lune,Rhone,Auvergne-Rhone-Alpes,4,3,4,3,0.75,0.75
+7405,Eco lieu Lamazuna,Marches,Drome,Auvergne-Rhone-Alpes,16,9,16,12,0.562,0.75
+3824,Ecolodge Le Volcan des Sens,Torsiac,Haute-Loire,Auvergne-Rhone-Alpes,4,2,4,3,0.5,0.75
+6245,L'atrium - Mairie de Miribel,Miribel,Ain,Auvergne-Rhone-Alpes,4,2,4,3,0.5,0.75
+8941,Impluvium,Fourneaux,Loire,Auvergne-Rhone-Alpes,4,1,4,3,0.25,0.75
+6925,Halle à usages multiples,Amplepuis,Rhone,Auvergne-Rhone-Alpes,8,1,8,6,0.125,0.75
+5745,Les écuries de la Roche,Vourles,Rhone,Auvergne-Rhone-Alpes,7,3,7,5,0.429,0.714
+6008,CENTRE NAUTIQUE INTERCOMMNUNAL DE PONTCHARRA,Pontcharra,Isere,Auvergne-Rhone-Alpes,10,5,10,7,0.5,0.7
+5834,CAMPUS TRANSFO pour RTE,Jonage,Rhone,Auvergne-Rhone-Alpes,12,8,12,8,0.667,0.667
+7655,Micro-crèche de Claveisolles,Claveisolles,Rhone,Auvergne-Rhone-Alpes,9,6,9,6,0.667,0.667
+4493,Mademoiselle *****,Val-D'isere,Savoie,Auvergne-Rhone-Alpes,6,3,6,4,0.5,0.667
+4559,Boutique Traiteur Fenotte,Lyon,Rhone,Auvergne-Rhone-Alpes,6,3,6,4,0.5,0.667
+6400,HOTEL LE MILDISS,Besse-Et-Saint-Anastaise,Puy-de-Dome,Auvergne-Rhone-Alpes,6,3,6,4,0.5,0.667
+1950,Bâtiment en bois massif contre cloué 100 % Local Air Liquide,Sassenage,Isere,Auvergne-Rhone-Alpes,6,2,6,4,0.333,0.667
+9687,Cantine scolaire de Gières,Gieres,Isere,Auvergne-Rhone-Alpes,14,8,14,9,0.571,0.643
+3992,Thermes de Vals les bains,Vals-Les-Bains,Ardeche,Auvergne-Rhone-Alpes,11,5,11,7,0.455,0.636
+9739,84 Logements à Trévoux,Trevoux,Ain,Auvergne-Rhone-Alpes,11,0,11,7,0,0.636
+7579,L'ÎLE Ô,Lyon,Rhone,Auvergne-Rhone-Alpes,5,1,5,3,0.2,0.6
+4561,La Maison aux Escaliers,Villefontaine,Isere,Auvergne-Rhone-Alpes,7,4,7,4,0.571,0.571
+1565,Espace Novateur en milieu Rural,Brangues,Isere,Auvergne-Rhone-Alpes,7,2,7,4,0.286,0.571
+296,Clinique dentaire,Belley,Ain,Auvergne-Rhone-Alpes,7,0,7,4,0,0.571
+6029,Maison particulière à Montélier,Montelier,Drome,Auvergne-Rhone-Alpes,9,4,9,5,0.444,0.556
+7361,Le Pôle d'Echanges Multimodal de Saint-Jean-de-Maurienne,Saint-Jean-De-Maurienne,Savoie,Auvergne-Rhone-Alpes,9,4,9,5,0.444,0.556
+9712,Immeuble tertiaire Wood,Grenoble,Isere,Auvergne-Rhone-Alpes,11,0,11,6,0,0.545
+1286,Construction d'un logement insolite à La Souche (07),La Souche,Ardeche,Auvergne-Rhone-Alpes,4,2,4,2,0.5,0.5
+8087,Terraced House,Villard-De-Lans,Isere,Auvergne-Rhone-Alpes,6,3,6,3,0.5,0.5
+9311,AMÉNAGEMENT PAYSAGER DU JARDIN PUBLIC DU PUP ALSTOM,Villeurbanne,Rhone,Auvergne-Rhone-Alpes,4,2,4,2,0.5,0.5
+7127,"La Semblada, habitat groupé participatif pour 7 familles",Clermont-Ferrand,Puy-de-Dome,Auvergne-Rhone-Alpes,6,1,6,3,0.167,0.5
+355,Dispositif expérimental ovins et bovins pour l'INRA/Laqueuille (63),Laqueuille,Puy-de-Dome,Auvergne-Rhone-Alpes,7,2,7,3,0.286,0.429
+1487,Chai Biodynamique NO CONTROL à Volvic,Volvic,Puy-de-Dome,Auvergne-Rhone-Alpes,6,1,6,1,0.167,0.167
+4124,Tiny Flore,Saint-Julien-Le-Roux,Ardeche,Auvergne-Rhone-Alpes,3,0,3,0,0,0
+7950,New Forest - Brocéliande,Saint-Priest,Rhone,Auvergne-Rhone-Alpes,7,0,7,0,0,0

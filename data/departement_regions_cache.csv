@@ -1,0 +1,66 @@
+dept,region_code,region
+01,84,Auvergne-Rhone-Alpes
+03,84,Auvergne-Rhone-Alpes
+04,93,Provence-Alpes-Cote d'Azur
+05,93,Provence-Alpes-Cote d'Azur
+06,93,Provence-Alpes-Cote d'Azur
+07,84,Auvergne-Rhone-Alpes
+08,44,Grand Est
+09,76,Occitanie
+10,44,Grand Est
+12,76,Occitanie
+13,93,Provence-Alpes-Cote d'Azur
+14,28,Normandie
+15,84,Auvergne-Rhone-Alpes
+16,75,Nouvelle-Aquitaine
+17,75,Nouvelle-Aquitaine
+18,24,Centre-Val de Loire
+19,75,Nouvelle-Aquitaine
+22,53,Bretagne
+23,75,Nouvelle-Aquitaine
+24,75,Nouvelle-Aquitaine
+25,27,Bourgogne-Franche-Comte
+26,84,Auvergne-Rhone-Alpes
+27,28,Normandie
+30,76,Occitanie
+31,76,Occitanie
+33,75,Nouvelle-Aquitaine
+34,76,Occitanie
+35,53,Bretagne
+38,84,Auvergne-Rhone-Alpes
+39,27,Bourgogne-Franche-Comte
+40,75,Nouvelle-Aquitaine
+41,24,Centre-Val de Loire
+42,84,Auvergne-Rhone-Alpes
+43,84,Auvergne-Rhone-Alpes
+44,52,Pays de la Loire
+45,24,Centre-Val de Loire
+46,76,Occitanie
+48,76,Occitanie
+54,44,Grand Est
+55,44,Grand Est
+58,27,Bourgogne-Franche-Comte
+59,32,Hauts-de-France
+63,84,Auvergne-Rhone-Alpes
+67,44,Grand Est
+68,44,Grand Est
+69,84,Auvergne-Rhone-Alpes
+70,27,Bourgogne-Franche-Comte
+71,27,Bourgogne-Franche-Comte
+73,84,Auvergne-Rhone-Alpes
+74,84,Auvergne-Rhone-Alpes
+75,11,Ile-de-France
+76,28,Normandie
+78,11,Ile-de-France
+81,76,Occitanie
+82,76,Occitanie
+83,93,Provence-Alpes-Cote d'Azur
+84,93,Provence-Alpes-Cote d'Azur
+85,52,Pays de la Loire
+88,44,Grand Est
+92,11,Ile-de-France
+93,11,Ile-de-France
+94,11,Ile-de-France
+95,11,Ile-de-France
+DE,,
+NL,,
