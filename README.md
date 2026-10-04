@@ -53,7 +53,7 @@ Rscript scripts/02_analyse_visualisation.R
 Si R n’est pas dans le `PATH`, utiliser le chemin complet vers `Rscript.exe`, par exemple :
 
 ```powershell
-& "D:/桌面app/R-4.5.1/bin/Rscript.exe" scripts/02_analyse_visualisation.R
+& "D:/app/R-4.5.1/bin/Rscript.exe" scripts/02_analyse_visualisation.R
 ```
 
 ## Application Shiny
