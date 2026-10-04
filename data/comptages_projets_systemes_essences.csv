@@ -1,0 +1,49 @@
+gauche,droite,nb_projets
+Charpente,Douglas,31
+Charpente,Mélèze,4
+Charpente,Pin maritime,1
+Charpente,Pin sylvestre,3
+Charpente,Résineux,1
+Charpente,Sapin pectiné,28
+Charpente,Épicéa commun,82
+Menuiserie extérieure,Châtaignier,1
+Menuiserie extérieure,Chêne,3
+Menuiserie extérieure,Douglas,9
+Menuiserie extérieure,Frêne,1
+Menuiserie extérieure,Mélèze,19
+Menuiserie extérieure,Pin maritime,5
+Menuiserie extérieure,Pin sylvestre,29
+Menuiserie extérieure,Résineux,1
+Menuiserie extérieure,Sapin pectiné,3
+Menuiserie extérieure,Épicéa commun,9
+Menuiserie intérieure,Chêne,3
+Menuiserie intérieure,Douglas,1
+Menuiserie intérieure,Hêtre,2
+Menuiserie intérieure,Mélèze,1
+Menuiserie intérieure,Pin maritime,1
+Menuiserie intérieure,Pin sylvestre,2
+Menuiserie intérieure,Résineux,1
+Menuiserie intérieure,Épicéa commun,2
+Revêtement bois ou dérivés,Châtaignier,3
+Revêtement bois ou dérivés,Chêne,1
+Revêtement bois ou dérivés,Douglas,76
+Revêtement bois ou dérivés,Mélèze,30
+Revêtement bois ou dérivés,Peuplier,1
+Revêtement bois ou dérivés,Pin sylvestre,1
+Revêtement bois ou dérivés,Robinier faux acacia,2
+Revêtement bois ou dérivés,Résineux,1
+Revêtement bois ou dérivés,Sapin pectiné,4
+Revêtement bois ou dérivés,Épicéa commun,7
+Structure horizontale,Douglas,23
+Structure horizontale,Mélèze,3
+Structure horizontale,Pin maritime,1
+Structure horizontale,Pin sylvestre,2
+Structure horizontale,Résineux,1
+Structure horizontale,Sapin pectiné,18
+Structure horizontale,Épicéa commun,65
+Structure verticale,Châtaignier,1
+Structure verticale,Douglas,41
+Structure verticale,Mélèze,4
+Structure verticale,Pin sylvestre,1
+Structure verticale,Sapin pectiné,32
+Structure verticale,Épicéa commun,54

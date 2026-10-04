@@ -1,0 +1,85 @@
+famille_gauche,famille_droite,variable_gauche,variable_droite,n_projets,n_11,n_10,n_01,n_00,khi2_pearson,ddl,effectif_attendu_min,phi,methode,p_value
+Type de bâtiment,Parties d'ouvrage,Service institutionnel et public,Structure verticale,157,17,10,114,16,9.89435168037634,1,4.471337579617835,-0.25104053115513414,Khi2 Pearson sans correction,0.001657868487496992
+Type de bâtiment,Parties d'ouvrage,Culture,Structure horizontale,157,4,6,113,34,6.704015931158788,1,2.5477707006369426,-0.20664156991037433,Khi2 Pearson sans correction,0.0096196005359386
+Type de bâtiment,Parties d'ouvrage,Lieu d'entreprise,Menuiserie extérieure,157,2,10,75,70,5.450412374981339,1,5.885350318471337,-0.1863223078120711,Khi2 Pearson sans correction,0.01956370823380732
+Type de bâtiment,Parties d'ouvrage,Culture,Menuiserie intérieure,157,3,7,12,135,5.1666944524288585,1,0.9554140127388535,0.1814080534667747,Khi2 Pearson sans correction,0.02302398680738609
+Type de bâtiment,Parties d'ouvrage,Logement collectif,Charpente,157,4,2,140,11,5.155723476915529,1,0.4968152866242038,-0.181215349895307,Khi2 Pearson sans correction,0.023169881038738908
+Type de bâtiment,Parties d'ouvrage,Lieu d'entreprise,Structure horizontale,157,12,0,105,40,4.4420866489832,1,3.0573248407643314,0.168206853412472,Khi2 Pearson sans correction,0.03506336730081458
+Type de bâtiment,Parties d'ouvrage,Logement individuel inférieur 120 m²,Menuiserie extérieure,157,6,1,71,79,3.942209802102659,1,3.43312101910828,0.1584601419092583,Khi2 Pearson sans correction,0.047088882656307285
+Type de bâtiment,Parties d'ouvrage,Enseignement ou éducation,Structure horizontale,157,28,16,89,24,3.8155606438792287,1,11.210191082802547,-0.15589398332664192,Khi2 Pearson sans correction,0.050778608776431734
+Type de bâtiment,Parties d'ouvrage,Lieu d'entreprise,Revêtement bois ou dérivés,157,7,5,118,27,3.6272639367816097,1,2.445859872611465,-0.15199865773757013,Khi2 Pearson sans correction,0.05684018864223175
+Type de bâtiment,Parties d'ouvrage,Santé,Revêtement bois ou dérivés,157,5,4,120,28,3.4063813813813812,1,1.8343949044585988,-0.1472979860578436,Khi2 Pearson sans correction,0.06494471601793765
+Type de bâtiment,Parties d'ouvrage,Hébergement,Structure verticale,157,2,2,129,24,3.321560567856033,1,0.6624203821656051,-0.14545252399988293,Khi2 Pearson sans correction,0.06837689470842168
+Type de bâtiment,Parties d'ouvrage,Culture,Revêtement bois ou dérivés,157,10,0,115,32,2.7341496598639456,1,2.038216560509554,0.1319657758147716,Khi2 Pearson sans correction,0.0982237713445998
+Type de bâtiment,Parties d'ouvrage,Lieu d'entreprise,Structure verticale,157,12,0,119,26,2.5787838904974993,1,1.9872611464968153,0.1281615195708532,Khi2 Pearson sans correction,0.10830484155002804
+Type de bâtiment,Parties d'ouvrage,Logement individuel supérieur à 120 m²,Charpente,157,14,3,130,10,2.2024033972563384,1,1.4076433121019107,-0.11844005705960468,Khi2 Pearson sans correction,0.13779574626278154
+Type de bâtiment,Parties d'ouvrage,Restauration,Structure horizontale,157,3,3,114,37,1.9758299371709966,1,1.5286624203821657,-0.11218245878217321,Khi2 Pearson sans correction,0.159830404362197
+Type de bâtiment,Parties d'ouvrage,Culture,Charpente,157,8,2,136,11,1.9315774172917028,1,0.8280254777070064,-0.11091907353773492,Khi2 Pearson sans correction,0.16458597079746579
+Type de bâtiment,Parties d'ouvrage,Logement individuel supérieur à 120 m²,Structure horizontale,157,15,2,102,38,1.888160956690369,1,4.3312101910828025,0.10966541345773448,Khi2 Pearson sans correction,0.16940949339800498
+Type de bâtiment,Parties d'ouvrage,Industrie et commerce,Revêtement bois ou dérivés,157,7,0,118,32,1.8756266666666668,1,1.4267515923566878,0.10930080817023571,Khi2 Pearson sans correction,0.17083203922930917
+Type de bâtiment,Parties d'ouvrage,Logement individuel inférieur 120 m²,Revêtement bois ou dérivés,157,7,0,118,32,1.8756266666666668,1,1.4267515923566878,0.10930080817023571,Khi2 Pearson sans correction,0.17083203922930917
+Type de bâtiment,Parties d'ouvrage,Logement individuel supérieur à 120 m²,Structure verticale,157,16,1,115,25,1.5731414409568876,1,2.8152866242038215,0.1000999958944522,Khi2 Pearson sans correction,0.2097513862266294
+Type de bâtiment,Parties d'ouvrage,Agriculture,Revêtement bois ou dérivés,157,5,3,120,29,1.5220899748322148,1,1.6305732484076434,-0.0984623816694825,Khi2 Pearson sans correction,0.2173034915303473
+Type de bâtiment,Parties d'ouvrage,Industrie et commerce,Menuiserie extérieure,157,5,2,72,78,1.4689257884972169,1,3.43312101910828,0.09672753079324453,Khi2 Pearson sans correction,0.22551525657165222
+Type de bâtiment,Parties d'ouvrage,Industrie et commerce,Structure verticale,157,7,0,124,26,1.454147582697201,1,1.1592356687898089,0.0962397345902144,Khi2 Pearson sans correction,0.22786360202597672
+Type de bâtiment,Parties d'ouvrage,Logement individuel supérieur à 120 m²,Menuiserie extérieure,157,6,11,71,69,1.4423614673141982,1,8.337579617834395,-0.0958489213052346,Khi2 Pearson sans correction,0.22975758568646684
+Type de bâtiment,Parties d'ouvrage,Hébergement,Structure horizontale,157,4,0,113,40,1.4032735601363056,1,1.019108280254777,0.09454125106922599,Khi2 Pearson sans correction,0.23617623808503735
+Type de bâtiment,Parties d'ouvrage,Culture,Structure verticale,157,7,3,124,23,1.3960551807334791,1,1.6560509554140128,-0.09429777948002237,Khi2 Pearson sans correction,0.23738518016498839
+Type de bâtiment,Parties d'ouvrage,Hébergement,Menuiserie extérieure,157,3,1,74,79,1.1064778562940327,1,1.9617834394904459,0.08395016175043248,Khi2 Pearson sans correction,0.2928488679026944
+Type de bâtiment,Parties d'ouvrage,Service institutionnel et public,Structure horizontale,157,18,9,99,31,1.0598274161735701,1,6.8789808917197455,-0.0821613844616006,Khi2 Pearson sans correction,0.3032545506160075
+Type de bâtiment,Parties d'ouvrage,Hébergement,Revêtement bois ou dérivés,157,4,0,121,32,1.0507712418300652,1,0.8152866242038217,0.08180959881038617,Khi2 Pearson sans correction,0.30532952980590455
+Type de bâtiment,Parties d'ouvrage,Service institutionnel et public,Menuiserie intérieure,157,4,23,11,119,1.0442937014298515,1,2.5796178343949046,0.08155704898049401,Khi2 Pearson sans correction,0.30682496891492866
+Type de bâtiment,Parties d'ouvrage,Sport,Structure verticale,157,8,3,123,23,0.9823198604177378,1,1.821656050955414,-0.07910002779749958,Khi2 Pearson sans correction,0.32162674034681443
+Type de bâtiment,Parties d'ouvrage,Santé,Menuiserie extérieure,157,3,6,74,74,0.9430194805194806,1,4.414012738853503,-0.0775015709937128,Khi2 Pearson sans correction,0.3315025164292932
+Type de bâtiment,Parties d'ouvrage,Sport,Revêtement bois ou dérivés,157,10,1,115,31,0.9293158468244084,1,2.2420382165605095,0.076936397208617,Khi2 Pearson sans correction,0.3350407649712084
+Type de bâtiment,Parties d'ouvrage,Service institutionnel et public,Menuiserie extérieure,157,11,16,66,64,0.8996988196988197,1,13.242038216560509,-0.07570050020023468,Khi2 Pearson sans correction,0.34286248148534054
+Type de bâtiment,Parties d'ouvrage,Service institutionnel et public,Charpente,157,26,1,118,12,0.899270095210266,1,2.2356687898089174,0.07568246164957425,Khi2 Pearson sans correction,0.34297750084954226
+Type de bâtiment,Parties d'ouvrage,Agriculture,Menuiserie intérieure,157,0,8,15,134,0.8904433311277057,1,0.7643312101910829,-0.07531011601413067,Khi2 Pearson sans correction,0.3453571976632519
+Type de bâtiment,Parties d'ouvrage,Logement individuel supérieur à 120 m²,Revêtement bois ou dérivés,157,15,2,110,30,0.8724054621848739,1,3.464968152866242,0.0745434282084989,Khi2 Pearson sans correction,0.3502902347379712
+Type de bâtiment,Parties d'ouvrage,Santé,Charpente,157,9,0,135,13,0.8619087837837839,1,0.7452229299363057,0.0740936222954774,Khi2 Pearson sans correction,0.3532050827826387
+Type de bâtiment,Parties d'ouvrage,Logement collectif,Menuiserie extérieure,157,4,2,73,78,0.7751877813136098,1,2.9426751592356686,0.07026735936269718,Khi2 Pearson sans correction,0.37861693985891287
+Type de bâtiment,Parties d'ouvrage,Logement individuel inférieur 120 m²,Menuiserie intérieure,157,0,7,15,135,0.7739436619718311,1,0.6687898089171974,-0.07021094974994094,Khi2 Pearson sans correction,0.378999807111413
+Type de bâtiment,Parties d'ouvrage,Sport,Structure horizontale,157,7,4,110,36,0.7382848506136181,1,2.8025477707006368,-0.068574421454313,Khi2 Pearson sans correction,0.39021085613929474
+Type de bâtiment,Parties d'ouvrage,Loisirs,Menuiserie extérieure,157,9,13,68,67,0.6776027045345228,1,10.789808917197453,-0.06569582021113307,Khi2 Pearson sans correction,0.4104134484365593
+Type de bâtiment,Parties d'ouvrage,Industrie et commerce,Charpente,157,7,0,137,13,0.661435185185185,1,0.5796178343949044,0.06490734136415513,Khi2 Pearson sans correction,0.41605372575611443
+Type de bâtiment,Parties d'ouvrage,Logement individuel inférieur 120 m²,Charpente,157,7,0,137,13,0.661435185185185,1,0.5796178343949044,0.06490734136415513,Khi2 Pearson sans correction,0.41605372575611443
+Type de bâtiment,Parties d'ouvrage,Restauration,Menuiserie intérieure,157,0,6,15,136,0.6589870347915308,1,0.5732484076433121,-0.06478711020221305,Khi2 Pearson sans correction,0.4169177859937512
+Type de bâtiment,Parties d'ouvrage,Service institutionnel et public,Revêtement bois ou dérivés,157,20,7,105,25,0.617544515669516,1,5.503184713375796,-0.0627168602403258,Khi2 Pearson sans correction,0.43196122547880056
+Type de bâtiment,Parties d'ouvrage,Restauration,Menuiserie extérieure,157,2,4,75,76,0.6161893294343619,1,2.9426751592356686,-0.06264800714264568,Khi2 Pearson sans correction,0.43246688996863475
+Type de bâtiment,Parties d'ouvrage,Restauration,Charpente,157,6,0,138,13,0.5631898454746138,1,0.4968152866242038,0.05989320886370316,Khi2 Pearson sans correction,0.45297785297558524
+Type de bâtiment,Parties d'ouvrage,Enseignement ou éducation,Menuiserie intérieure,157,3,41,12,101,0.5295567856050221,1,4.203821656050955,-0.05807730328381203,Khi2 Pearson sans correction,0.4667932556172867
+Type de bâtiment,Parties d'ouvrage,Loisirs,Menuiserie intérieure,157,3,19,12,123,0.49340304452980505,1,2.1019108280254777,0.0560597409122202,Khi2 Pearson sans correction,0.48241319869858107
+Type de bâtiment,Parties d'ouvrage,Industrie et commerce,Structure horizontale,157,6,1,111,39,0.48336446886446865,1,1.78343949044586,0.055486526100978595,Khi2 Pearson sans correction,0.4869022899010255
+Type de bâtiment,Parties d'ouvrage,Loisirs,Charpente,157,21,1,123,12,0.4699122636622636,1,1.821656050955414,0.05470897314949116,Khi2 Pearson sans correction,0.4930275341285025
+Type de bâtiment,Parties d'ouvrage,Agriculture,Structure verticale,157,6,2,125,24,0.4345007034565927,1,1.3248407643312101,-0.05260722768006425,Khi2 Pearson sans correction,0.5097887449873066
+Type de bâtiment,Parties d'ouvrage,Hébergement,Menuiserie intérieure,157,0,4,15,138,0.4335818834576084,1,0.3821656050955414,-0.05255157511912169,Khi2 Pearson sans correction,0.5102365863407916
+Type de bâtiment,Parties d'ouvrage,Enseignement ou éducation,Structure verticale,157,38,6,93,20,0.3782915389008748,1,7.286624203821656,0.049086660588965235,Khi2 Pearson sans correction,0.5385189969477827
+Type de bâtiment,Parties d'ouvrage,Hébergement,Charpente,157,4,0,140,13,0.37055192447349306,1,0.33121019108280253,0.048581924010844796,Khi2 Pearson sans correction,0.5427035756400607
+Type de bâtiment,Parties d'ouvrage,Logement collectif,Menuiserie intérieure,157,1,5,14,137,0.3652089875529852,1,0.5732484076433121,0.04823040426164749,Khi2 Pearson sans correction,0.5456274332749312
+Type de bâtiment,Parties d'ouvrage,Logement collectif,Structure horizontale,157,5,1,112,39,0.2550831588083244,1,1.5286624203821657,0.04030798302562934,Khi2 Pearson sans correction,0.6135183946747825
+Type de bâtiment,Parties d'ouvrage,Enseignement ou éducation,Menuiserie extérieure,157,23,21,54,59,0.25491626484939023,1,21.579617834394906,0.04029479466069667,Khi2 Pearson sans correction,0.6136344615682915
+Type de bâtiment,Parties d'ouvrage,Santé,Structure verticale,157,7,2,124,24,0.22147808407350403,1,1.4904458598726114,-0.03755913249250037,Khi2 Pearson sans correction,0.6379159930376133
+Type de bâtiment,Parties d'ouvrage,Agriculture,Charpente,157,7,1,137,12,0.19763747275282514,1,0.6624203821656051,-0.03548009873251411,Khi2 Pearson sans correction,0.656634606105334
+Type de bâtiment,Parties d'ouvrage,Industrie et commerce,Menuiserie intérieure,157,1,6,14,136,0.18981801922646993,1,0.6687898089171974,0.03477113701901837,Khi2 Pearson sans correction,0.663068121685507
+Type de bâtiment,Parties d'ouvrage,Enseignement ou éducation,Charpente,157,41,3,103,10,0.17207010970838407,1,3.643312101910828,0.03310570887212677,Khi2 Pearson sans correction,0.6782785508719857
+Type de bâtiment,Parties d'ouvrage,Loisirs,Structure verticale,157,19,3,112,23,0.1583220144288844,1,3.643312101910828,0.0317556368865329,Khi2 Pearson sans correction,0.6907061190930586
+Type de bâtiment,Parties d'ouvrage,Logement individuel supérieur à 120 m²,Menuiserie intérieure,157,2,15,13,127,0.10780703830828096,1,1.624203821656051,0.02620437050972046,Khi2 Pearson sans correction,0.7426547384376975
+Type de bâtiment,Parties d'ouvrage,Loisirs,Structure horizontale,157,17,5,100,35,0.10193998388442818,1,5.6050955414012735,0.02548135122811135,Khi2 Pearson sans correction,0.7495138821054119
+Type de bâtiment,Parties d'ouvrage,Loisirs,Revêtement bois ou dérivés,157,18,4,107,28,0.07633265993265981,1,4.484076433121019,0.022049836421055062,Khi2 Pearson sans correction,0.7823302062881609
+Type de bâtiment,Parties d'ouvrage,Sport,Menuiserie extérieure,157,5,6,72,74,0.0610037845093887,1,5.3949044585987265,-0.019711903434282405,Khi2 Pearson sans correction,0.8049163949794013
+Type de bâtiment,Parties d'ouvrage,Santé,Structure horizontale,157,7,2,110,38,0.05329239495906168,1,2.2929936305732483,0.01842395196771509,Khi2 Pearson sans correction,0.8174302042134062
+Type de bâtiment,Parties d'ouvrage,Logement collectif,Revêtement bois ou dérivés,157,5,1,120,31,0.05306981236203085,1,1.2229299363057324,0.018385436697579593,Khi2 Pearson sans correction,0.8178051553847258
+Type de bâtiment,Parties d'ouvrage,Restauration,Revêtement bois ou dérivés,157,5,1,120,31,0.05306981236203085,1,1.2229299363057324,0.018385436697579593,Khi2 Pearson sans correction,0.8178051553847258
+Type de bâtiment,Parties d'ouvrage,Logement individuel inférieur 120 m²,Structure horizontale,157,5,2,112,38,0.036933658933658985,1,1.78343949044586,-0.015337738922221724,Khi2 Pearson sans correction,0.8476001793243368
+Type de bâtiment,Parties d'ouvrage,Logement individuel inférieur 120 m²,Structure verticale,157,6,1,125,25,0.027437575147498793,1,1.1592356687898089,0.01321974376239209,Khi2 Pearson sans correction,0.8684379728345925
+Type de bâtiment,Parties d'ouvrage,Santé,Menuiserie intérieure,157,1,8,14,134,0.0267831211493183,1,0.8598726114649682,0.013061130438809927,Khi2 Pearson sans correction,0.8700023546560798
+Type de bâtiment,Parties d'ouvrage,Lieu d'entreprise,Menuiserie intérieure,157,1,11,14,131,0.02240920619502455,1,1.1464968152866242,-0.011947125069259906,Khi2 Pearson sans correction,0.8810036372514272
+Type de bâtiment,Parties d'ouvrage,Sport,Charpente,157,10,1,134,12,0.010235388660046167,1,0.910828025477707,-0.008074252804083068,Khi2 Pearson sans correction,0.9194154335117299
+Type de bâtiment,Parties d'ouvrage,Culture,Menuiserie extérieure,157,5,5,72,75,0.003901073416379551,1,4.904458598726115,0.004984736841420379,Khi2 Pearson sans correction,0.9501976509731033
+Type de bâtiment,Parties d'ouvrage,Agriculture,Menuiserie extérieure,157,4,4,73,76,0.003078968011853913,1,3.9235668789808917,0.004428460366989804,Khi2 Pearson sans correction,0.9557493318528153
+Type de bâtiment,Parties d'ouvrage,Sport,Menuiserie intérieure,157,1,10,14,132,0.002937341775852297,1,1.0509554140127388,-0.004325411342945706,Khi2 Pearson sans correction,0.9567780126164869
+Type de bâtiment,Parties d'ouvrage,Agriculture,Structure horizontale,157,6,2,111,38,0.0010131646876613359,1,2.038216560509554,0.0025403303457146673,Khi2 Pearson sans correction,0.9746074244378117
+Type de bâtiment,Parties d'ouvrage,Enseignement ou éducation,Revêtement bois ou dérivés,157,35,9,90,23,1.9735518905873115e-4,1,8.968152866242038,-0.0011211776936579834,Khi2 Pearson sans correction,0.9887914340495659
+Type de bâtiment,Parties d'ouvrage,Logement collectif,Structure verticale,157,5,1,126,25,5.087762279006489e-5,1,0.9936305732484076,-5.692638155165484e-4,Khi2 Pearson sans correction,0.994308853248942
+Type de bâtiment,Parties d'ouvrage,Restauration,Structure verticale,157,5,1,126,25,5.087762279006489e-5,1,0.9936305732484076,-5.692638155165483e-4,Khi2 Pearson sans correction,0.994308853248942
+Type de bâtiment,Parties d'ouvrage,Lieu d'entreprise,Charpente,157,11,1,133,12,4.8199724923862486e-5,1,0.9936305732484076,-5.540799737848727e-4,Khi2 Pearson sans correction,0.9944606494140973

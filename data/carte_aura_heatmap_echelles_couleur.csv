@@ -2,5 +2,5 @@ carte,couche,methode,un_marqueur_represente,symbole,rayon_max_cluster_pixels,nom
 Heatmap du nombre de projets,Nombre de projets,MarkerCluster,1 projet,building,55,177
 Heatmap des acteurs,Maître d'ouvrage,MarkerCluster,1 acteur distinct,home,55,131
 Heatmap des acteurs,Études et ingénieries,MarkerCluster,1 acteur distinct,pencil,55,322
-Heatmap des acteurs,entreprise de construction,MarkerCluster,1 acteur distinct,wrench,55,200
-Heatmap des acteurs,entreprises de transformation,MarkerCluster,1 acteur distinct,tree,55,148
+Heatmap des acteurs,Entreprise de construction,MarkerCluster,1 acteur distinct,wrench,55,200
+Heatmap des acteurs,Entreprises de transformation,MarkerCluster,1 acteur distinct,tree,55,148

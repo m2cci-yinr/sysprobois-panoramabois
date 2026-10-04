@@ -1,0 +1,2 @@
+famille_gauche,famille_droite,n_projets,n_associations,khi2_pearson,ddl,p_value,effectif_attendu_min,nb_cellules_attendues_inf_5,methode,unite,interpretation
+Parties d'ouvrage,Essence,153,615,581.2300931607109,60,2.1020731293034357e-86,0.02113821138211382,54,Khi2 Pearson global sans correction,Projet-paire distinct ; plusieurs paires possibles par projet,Exploratoire : observations potentiellement dependantes au sein du projet

@@ -1,0 +1,86 @@
+gauche,droite,nb_projets
+Agriculture,Charpente,7
+Agriculture,Menuiserie extérieure,4
+Agriculture,Revêtement bois ou dérivés,5
+Agriculture,Structure horizontale,6
+Agriculture,Structure verticale,6
+Culture,Charpente,8
+Culture,Menuiserie extérieure,5
+Culture,Menuiserie intérieure,3
+Culture,Revêtement bois ou dérivés,10
+Culture,Structure horizontale,4
+Culture,Structure verticale,7
+Enseignement ou éducation,Charpente,41
+Enseignement ou éducation,Menuiserie extérieure,23
+Enseignement ou éducation,Menuiserie intérieure,3
+Enseignement ou éducation,Revêtement bois ou dérivés,35
+Enseignement ou éducation,Structure horizontale,28
+Enseignement ou éducation,Structure verticale,38
+Hébergement,Charpente,4
+Hébergement,Menuiserie extérieure,3
+Hébergement,Revêtement bois ou dérivés,4
+Hébergement,Structure horizontale,4
+Hébergement,Structure verticale,2
+Industrie et commerce,Charpente,7
+Industrie et commerce,Menuiserie extérieure,5
+Industrie et commerce,Menuiserie intérieure,1
+Industrie et commerce,Revêtement bois ou dérivés,7
+Industrie et commerce,Structure horizontale,6
+Industrie et commerce,Structure verticale,7
+Lieu d'entreprise,Charpente,11
+Lieu d'entreprise,Menuiserie extérieure,2
+Lieu d'entreprise,Menuiserie intérieure,1
+Lieu d'entreprise,Revêtement bois ou dérivés,7
+Lieu d'entreprise,Structure horizontale,12
+Lieu d'entreprise,Structure verticale,12
+Logement collectif,Charpente,4
+Logement collectif,Menuiserie extérieure,4
+Logement collectif,Menuiserie intérieure,1
+Logement collectif,Revêtement bois ou dérivés,5
+Logement collectif,Structure horizontale,5
+Logement collectif,Structure verticale,5
+Logement individuel inférieur 120 m²,Charpente,7
+Logement individuel inférieur 120 m²,Menuiserie extérieure,6
+Logement individuel inférieur 120 m²,Revêtement bois ou dérivés,7
+Logement individuel inférieur 120 m²,Structure horizontale,5
+Logement individuel inférieur 120 m²,Structure verticale,6
+Logement individuel supérieur à 120 m²,Charpente,14
+Logement individuel supérieur à 120 m²,Menuiserie extérieure,6
+Logement individuel supérieur à 120 m²,Menuiserie intérieure,2
+Logement individuel supérieur à 120 m²,Revêtement bois ou dérivés,15
+Logement individuel supérieur à 120 m²,Structure horizontale,15
+Logement individuel supérieur à 120 m²,Structure verticale,16
+Logements de vacances ou de loisirs,Charpente,2
+Logements de vacances ou de loisirs,Menuiserie extérieure,1
+Logements de vacances ou de loisirs,Revêtement bois ou dérivés,2
+Logements de vacances ou de loisirs,Structure horizontale,1
+Logements de vacances ou de loisirs,Structure verticale,2
+Loisirs,Charpente,21
+Loisirs,Menuiserie extérieure,9
+Loisirs,Menuiserie intérieure,3
+Loisirs,Revêtement bois ou dérivés,18
+Loisirs,Structure horizontale,17
+Loisirs,Structure verticale,19
+Restauration,Charpente,6
+Restauration,Menuiserie extérieure,2
+Restauration,Revêtement bois ou dérivés,5
+Restauration,Structure horizontale,3
+Restauration,Structure verticale,5
+Santé,Charpente,9
+Santé,Menuiserie extérieure,3
+Santé,Menuiserie intérieure,1
+Santé,Revêtement bois ou dérivés,5
+Santé,Structure horizontale,7
+Santé,Structure verticale,7
+Service institutionnel et public,Charpente,26
+Service institutionnel et public,Menuiserie extérieure,11
+Service institutionnel et public,Menuiserie intérieure,4
+Service institutionnel et public,Revêtement bois ou dérivés,20
+Service institutionnel et public,Structure horizontale,18
+Service institutionnel et public,Structure verticale,17
+Sport,Charpente,10
+Sport,Menuiserie extérieure,5
+Sport,Menuiserie intérieure,1
+Sport,Revêtement bois ou dérivés,10
+Sport,Structure horizontale,7
+Sport,Structure verticale,8

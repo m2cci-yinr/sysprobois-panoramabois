@@ -1,0 +1,2 @@
+famille_gauche,famille_droite,n_projets,n_associations,khi2_pearson,ddl,p_value,effectif_attendu_min,nb_cellules_attendues_inf_5,methode,unite,interpretation
+Essence,Provenance,181,439,272.47512276083967,104,4.920485745005181e-17,0.01366742596810934,110,Khi2 Pearson global sans correction,Projet-paire distinct ; plusieurs paires possibles par projet,Exploratoire : observations potentiellement dependantes au sein du projet

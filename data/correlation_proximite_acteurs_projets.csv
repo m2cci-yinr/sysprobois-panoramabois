@@ -1,25 +1,25 @@
 distance_entre_groupes,distance_groupe_projet,correlation_spearman,n_projets
-Distance médiane entre acteurs | Maître d'ouvrage – entreprises de transformation,Distance médiane | entreprises de transformation,0.969,130
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprises de transformation,Distance médiane | Entreprises de transformation,0.969,130
 Distance médiane entre acteurs | Maître d'ouvrage – Études et ingénieries,Distance médiane | Études et ingénieries,0.905,131
-Distance médiane entre acteurs | Maître d'ouvrage – entreprise de construction,Distance médiane | entreprise de construction,0.854,124
-Distance médiane entre acteurs | entreprise de construction – entreprises de transformation,Distance médiane | entreprises de transformation,0.835,159
-Distance médiane entre acteurs | Études et ingénieries – entreprises de transformation,Distance médiane | entreprises de transformation,0.757,166
-Distance médiane entre acteurs | Études et ingénieries – entreprise de construction,Distance médiane | Études et ingénieries,0.726,159
-Distance médiane entre acteurs | Études et ingénieries – entreprise de construction,Distance médiane | entreprise de construction,0.539,159
-Distance médiane entre acteurs | Maître d'ouvrage – entreprise de construction,Distance médiane | Études et ingénieries,0.448,122
-Distance médiane entre acteurs | Études et ingénieries – entreprises de transformation,Distance médiane | Études et ingénieries,0.431,166
-Distance médiane entre acteurs | Maître d'ouvrage – Études et ingénieries,Distance médiane | entreprise de construction,0.378,124
-Distance médiane entre acteurs | entreprise de construction – entreprises de transformation,Distance médiane | entreprise de construction,0.377,159
-Distance médiane entre acteurs | Études et ingénieries – entreprises de transformation,Distance médiane | entreprise de construction,0.357,160
-Distance médiane entre acteurs | Études et ingénieries – entreprise de construction,Distance médiane | entreprises de transformation,0.315,156
-Distance médiane entre acteurs | entreprise de construction – entreprises de transformation,Distance médiane | Études et ingénieries,0.289,156
-Distance médiane entre acteurs | Maître d'ouvrage – entreprise de construction,Distance médiane | Maître d'ouvrage,0.264,124
-Distance médiane entre acteurs | Maître d'ouvrage – entreprise de construction,Distance médiane | entreprises de transformation,0.222,121
-Distance médiane entre acteurs | Maître d'ouvrage – entreprises de transformation,Distance médiane | entreprise de construction,0.218,123
-Distance médiane entre acteurs | Maître d'ouvrage – entreprises de transformation,Distance médiane | Maître d'ouvrage,0.185,130
-Distance médiane entre acteurs | Maître d'ouvrage – entreprises de transformation,Distance médiane | Études et ingénieries,0.155,128
-Distance médiane entre acteurs | Études et ingénieries – entreprise de construction,Distance médiane | Maître d'ouvrage,0.132,122
-Distance médiane entre acteurs | Maître d'ouvrage – Études et ingénieries,Distance médiane | entreprises de transformation,0.127,128
-Distance médiane entre acteurs | entreprise de construction – entreprises de transformation,Distance médiane | Maître d'ouvrage,0.115,120
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprise de construction,Distance médiane | Entreprise de construction,0.854,124
+Distance médiane entre acteurs | Entreprise de construction – Entreprises de transformation,Distance médiane | Entreprises de transformation,0.835,159
+Distance médiane entre acteurs | Études et ingénieries – Entreprises de transformation,Distance médiane | Entreprises de transformation,0.757,166
+Distance médiane entre acteurs | Études et ingénieries – Entreprise de construction,Distance médiane | Études et ingénieries,0.726,159
+Distance médiane entre acteurs | Études et ingénieries – Entreprise de construction,Distance médiane | Entreprise de construction,0.539,159
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprise de construction,Distance médiane | Études et ingénieries,0.448,122
+Distance médiane entre acteurs | Études et ingénieries – Entreprises de transformation,Distance médiane | Études et ingénieries,0.431,166
+Distance médiane entre acteurs | Maître d'ouvrage – Études et ingénieries,Distance médiane | Entreprise de construction,0.378,124
+Distance médiane entre acteurs | Entreprise de construction – Entreprises de transformation,Distance médiane | Entreprise de construction,0.377,159
+Distance médiane entre acteurs | Études et ingénieries – Entreprises de transformation,Distance médiane | Entreprise de construction,0.357,160
+Distance médiane entre acteurs | Études et ingénieries – Entreprise de construction,Distance médiane | Entreprises de transformation,0.315,156
+Distance médiane entre acteurs | Entreprise de construction – Entreprises de transformation,Distance médiane | Études et ingénieries,0.289,156
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprise de construction,Distance médiane | Maître d'ouvrage,0.264,124
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprise de construction,Distance médiane | Entreprises de transformation,0.222,121
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprises de transformation,Distance médiane | Entreprise de construction,0.218,123
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprises de transformation,Distance médiane | Maître d'ouvrage,0.185,130
+Distance médiane entre acteurs | Maître d'ouvrage – Entreprises de transformation,Distance médiane | Études et ingénieries,0.155,128
+Distance médiane entre acteurs | Études et ingénieries – Entreprise de construction,Distance médiane | Maître d'ouvrage,0.132,122
+Distance médiane entre acteurs | Maître d'ouvrage – Études et ingénieries,Distance médiane | Entreprises de transformation,0.127,128
+Distance médiane entre acteurs | Entreprise de construction – Entreprises de transformation,Distance médiane | Maître d'ouvrage,0.115,120
 Distance médiane entre acteurs | Maître d'ouvrage – Études et ingénieries,Distance médiane | Maître d'ouvrage,0.101,131
-Distance médiane entre acteurs | Études et ingénieries – entreprises de transformation,Distance médiane | Maître d'ouvrage,0.094,128
+Distance médiane entre acteurs | Études et ingénieries – Entreprises de transformation,Distance médiane | Maître d'ouvrage,0.094,128

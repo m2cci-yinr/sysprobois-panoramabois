@@ -1,0 +1,2 @@
+famille_gauche,famille_droite,n_projets,n_associations,khi2,ddl,p_value,cramer_v,significatif_005,effectif_attendu_min,nb_cellules_attendues_inf_5,proportion_cellules_attendues_inf_5,approximation_fragile,methode,unite,interpretation
+Type de bâtiment,Parties d'ouvrage,156,736,26.337345810654334,70,0.9999995586266123,0.08459838916047618,FALSE,0.21739130434782608,37,0.4111111111111111,TRUE,Khi2 sans correction; V de Cramer,Projet-paire distinct; plusieurs paires possibles par projet,Exploratoire : dependance possible entre paires du meme projet

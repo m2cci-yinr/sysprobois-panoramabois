@@ -1,0 +1,2 @@
+famille_gauche,famille_droite,n_projets,n_associations,khi2,ddl,p_value,cramer_v,significatif_005,effectif_attendu_min,nb_cellules_attendues_inf_5,proportion_cellules_attendues_inf_5,approximation_fragile,methode,unite,interpretation
+Essence,Provenance,181,439,272.47512276083967,104,4.920485745005181e-17,0.27853910439429624,TRUE,0.01366742596810934,110,0.873015873015873,TRUE,Khi2 sans correction; V de Cramer,Projet-paire distinct; plusieurs paires possibles par projet,Exploratoire : dependance possible entre paires du meme projet

@@ -65,6 +65,7 @@ get_script_dir <- function() {
 data_file <- function(filename) {
   candidates <- c(
     file.path(get_script_dir(), filename),
+    file.path(get_script_dir(), "..", "data", filename),
     file.path(getwd(), filename)
   )
   found <- candidates[file.exists(candidates)]
@@ -81,7 +82,9 @@ data_file <- function(filename) {
 }
 
 output_file <- function(filename) {
-  file.path(get_script_dir(), filename)
+  data_dir <- file.path(get_script_dir(), "..", "data")
+  if (!dir.exists(data_dir)) dir.create(data_dir, recursive = TRUE)
+  file.path(data_dir, filename)
 }
 
 # Périmètre de l'analyse : projets situés en Auvergne-Rhône-Alpes.
@@ -148,12 +151,8 @@ normalise_groupe_analyse <- function(groupe_acteur) {
     recode(
       "Maitre d'ouvrage" = "Maître d'ouvrage",
       "Etudes et ingenieries" = "Études et ingénieries",
-      # Mêmes libellés que heatmap_actor_layer_labels / distance_groupes_acteurs
-      # plus bas dans le script : ces listes doivent rester synchronisées,
-      # sinon les filtres par groupe (distance_groupes_acteurs) ne matchent plus
-      # rien pour ces deux catégories.
-      "Entreprises des lots bois" = "entreprise de construction",
-      "Fournisseurs du bois" = "entreprises de transformation"
+      "Entreprises des lots bois" = "Entreprise de construction",
+      "Fournisseurs du bois" = "Entreprises de transformation"
     )
 }
 
@@ -184,6 +183,25 @@ make_flow_loop <- function(lon_anchor, lat_anchor, radius = 0.08,
   tibble(
     longitude = center_lon + longitude_radius * cos(angles),
     latitude = center_lat + latitude_radius * sin(angles)
+  )
+}
+
+# Cadrer sur les geometries des flux (courbes et boucles incluses),
+# independamment de l'etendue des contours administratifs.
+fit_flow_bounds <- function(widget, flow_geometries) {
+  points <- dplyr::bind_rows(flow_geometries)
+  if (nrow(points) == 0) {
+    return(setView(widget, lng = 4.70, lat = 45.45, zoom = 7))
+  }
+  points <- points[is.finite(points$longitude) & is.finite(points$latitude), ]
+  if (nrow(points) == 0) {
+    return(setView(widget, lng = 4.70, lat = 45.45, zoom = 7))
+  }
+  fitBounds(
+    widget,
+    lng1 = min(points$longitude), lat1 = min(points$latitude),
+    lng2 = max(points$longitude), lat2 = max(points$latitude),
+    options = list(padding = c(40, 40), maxZoom = 11)
   )
 }
 
@@ -233,15 +251,14 @@ make_stage_links <- function(source_data, target_data) {
     left_join(source_counts, by = "id_projet") %>%
     left_join(target_counts, by = "id_projet") %>%
     mutate(
-      # Provenances -> entreprises : une unite par participation cible.
-      # Entreprises -> entreprises : une unite par participation source,
-      # repartie entre les participations cibles du meme projet.
+      # Co-presence dans les projets, pas une relation commerciale verifiee.
+      # Provenance -> entreprise : une participation cible repartie entre les provenances.
+      # Entreprise -> entreprise : une participation source repartie entre les cibles.
       association_weight = if_else(source_is_actor, 1 / n_target, 1 / n_source)
     ) %>%
     group_by(source = node_source, target = node_target) %>%
     summarise(value = sum(association_weight), .groups = "drop")
 }
-
 make_project_links <- function(source_data, target_data) {
   make_stage_pairs(source_data, target_data) %>%
     # Chaque entreprise-role compte une fois dans chacun de ses projets.
@@ -577,32 +594,93 @@ get_department_regions <- function(departments) {
     select(dept, region_code, region)
 }
 
-get_region_boundaries_geojson <- function() {
-  cache_path <- output_file("regions_france_boundaries.geojson")
-  
-  if (file.exists(cache_path)) {
-    return(paste(readLines(cache_path, warn = FALSE, encoding = "UTF-8"), collapse = "\n"))
-  }
-  
-  boundary_urls <- c(
-    "https://geo.api.gouv.fr/regions?geometry=contour&format=geojson",
-    "https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/regions.geojson"
-  )
-  
-  for (boundary_url in boundary_urls) {
-    region_geojson <- tryCatch(
-      paste(readLines(boundary_url, warn = FALSE, encoding = "UTF-8"), collapse = "\n"),
-      error = function(e) NA_character_
+# Contours administratifs locaux, sans telechargement de limites.
+read_administrative_boundaries <- function(filename) {
+  sf::st_read(data_file(filename), quiet = TRUE, stringsAsFactors = FALSE) %>%
+    sf::st_transform(4326)
+}
+
+# Effectifs classes : memes seuils et largeurs sur toutes les cartes.
+# Ne conserver que les noeuds relies aux flux effectivement dessines.
+connected_flow_nodes <- function(lines) {
+  visible <- lines %>% filter(nb_participations >= 5)
+  bind_rows(
+    visible %>% transmute(flow_stage = flow_stage_source,
+                          latitude = latitude_source, longitude = longitude_source),
+    visible %>% transmute(flow_stage = flow_stage_target,
+                          latitude = latitude_target, longitude = longitude_target)
+  ) %>% distinct()
+}
+
+flow_line_width <- function(n) {
+  c(1, 2, 4, 7, 11)[findInterval(n, c(1, 2, 5, 10, 25))]
+}
+flow_width_legend <- function() {
+  labels <- c("5–9", "10–24", "25 et plus")
+  widths <- c(4, 7, 11)
+  paste0(vapply(seq_along(widths), function(i) paste0(
+    "<div style='display:flex;align-items:center;gap:8px;height:22px'>",
+    "<span style='display:inline-block;width:48px;border-top:", widths[i],
+    "px solid #555'></span>", labels[i], " participations</div>"
+  ), character(1)), collapse = "")
+}
+# Une seule boite pour la lecture des flux et des limites administratives.
+add_flow_legend <- function(widget, quantity_rows, type_rows) {
+  widget %>%
+    removeControl("map-context") %>%
+    addControl(
+      html = HTML(paste0(
+        "<div style='max-width:min(600px,calc(100vw - 80px));max-height:42vh;overflow:auto;font:13px/1.4 Arial;color:#333;'>",
+        "<div style='font-size:15px;font-weight:700;margin-bottom:8px;'>Légende</div>",
+        "<div style='display:flex;flex-wrap:wrap;gap:14px 22px;'>",
+        "<section style='flex:1 1 220px;'><b>Participations entreprises</b><br><small>Classes d’effectifs · liens ≥ 5 uniquement</small>",
+        quantity_rows, "</section>",
+        "<section style='flex:1 1 250px;min-width:0;'><b>Types de liaison</b><br>",
+        "<small>Flèche : source → destination</small>", type_rows, "</section></div>",
+        "<div style='border-top:1px solid #ddd;margin-top:10px;padding-top:8px;'>",
+        "<span style='border-top:2px dashed #2F2F2F;display:inline-block;width:24px;vertical-align:middle;'></span> Région &nbsp;&nbsp;",
+        "<span style='border-top:1px dashed #666;display:inline-block;width:24px;vertical-align:middle;'></span> Département",
+        "<div style='font-size:10px;color:#666;margin-top:5px;'>Sources : fichiers locaux projets/acteurs ; contours administratifs.</div>",
+        "</div></div>"
+      )), position = "bottomleft", layerId = "flow-legend", className = "info legend"
     )
-    
-    if (!is.na(region_geojson) && str_detect(region_geojson, "FeatureCollection")) {
-      writeLines(region_geojson, cache_path, useBytes = TRUE)
-      return(region_geojson)
-    }
-  }
-  
-  warning("Impossible de recuperer les limites regionales. La carte utilisera seulement le fond de carte.")
-  NA_character_
+}
+
+add_cartographic_context <- function(widget) {
+  widget %>%
+    addScaleBar(position = "bottomleft", options = scaleBarOptions(imperial = FALSE)) %>%
+    addControl(
+      html = HTML("<div style='font:600 14px Arial;text-align:center;' aria-label='Nord'>N<br>&uarr;</div>"),
+      position = "topleft", layerId = "north-arrow"
+    ) %>%
+    addControl(
+      html = HTML(paste0(
+        "<div style='font:11px Arial;max-width:260px;color:#444;'>",
+        "<span style='border-top:2px dashed #2F2F2F;display:inline-block;width:20px;'></span> Région &nbsp;",
+        "<span style='border-top:1px dashed #666;display:inline-block;width:20px;'></span> Département",
+        "<br>Sources : fichiers locaux projets/acteurs ; contours administratifs.</div>"
+      )), position = "bottomright", layerId = "map-context"
+    )
+}
+
+add_administrative_boundaries <- function(widget) {
+  widget %>%
+    addMapPane("administrative_boundaries", zIndex = 410) %>%
+    addPolygons(
+      data = department_boundaries,
+      group = "Limites departements",
+      stroke = TRUE, color = "#666666", weight = 1, opacity = 0.75,
+      dashArray = "4, 4", fill = FALSE,
+      options = pathOptions(pane = "administrative_boundaries", interactive = FALSE)
+    ) %>%
+    addPolygons(
+      data = region_boundaries,
+      group = "Limites regions",
+      stroke = TRUE, color = "#2F2F2F", weight = 2, opacity = 0.9,
+      dashArray = "8, 5", fill = FALSE,
+      options = pathOptions(pane = "administrative_boundaries", interactive = FALSE)
+    ) %>%
+    add_cartographic_context()
 }
 
 # Grille communale de densite (INSEE/ANCT): le niveau 1 est le plus dense,
@@ -610,13 +688,13 @@ get_region_boundaries_geojson <- function() {
 # sont simplifies puis mis en cache pour garder une carte Leaflet fluide.
 population_density_layer <- "Grille communale de densité (grid7)"
 population_density_colors <- c(
-  "1" = "#B2182B",
-  "2" = "#C83E4D",
-  "3" = "#D65B66",
-  "4" = "#E67A80",
-  "5" = "#F09A9B",
-  "6" = "#F7BCBA",
-  "7" = "#FDE2E0"
+  "1" = "#D73027",
+  "2" = "#F46D43",
+  "3" = "#FDAE61",
+  "4" = "#FEE08B",
+  "5" = "#A6D96A",
+  "6" = "#66BD63",
+  "7" = "#1A9850"
 )
 
 population_density_labels <- c(
@@ -639,6 +717,30 @@ decorate_population_density_communes <- function(data) {
         "Grille communale de densité : ", htmlEscape(density_label)
       )
     )
+}
+
+# Communes et classes grid7 issues du cache local simplifie.
+add_commune_density <- function(widget, legend = FALSE) {
+  if (is.null(population_density_communes) || nrow(population_density_communes) == 0) {
+    return(widget)
+  }
+  widget <- widget %>%
+    addPolygons(
+      data = population_density_communes,
+      group = population_density_layer,
+      stroke = FALSE, fill = TRUE,
+      fillColor = ~color, fillOpacity = 0.65,
+      popup = ~popup, smoothFactor = 1.5,
+      options = pathOptions(interactive = TRUE)
+    )
+  if (legend) {
+    widget <- widget %>% addLegend(
+      position = "topleft", colors = unname(population_density_colors),
+      labels = unname(population_density_labels), opacity = 0.7,
+      title = "Densité des communes (grid7)", group = population_density_layer
+    )
+  }
+  widget
 }
 
 get_population_density_communes <- function() {
@@ -982,60 +1084,46 @@ make_presence_matrix <- function(data, id_col, category_col, min_projects = 3) {
   result
 }
 
-make_cross_correlation <- function(left_matrix, right_matrix,
-                                   left_label, right_label) {
-  empty_result <- function(n) {
-    list(
-      plot_matrix = matrix(numeric(), nrow = 0, ncol = 0),
-      table = tibble(),
-      n_projets = n
-    )
+# Comptage distinct par projet et paire de categories observee.
+make_global_khi2 <- function(records, left_label, right_label) {
+  records <- records %>%
+    transmute(id_projet = clean_text(id_projet), gauche = clean_text(gauche), droite = clean_text(droite)) %>%
+    filter(!is.na(id_projet), id_projet != "", !is.na(gauche), gauche != "", !is.na(droite), droite != "") %>%
+    distinct(id_projet, gauche, droite)
+  counts <- records %>% group_by(gauche, droite) %>%
+    summarise(nb_projets = n_distinct(id_projet), .groups = "drop")
+  tab <- as.matrix(xtabs(nb_projets ~ gauche + droite, data = counts))
+  stat <- p <- v <- expected_min <- NA_real_
+  df <- n_low <- NA_integer_
+  expected <- matrix(NA_real_, nrow(tab), ncol(tab), dimnames = dimnames(tab))
+  valid <- nrow(tab) >= 2 && ncol(tab) >= 2 && sum(tab) > 0
+  if (valid) {
+    test <- suppressWarnings(chisq.test(tab, correct = FALSE))
+    stat <- unname(test$statistic)
+    df <- as.integer(test$parameter)
+    p <- test$p.value
+    v <- sqrt(stat / (sum(tab) * min(nrow(tab) - 1, ncol(tab) - 1)))
+    expected <- test$expected
+    expected_min <- min(expected)
+    n_low <- sum(expected < 5)
   }
-
-  common_ids <- intersect(rownames(left_matrix), rownames(right_matrix))
-  left_matrix <- left_matrix[common_ids, , drop = FALSE]
-  right_matrix <- right_matrix[common_ids, , drop = FALSE]
-
-  if (length(common_ids) < 3 || ncol(left_matrix) == 0 || ncol(right_matrix) == 0) {
-    return(empty_result(length(common_ids)))
-  }
-
-  left_matrix <- left_matrix[, apply(left_matrix, 2, sd) > 0, drop = FALSE]
-  right_matrix <- right_matrix[, apply(right_matrix, 2, sd) > 0, drop = FALSE]
-  if (ncol(left_matrix) == 0 || ncol(right_matrix) == 0) {
-    return(empty_result(length(common_ids)))
-  }
-
-  # Matrice rectangulaire (lignes = variables de gauche, colonnes = variables
-  # de droite) : chaque graphique affiche uniquement les correlations entre
-  # les deux familles, sans les correlations internes a chaque famille. C'est
-  # la forme commune a tous les graphiques de correlation du script.
-  correlations <- suppressWarnings(cor(left_matrix, right_matrix, method = "pearson"))
-  correlations[!is.finite(correlations)] <- NA_real_
-  rownames(correlations) <- paste(left_label, rownames(correlations), sep = " | ")
-  colnames(correlations) <- paste(right_label, colnames(correlations), sep = " | ")
-
-  cross_table <- as.data.frame.table(
-    correlations,
-    responseName = "correlation_pearson",
-    stringsAsFactors = FALSE
-  ) %>%
-    as_tibble() %>%
-    transmute(
-      variable_gauche = Var1,
-      variable_droite = Var2,
-      correlation_pearson = round(correlation_pearson, 3),
-      n_projets = length(common_ids)
-    ) %>%
-    arrange(desc(abs(correlation_pearson)))
-
-  list(
-    plot_matrix = correlations,
-    table = cross_table,
-    n_projets = length(common_ids)
+  summary <- tibble(
+    famille_gauche = left_label, famille_droite = right_label,
+    n_projets = n_distinct(records$id_projet), n_associations = sum(tab),
+    khi2 = stat, ddl = df, p_value = p, cramer_v = v, significatif_005 = p < 0.05,
+    effectif_attendu_min = expected_min, nb_cellules_attendues_inf_5 = n_low,
+    proportion_cellules_attendues_inf_5 = if (length(tab)) n_low / length(tab) else NA_real_,
+    approximation_fragile = if (valid) expected_min < 1 || mean(expected < 5) > 0.2 else NA,
+    methode = "Khi2 sans correction; V de Cramer",
+    unite = "Projet-paire distinct; plusieurs paires possibles par projet",
+    interpretation = "Exploratoire : dependance possible entre paires du meme projet"
   )
+  list(summary = summary, contingency = as.data.frame.matrix(addmargins(tab, FUN = list(Total = sum))) %>% tibble::rownames_to_column("categorie_gauche"),
+       counts = counts, records = records, table = tab,
+       subtitle = paste0("khi2 = ", round(stat, 2), " ; df = ", df,
+                         " ; p = ", format.pval(p, digits = 3),
+                         " ; cramer_v = ", round(v, 3), " ; N = ", summary$n_projets, " projets"))
 }
-
 # L'ouverture d'un peripherique png() echoue parfois de maniere transitoire
 # sous Windows (antivirus ou autre processus qui verrouille brievement le
 # fichier qui vient d'etre ecrit) : on reessaie plusieurs fois avant d'abandonner,
@@ -1048,44 +1136,17 @@ make_cross_correlation <- function(left_matrix, right_matrix,
 # processus qui verrouille brievement le fichier qui vient d'etre ecrit) ne se
 # voit donc qu'a ce moment-la. On reessaie l'ouverture ET le premier trace
 # ensemble, plutot que de faire echouer tout le script pour un verrou temporaire.
-run_png_plot_with_retry <- function(filename, width, height, res, draw,
-                                     max_attempts = 5, wait_seconds = 1) {
-  png_type <- if (capabilities("cairo")) "cairo" else getOption("bitmapType")
+open_png_device_with_retry <- function(filename, width, height, res,
+                                        max_attempts = 5, wait_seconds = 1) {
   for (attempt in seq_len(max_attempts)) {
-    succeeded <- tryCatch(
-      {
-        grDevices::png(filename, width = width, height = height, res = res, type = png_type)
-        draw()
-        grDevices::dev.off()
-        TRUE
-      },
-      # Seules les erreurs (ouverture du peripherique, echec du premier trace)
-      # declenchent une nouvelle tentative : un warning ordinaire emis par
-      # corrplot()/mtext() pendant draw() (ex: valeurs hors des limites de
-      # couleur, cellules NA) n'a rien a voir avec un verrou de fichier
-      # transitoire et ne doit pas etre traite comme un echec, sinon il se
-      # reproduit a chaque tentative et finit par arreter tout le script.
-      error = function(e) FALSE
-    )
-    if (isTRUE(succeeded)) {
-      return(invisible(TRUE))
-    }
-    if (!is.null(grDevices::dev.list())) {
-      grDevices::dev.off()
-    }
-    if (attempt < max_attempts) {
-      message(
-        "Generation de '", filename, "' echouee (tentative ", attempt, "/", max_attempts,
-        "), nouvelle tentative dans ", wait_seconds, "s..."
-      )
-      Sys.sleep(wait_seconds)
-    }
+    opened <- tryCatch({
+      grDevices::png(filename, width = width, height = height, res = res)
+      TRUE
+    }, error = function(e) FALSE, warning = function(w) FALSE)
+    if (isTRUE(opened)) return(invisible(TRUE))
+    if (attempt < max_attempts) Sys.sleep(wait_seconds)
   }
-  stop(
-    "Impossible de generer le fichier png() pour '", filename, "' apres ",
-    max_attempts, " tentatives (fichier probablement verrouille temporairement, ex: antivirus).",
-    call. = FALSE
-  )
+  stop("Impossible d'ouvrir le périphérique PNG : ", filename, call. = FALSE)
 }
 
 save_correlation_plot <- function(
@@ -1104,7 +1165,8 @@ save_correlation_plot <- function(
     value_limits = c(-1, 1),
     legend_title = NULL,
     text_scale = 1,
-    color_palette = colorRampPalette(c("#2B6CB0", "#F7FAFC", "#C53030"))(200)
+    color_palette = colorRampPalette(c("#2B6CB0", "#F7FAFC", "#C53030"))(200),
+    plain_numbers = FALSE, show_color_legend = TRUE
 ) {
   if (nrow(correlation_matrix) == 0 || all(is.na(correlation_matrix))) {
     warning("Correlation non produite: donnees insuffisantes pour ", title)
@@ -1150,13 +1212,13 @@ save_correlation_plot <- function(
   # Répartir les longs libellés sur deux lignes pour rapprocher la matrice.
   wrap_label <- function(x, width) paste(strwrap(x, width = width), collapse = "\n")
   rownames(plot_matrix) <- vapply(rownames(plot_matrix), wrap_label, character(1), width = 32)
+  compact_columns <- ncol(plot_matrix) <= 6 && text_scale <= 1
   if (!is.null(sample_size_plot)) dimnames(sample_size_plot) <- dimnames(plot_matrix)
   if (!is.null(cell_labels_plot)) dimnames(cell_labels_plot) <- dimnames(plot_matrix)
   longest_row_label <- max(nchar(unlist(strsplit(rownames(plot_matrix), "\n"))), na.rm = TRUE)
   longest_column_label <- max(nchar(colnames(plot_matrix)), na.rm = TRUE)
   # Les libelles portent parfois le prefixe de famille : la taille du texte
-  # s'adapte au nombre de variables affichees, pour tous les graphiques. La
-  # taille des valeurs numeriques dans les cellules suit la meme echelle.
+  # s'adapte au nombre de variables affichees, pour tous les graphiques.
   label_cex <- if (max(dim(plot_matrix)) > 24) {
     0.75
   } else if (max(dim(plot_matrix)) > 16) {
@@ -1164,7 +1226,10 @@ save_correlation_plot <- function(
   } else {
     0.92
   }
-  number_cex <- label_cex
+  # Taille fixe (independante des labels, de la taille de la matrice et de
+  # text_scale) pour que les valeurs numeriques des cellules aient toujours
+  # la meme taille sur tous les PNG.
+  number_cex <- 0.9
 
   # corrplot reserve lui-meme, a l'interieur du systeme de coordonnees, la place
   # des libelles de lignes et de colonnes. Lui ajouter de larges marges revient a
@@ -1179,41 +1244,20 @@ save_correlation_plot <- function(
   outer_top_margin <- 0.8 + 1.7 * length(title_lines) +
     1.1 * length(subtitle_lines) + 1.3 * length(axis_lines)
 
-  # Definis une seule fois ici et reutilises plus bas (mtext) : l'image doit
-  # etre assez large pour ces textes, quel que soit leur cex, sinon un titre
-  # long ou agrandi deborde du canevas et parait tronque (cf. image_width).
-  title_cex <- 1.5 * sqrt(text_scale)
-  annotation_cex <- 0.95 * sqrt(text_scale)
-
   # A res = 160, une ligne de marge vaut 0.2 pouce (32 px) et un caractere de
   # libelle environ 16 * tl.cex pixels de large.
   line_height_px <- 32
-  cell_size_px <- 110
+  cell_size_px <- if (compact_columns) 130 else 110
   label_char_px <- 16 * label_cex
   # Largeur : matrice + libelles de lignes + echelle de couleurs.
   # Hauteur : matrice + libelles de colonnes inclines a 45 degres.
   extra_columns <- longest_row_label * label_char_px / cell_size_px + 2
   extra_rows <- longest_column_label * label_char_px * sin(pi / 4) / cell_size_px
 
-  # Largeur necessaire pour que le titre (et les autres annotations en haut du
-  # graphique) tienne sur le canevas sans deborder, meme sur une matrice
-  # etroite (peu de colonnes) : sans ce plancher, un titre long a grand cex
-  # est plus large que l'image et se retrouve coupe sur les bords.
-  text_block_width_px <- function(lines, cex) {
-    if (length(lines) == 0) return(0)
-    max(nchar(lines)) * 16 * cex
-  }
-  required_text_width_px <- max(
-    text_block_width_px(title_lines, title_cex),
-    text_block_width_px(subtitle_lines, annotation_cex),
-    text_block_width_px(axis_lines, annotation_cex)
-  )
-
   image_width <- min(
     3400,
     max(
       1000,
-      required_text_width_px + 40,
       ceiling(
         cell_size_px * (ncol(plot_matrix) + extra_columns) +
           (plot_margins[2] + plot_margins[4] + outer_left_margin + 0.4) * line_height_px
@@ -1230,131 +1274,145 @@ save_correlation_plot <- function(
       )
     )
   )
-  run_png_plot_with_retry(
-    filename, width = image_width, height = image_height, res = 160,
-    draw = function() {
-      par(
-        family = "sans",
-        bg = "white",
-        mar = plot_margins,
-        oma = c(0.4, outer_left_margin, outer_top_margin, if (is_corr) 0.4 else 2.8),
-        xpd = NA
-      )
-      corrplot_result <- corrplot::corrplot(
-        plot_matrix,
-        method = "color",
-        type = plot_type,
-        order = "original",
-        is.corr = is_corr,
-        na.label = " ",
-        tl.col = "black",
-        tl.cex = label_cex * text_scale,
-        tl.srt = 45,
-        tl.pos = "lt",
-        col = color_palette,
-        col.lim = if (is_corr) c(-1, 1) else value_limits,
-        cl.cex = 0.9 * text_scale,
-        cl.length = 5,
-        cl.align.text = "l",
-        addCoef.col = if (show_values && is.null(sample_size_plot) && is.null(cell_labels_plot)) "#202020" else NULL,
-        number.cex = number_cex * text_scale,
-        number.digits = number_digits,
-        mar = plot_margins
-      )
-      if (show_values && !is.null(sample_size_plot)) {
-        positions <- corrplot_result$corrPos
-        if (!is.null(positions) && nrow(positions) > 0) {
-          row_index <- match(positions$yName, rownames(plot_matrix))
-          column_index <- match(positions$xName, colnames(plot_matrix))
-          valid_position <- !is.na(row_index) & !is.na(column_index)
-          n_values <- rep(NA_integer_, nrow(positions))
-          n_values[valid_position] <- as.integer(sample_size_plot[cbind(
-            row_index[valid_position],
-            column_index[valid_position]
-          )])
-          # positions$corr vient de corrplot et est renormalise en interne quand
-          # is.corr = FALSE (ex: distances en km) : ce n'est pas la vraie valeur.
-          # On relit la valeur reelle directement dans plot_matrix, comme pour
-          # n_values ci-dessus, pour que le texte affiche la bonne unite.
-          cell_values <- rep(NA_real_, nrow(positions))
-          cell_values[valid_position] <- plot_matrix[cbind(
-            row_index[valid_position],
-            column_index[valid_position]
-          )]
-          labels <- ifelse(
-            is.finite(cell_values) & !is.na(n_values) & n_values > 0,
-            paste0(
-              formatC(cell_values, format = "f", digits = number_digits),
-              "\nn=", n_values
-            ),
-            ""
-          )
-          graphics::text(
-            positions$x,
-            positions$y,
-            labels = labels,
-            cex = number_cex,
-            col = ifelse(is.finite(cell_values) &
-              if (is_corr) abs(cell_values) > 0.65 else cell_values > value_limits[1] + 0.65 * diff(value_limits), "white", "#202020")
-          )
-        }
-      }
-      if (show_values && !is.null(cell_labels_plot)) {
-        positions <- corrplot_result$corrPos
-        if (!is.null(positions) && nrow(positions) > 0) {
-          row_index <- match(positions$yName, rownames(plot_matrix))
-          column_index <- match(positions$xName, colnames(plot_matrix))
-          valid_position <- !is.na(row_index) & !is.na(column_index)
-          labels <- rep("", nrow(positions))
-          labels[valid_position] <- cell_labels_plot[cbind(
-            row_index[valid_position],
-            column_index[valid_position]
-          )]
-          graphics::text(
-            positions$x,
-            positions$y,
-            labels = labels,
-            cex = number_cex,
-            col = ifelse(plot_matrix[cbind(row_index, column_index)] >
-              value_limits[1] + 0.65 * diff(value_limits), "white", "#202020")
-          )
-        }
-      }
-      if (!is_corr && !is.null(legend_title)) {
-        mtext(legend_title, side = 4, outer = TRUE, line = 1, cex = 0.8)
-      }
-      annotation_line <- outer_top_margin - 2
-      for (title_line in title_lines) {
-        mtext(title_line, side = 3, outer = TRUE, line = annotation_line,
-              cex = title_cex, font = 2, col = "#151515")
-        annotation_line <- annotation_line - 1.7
-      }
-      for (subtitle_line in subtitle_lines) {
-        mtext(subtitle_line, side = 3, outer = TRUE, line = annotation_line,
-              cex = annotation_cex, col = "#555555")
-        annotation_line <- annotation_line - 1.1
-      }
-      for (axis_line in axis_lines) {
-        mtext(axis_line, side = 3, outer = TRUE, line = annotation_line,
-              cex = annotation_cex, font = 2, col = "#202020")
-        annotation_line <- annotation_line - 1.3
-      }
-      if (!is.null(y_axis_title) && y_axis_title != "") {
-        # Titre vertical, centre sur le cote gauche du panneau.
-        mtext(
-          y_axis_title,
-          side = 2,
-          outer = TRUE,
-          line = 1.15,
-          cex = annotation_cex,
-          font = 2,
-          las = 0,
-          col = "#202020"
-        )
-      }
-      invisible(TRUE)
-    }
+  open_png_device_with_retry(filename, width = image_width, height = image_height, res = 160)
+  on.exit(grDevices::dev.off(), add = TRUE)
+  par(
+    family = "sans",
+    bg = "white",
+    mar = plot_margins,
+    oma = c(0.4, outer_left_margin, outer_top_margin, if (plain_numbers) 8 else if (is_corr) 0.4 else 2.8),
+    xpd = NA
   )
+  corrplot_result <- corrplot::corrplot(
+    plot_matrix,
+    method = "color",
+    type = plot_type,
+    order = "original",
+    is.corr = is_corr,
+    na.label = " ",
+    tl.col = "black",
+    tl.cex = label_cex * text_scale,
+    tl.srt = 45,
+    tl.pos = "lt",
+    col = color_palette,
+    col.lim = if (is_corr) c(-1, 1) else value_limits,
+    cl.cex = 0.9 * text_scale,
+    cl.pos = if (show_color_legend) "r" else "n",
+    cl.length = 5,
+    cl.align.text = "l",
+    addCoef.col = if (show_values && !plain_numbers && is.null(sample_size_plot) && is.null(cell_labels_plot)) "#202020" else NULL,
+    number.cex = number_cex,
+    number.digits = number_digits,
+    mar = plot_margins
+  )
+  if (show_values && plain_numbers) {
+    positions <- corrplot_result$corrPos
+    ri <- match(positions$yName, rownames(plot_matrix))
+    ci <- match(positions$xName, colnames(plot_matrix))
+    values <- plot_matrix[cbind(ri, ci)]
+    # Les marges Total ont un fond fixe; seule la matrice interieure definit l'echelle.
+    is_total <- positions$yName == "Total" | positions$xName == "Total"
+    inner_max <- max(c(1, values[!is_total & is.finite(values)]))
+    fill_index <- 1L + round((length(color_palette) - 1L) * pmin(1, pmax(0, values / inner_max)))
+    fills <- color_palette[fill_index]
+    fills[is_total] <- "#C9D4DF"
+    graphics::rect(positions$x - 0.5, positions$y - 0.5,
+                   positions$x + 0.5, positions$y + 0.5,
+                   col = fills, border = "white", lwd = 0.6)
+
+    graphics::text(positions$x, positions$y,
+                   labels = formatC(values, format = "f", digits = number_digits),
+                   cex = number_cex, col = "#202020")
+  }
+
+  if (show_values && !is.null(sample_size_plot)) {
+    positions <- corrplot_result$corrPos
+    if (!is.null(positions) && nrow(positions) > 0) {
+      row_index <- match(positions$yName, rownames(plot_matrix))
+      column_index <- match(positions$xName, colnames(plot_matrix))
+      valid_position <- !is.na(row_index) & !is.na(column_index)
+      n_values <- rep(NA_integer_, nrow(positions))
+      n_values[valid_position] <- as.integer(sample_size_plot[cbind(
+        row_index[valid_position],
+        column_index[valid_position]
+      )])
+      # positions$corr vient de corrplot et est renormalise en interne quand
+      # is.corr = FALSE (ex: distances en km) : ce n'est pas la vraie valeur.
+      # On relit la valeur reelle directement dans plot_matrix, comme pour
+      # n_values ci-dessus, pour que le texte affiche la bonne unite.
+      cell_values <- rep(NA_real_, nrow(positions))
+      cell_values[valid_position] <- plot_matrix[cbind(
+        row_index[valid_position],
+        column_index[valid_position]
+      )]
+      labels <- ifelse(
+        is.finite(cell_values) & !is.na(n_values) & n_values > 0,
+        formatC(cell_values, format = "f", digits = number_digits),
+        ""
+      )
+      graphics::text(
+        positions$x,
+        positions$y,
+        labels = labels,
+        cex = number_cex,
+        col = ifelse(is.finite(cell_values) &
+          if (is_corr) abs(cell_values) > 0.65 else cell_values > value_limits[1] + 0.65 * diff(value_limits), "white", "#202020")
+      )
+    }
+  }
+  if (show_values && !is.null(cell_labels_plot)) {
+    positions <- corrplot_result$corrPos
+    if (!is.null(positions) && nrow(positions) > 0) {
+      row_index <- match(positions$yName, rownames(plot_matrix))
+      column_index <- match(positions$xName, colnames(plot_matrix))
+      valid_position <- !is.na(row_index) & !is.na(column_index)
+      labels <- rep("", nrow(positions))
+      labels[valid_position] <- cell_labels_plot[cbind(
+        row_index[valid_position],
+        column_index[valid_position]
+      )]
+      graphics::text(
+        positions$x,
+        positions$y,
+        labels = labels,
+        cex = number_cex,
+        col = ifelse(plot_matrix[cbind(row_index, column_index)] >
+          value_limits[1] + 0.65 * diff(value_limits), "white", "#202020")
+      )
+    }
+  }
+  if (show_color_legend && !is_corr && !is.null(legend_title)) {
+    mtext(legend_title, side = 4, outer = TRUE, line = 1, cex = 0.8)
+  }
+  annotation_line <- outer_top_margin - 2
+  for (title_line in title_lines) {
+    mtext(title_line, side = 3, outer = TRUE, line = annotation_line,
+          cex = 1.2 * sqrt(text_scale), font = 2, col = "#151515")
+    annotation_line <- annotation_line - 1.7
+  }
+  for (subtitle_line in subtitle_lines) {
+    mtext(subtitle_line, side = 3, outer = TRUE, line = annotation_line,
+          cex = 0.95 * sqrt(text_scale), col = "#555555")
+    annotation_line <- annotation_line - 1.1
+  }
+  for (axis_line in axis_lines) {
+    mtext(axis_line, side = 3, outer = TRUE, line = annotation_line,
+          cex = 0.95 * sqrt(text_scale), font = 2, col = "#202020")
+    annotation_line <- annotation_line - 1.3
+  }
+  if (!is.null(y_axis_title) && y_axis_title != "") {
+    # Titre vertical, centre sur le cote gauche du panneau.
+    mtext(
+      y_axis_title,
+      side = 2,
+      outer = TRUE,
+      line = 1.15,
+      cex = 0.95 * sqrt(text_scale),
+      font = 2,
+      las = 0,
+      col = "#202020"
+    )
+  }
   invisible(TRUE)
 }
 
@@ -1403,7 +1461,7 @@ project_essences <- produits %>%
   filter(clean_ascii(essence) != "Tempere")
 project_provenances <- produits %>%
   transmute(id_projet = as.character(id_projet), provenance = provenance) %>%
-  filter(clean_ascii(provenance) != "Aucune")
+  filter(clean_ascii(provenance) != "Aucune", clean_ascii(provenance) != "Autres")
 project_types_batiments <- techniques %>%
   transmute(id_projet = as.character(id_projet), type_batiment = type_batiment) %>%
   separate_rows(type_batiment, sep = ",") %>%
@@ -1420,22 +1478,29 @@ types_batiments_matrix <- make_presence_matrix(
   type_batiment
 )
 
-correlation_systemes_essences <- make_cross_correlation(
-  systemes_matrix, essences_matrix, "Systeme constructif", "Essence"
+# Associations effectivement renseignees dans les lignes produits.
+# Meme selection de modalites que les graphiques ; pas de produit cartesien
+# entre essences et provenances presentes dans un meme projet.
+khi2_systemes_essences <- make_global_khi2(
+  produits %>% transmute(id_projet, gauche = sous_categorie, droite = essence) %>%
+    filter(clean_text(gauche) %in% colnames(systemes_matrix),
+           clean_text(droite) %in% colnames(essences_matrix)),
+  "Parties d'ouvrage", "Essence"
 )
-correlation_types_batiments_systemes <- make_cross_correlation(
-  types_batiments_matrix,
-  systemes_matrix,
-  "Type de bâtiment",
-  "Système constructif"
+khi2_types_batiments_systemes <- make_global_khi2(
+  project_types_batiments %>%
+    inner_join(project_systemes_constructifs, by = "id_projet", relationship = "many-to-many") %>%
+    transmute(id_projet, gauche = type_batiment, droite = systeme_constructif) %>%
+    filter(clean_text(gauche) %in% colnames(types_batiments_matrix),
+           clean_text(droite) %in% colnames(systemes_matrix)),
+  "Type de bâtiment", "Parties d'ouvrage"
 )
-correlation_essences_provenances <- make_cross_correlation(
-  essences_matrix,
-  provenances_matrix[, str_to_lower(clean_ascii(colnames(provenances_matrix))) != "autres", drop = FALSE],
+khi2_essences_provenances <- make_global_khi2(
+  produits %>% transmute(id_projet, gauche = essence, droite = provenance) %>%
+    filter(clean_text(gauche) %in% colnames(essences_matrix),
+           clean_text(droite) %in% colnames(provenances_matrix)),
   "Essence", "Provenance"
 )
-
-
 # ============================================================================
 # 3. Construction du Sankey et des cartes HTML
 # ============================================================================
@@ -1613,8 +1678,8 @@ stage_projet <- stage_projet %>% filter(id_projet %in% sankey_project_ids)
 distance_groupes_acteurs <- c(
   "Maître d'ouvrage",
   "Études et ingénieries",
-  "entreprise de construction",
-  "entreprises de transformation"
+  "Entreprise de construction",
+  "Entreprises de transformation"
 )
 
 # Une ligne source peut représenter un rôle plutôt qu'un acteur unique. La table
@@ -1905,12 +1970,12 @@ distance_role_pair_definitions <- tibble(
   groupe_1 = c(
     "Maître d'ouvrage", "Maître d'ouvrage", "Maître d'ouvrage",
     "Études et ingénieries", "Études et ingénieries",
-    "entreprise de construction"
+    "Entreprise de construction"
   ),
   groupe_2 = c(
-    "Études et ingénieries", "entreprise de construction", "entreprises de transformation",
-    "entreprise de construction", "entreprises de transformation",
-    "entreprises de transformation"
+    "Études et ingénieries", "Entreprise de construction", "Entreprises de transformation",
+    "Entreprise de construction", "Entreprises de transformation",
+    "Entreprises de transformation"
   )
 ) %>%
   mutate(
@@ -2100,7 +2165,7 @@ localite_column_names <- c(
   "Part même région (indicatif)"
 )
 
-localite_color_matrix <- with(localite_stats_roles, cbind(
+localite_color_matrix <- 100 * with(localite_stats_roles, cbind(
   localite_normalize(distance_mediane_km, invert = TRUE),
   localite_normalize(part_50km),
   localite_normalize(part_100km),
@@ -2378,6 +2443,20 @@ p <- htmlwidgets::onRender(
             .text(line);
         });
       });
+
+    // networkD3 place margin.right (260 px) a gauche du viewBox : on recale
+    // le diagramme a 10 px du bord gauche pour supprimer le grand vide.
+    var svgNode = svg.node();
+    var vb = (svgNode.getAttribute('viewBox') || '').split(/[\\s,]+/).map(Number);
+    var content = svg.select('g').node();
+    if (vb.length === 4 && content) {
+      var left = content.getBBox().x + marginLeft;
+      svg.selectAll('.sankey-stage-title').each(function() {
+        left = Math.min(left, this.getBBox().x);
+      });
+      vb[0] = left - 10;
+      svgNode.setAttribute('viewBox', vb.join(','));
+    }
   }
   "
 )
@@ -2557,8 +2636,8 @@ map_marker_data <- map_data %>%
 heatmap_actor_layer_labels <- c(
   "Maitre d'ouvrage" = "Maître d'ouvrage",
   "Etudes et ingenieries" = "Études et ingénieries",
-  "Entreprises des lots bois" = "entreprise de construction",
-  "Fournisseurs du bois" = "entreprises de transformation"
+  "Entreprises des lots bois" = "Entreprise de construction",
+  "Fournisseurs du bois" = "Entreprises de transformation"
 )
 
 project_heatmap_data <- projets %>%
@@ -2748,18 +2827,19 @@ project_marker_style <- list(
 
 actor_marker_styles <- tibble::tribble(
   ~layer, ~icon, ~marker_color, ~cluster_hue, ~legend_color,
-  "Maître d'ouvrage",            "home",   "blue",   211, "#2474B5",
-  "Études et ingénieries",       "pencil", "purple", 278, "#7A4AA5",
-  "entreprise de construction",   "wrench", "orange",  28, "#D86E16",
-  "entreprises de transformation",        "tree",   "green",  135, "#27854A"
+  "Maître d'ouvrage",             "home",   "blue",   211, "#2474B5",
+  "Études et ingénieries",        "pencil", "purple", 278, "#7A4AA5",
+  "Entreprise de construction",   "wrench", "orange",  28, "#D86E16",
+  "Entreprises de transformation","tree",   "green",  135, "#27854A"
 )
 
 cluster_max_radius <- 55
 
-region_boundaries_geojson <- get_region_boundaries_geojson()
+department_boundaries <- read_administrative_boundaries("departements-50m.geojson")
+region_boundaries <- read_administrative_boundaries("regions-50m.geojson")
 population_density_communes <- get_population_density_communes()
 heatmap_base_overlay_groups <- c(
-  "Limites regions",
+  "Limites departements", "Limites regions",
   if (!is.null(population_density_communes) && nrow(population_density_communes) > 0) {
     population_density_layer
   }
@@ -2909,14 +2989,13 @@ flow_lines <- flow_project_routes %>%
     )
   ) %>%
   mutate(
-    flow_strength = sqrt(nb_participations) / sqrt(max(nb_participations)),
-    line_weight = 1 + 11 * flow_strength,
-    line_opacity = 0.48 + 0.42 * flow_strength,
+    line_weight = flow_line_width(nb_participations),
+    line_opacity = 0.8,
     route_rank = dense_rank(paste(segment, dept_source, dept_target, sep = "|")),
     curve_side = if_else(route_rank %% 2 == 0, -1, 1),
     curve_bend = 0.10 + 0.015 * (route_rank %% 4),
     segment_rank = dense_rank(segment),
-    loop_radius = 0.055 + 0.012 * pmin(segment_rank, 3),
+    loop_radius = 2.5 * (0.055 + 0.012 * pmin(segment_rank, 3)),
     loop_start_angle = (segment_rank - 1) * pi / 3,
     flow_geometry = if_else(is_intradepartement, "boucle-intradepartement", "arc-inter-departements"),
     flow_group = flow_segment_groups[match(segment, flow_segment_domain)],
@@ -2967,30 +3046,13 @@ if (any(abs(flow_total_check$actual - flow_total_check$expected) > 1e-8)) {
   )
 }
 
-flow_max_projects <- if (nrow(flow_lines) > 0) max(flow_lines$nb_participations) else 0
-flow_legend_values <- if (flow_max_projects > 0) {
-  unique(sort(pmax(1, round(c(1, flow_max_projects / 4, flow_max_projects / 2, flow_max_projects)))))
-} else {
-  integer()
-}
-flow_legend_rows <- paste0(
-  vapply(flow_legend_values, function(project_count) {
-    legend_weight <- 1 + 11 * sqrt(project_count) / sqrt(flow_max_projects)
-    paste0(
-      "<div style='display:flex;align-items:center;gap:8px;height:22px'>",
-      "<span style='display:inline-block;width:48px;border-top:",
-      round(legend_weight, 1), "px solid #555'></span>",
-      project_count, " participations</div>"
-    )
-  }, character(1)),
-  collapse = ""
-)
+flow_legend_rows <- flow_width_legend()
 
 # Legende explicite pour conserver l'ordre logique des etapes, du haut vers le bas.
 flow_stage_legend_rows <- paste0(
   vapply(seq_along(flow_segment_domain), function(index) {
     paste0(
-      "<div style='display:flex;align-items:center;gap:7px;margin:4px 0;white-space:nowrap;'>",
+      "<div style='display:flex;align-items:center;gap:7px;margin:4px 0;'>",
       "<span style='display:inline-block;flex:0 0 14px;width:14px;height:14px;background:",
       flow_segment_palette(flow_segment_domain[index]), ";'></span>",
       htmlEscape(flow_segment_domain[index]),
@@ -3000,26 +3062,23 @@ flow_stage_legend_rows <- paste0(
   collapse = ""
 )
 
-map_widget <- leaflet(map_data, width = "100%", height = 720) %>%
-  addProviderTiles(providers$CartoDB.Positron)
+map_marker_data <- map_marker_data %>%
+  semi_join(connected_flow_nodes(flow_lines),
+            by = c("type" = "flow_stage", "latitude", "longitude"))
 
-if (!is.na(region_boundaries_geojson)) {
-  map_widget <- map_widget %>%
-    addGeoJSON(
-      geojson = region_boundaries_geojson,
-      group = "Limites regions",
-      stroke = TRUE,
-      color = "#2F2F2F",
-      weight = 1.6,
-      opacity = 0.85,
-      fill = TRUE,
-      fillColor = "#FFFFFF",
-      fillOpacity = 0.02
-    )
-}
+map_widget <- leaflet(map_data, width = "100%", height = 720) %>%
+  addTiles(
+    urlTemplate = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    attribution = "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ", group = "Fond gris clair",
+    options = tileOptions(maxZoom = 19, maxNativeZoom = 16)
+  )
+
+map_widget <- add_administrative_boundaries(map_widget)
+map_flow_geometries <- vector("list", nrow(flow_lines))
 
 if (nrow(flow_lines) > 0) {
   for (i in seq_len(nrow(flow_lines))) {
+    if (flow_lines$nb_participations[i] < 5) next
     flow_points_to_draw <- if (isTRUE(flow_lines$is_intradepartement[i])) {
       make_flow_loop(
         flow_lines$longitude_source[i],
@@ -3038,6 +3097,7 @@ if (nrow(flow_lines) > 0) {
       )
     }
     
+    map_flow_geometries[[i]] <- flow_points_to_draw
     map_widget <- map_widget %>%
       leaflet.extras2::addArrowhead(
         lng = flow_points_to_draw$longitude,
@@ -3064,6 +3124,8 @@ if (nrow(flow_lines) > 0) {
       )
   }
 }
+
+map_widget <- fit_flow_bounds(map_widget, map_flow_geometries)
 
 for (stage_type in c("Provenance", "Scierie / Industriel", "Charpentier / Constructeur / Menuisier", "Projet")) {
   stage_points <- map_marker_data %>% filter(type == stage_type)
@@ -3102,32 +3164,11 @@ for (stage_type in c("Provenance", "Scierie / Industriel", "Charpentier / Constr
 
 map_widget <- map_widget %>%
   addLayersControl(
-    overlayGroups = c("Limites regions", "Provenance", "Scierie / Industriel", "Charpentier / Constructeur / Menuisier", "Projet"),
+    overlayGroups = c("Limites departements", "Limites regions", "Provenance", "Scierie / Industriel", "Charpentier / Constructeur / Menuisier", "Projet"),
     options = layersControlOptions(collapsed = FALSE)
   ) %>%
   hideGroup(flow_segment_groups) %>%
-  addControl(
-    html = HTML(
-      paste0(
-        "<div class='info legend' style='max-width:260px;'>",
-        "<b>Épaisseur des liens — participations entreprises</b><br>",
-        flow_legend_rows,
-        "</div>"
-      )
-    ),
-    position = "bottomleft"
-  ) %>%
-  addControl(
-    html = HTML(
-      paste0(
-        "<div class='info legend' style='width:440px;white-space:nowrap;'>",
-        "<b>Etape du flux</b>",
-        flow_stage_legend_rows,
-        "</div>"
-      )
-    ),
-    position = "bottomright"
-  )
+  add_flow_legend(flow_legend_rows, flow_stage_legend_rows)
 
 map_widget <- htmlwidgets::onRender(
   map_widget,
@@ -3273,82 +3314,46 @@ heatmap_layers <- c(
 
 create_heatmap_base <- function() {
   widget <- leaflet(width = "100%", height = 720) %>%
-    addProviderTiles(providers$CartoDB.Positron) %>%
+    addTiles(
+    urlTemplate = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    attribution = "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ", group = "Fond gris clair",
+    options = tileOptions(maxZoom = 19, maxNativeZoom = 16)
+  ) %>%
     setView(lng = 4.70, lat = 45.45, zoom = 7)
   
-  if (!is.null(population_density_communes) && nrow(population_density_communes) > 0) {
-    widget <- widget %>%
-      addPolygons(
-        data = population_density_communes,
-        group = population_density_layer,
-        stroke = TRUE,
-        color = "#FFFFFF",
-        weight = 0.12,
-        opacity = 0.16,
-        fillColor = ~color,
-        fillOpacity = 0.52,
-        popup = ~popup,
-        smoothFactor = 1.5,
-        options = pathOptions(interactive = TRUE)
-      )
-  }
+  widget <- add_commune_density(widget)
   
-  if (!is.na(region_boundaries_geojson)) {
-    widget <- widget %>%
-      addGeoJSON(
-        geojson = region_boundaries_geojson,
-        group = "Limites regions",
-        stroke = TRUE,
-        color = "#2F2F2F",
-        weight = 1.6,
-        opacity = 0.85,
-        fill = TRUE,
-        fillColor = "#FFFFFF",
-        fillOpacity = 0.02
-      )
-  }
+  widget <- add_administrative_boundaries(widget)
   
   widget
 }
 
 add_population_density_legend <- function(widget) {
-  legend_rows <- paste(
-    vapply(names(population_density_colors), function(level) {
-      density_label <- population_density_labels[[level]]
-      paste0(
-        "<div style='display:flex;align-items:center;gap:7px;margin:2px 0;'>",
-        "<span style='width:14px;height:14px;display:inline-block;background:",
-        population_density_colors[[level]], ";'></span>",
-        "<span style='white-space:nowrap;'>", htmlEscape(density_label), "</span></div>"
-      )
-    }, character(1)),
-    collapse = ""
-  )
-  
   widget %>%
-    addControl(
-      html = HTML(
-        paste0(
-          "<div class='info legend' style='font-size:13px;line-height:1.2;'>",
-          "<div style='font-size:17px;margin-bottom:5px;'>Grille communale de densité</div>",
-          legend_rows,
-          "</div>"
-        )
+    removeControl("map-context") %>%
+    addLegend(
+      position = "bottomright", colors = unname(population_density_colors),
+      labels = unname(population_density_labels), opacity = 0.65,
+      title = paste0(
+        "<div style='font-size:15px;margin-bottom:8px;'>Légende</div>",
+        "<div style='font:12px/1.4 Arial;font-weight:400;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid #ddd;'>",
+        "<span style='border-top:2px dashed #2F2F2F;display:inline-block;width:24px;vertical-align:middle;'></span> Région &nbsp;&nbsp;",
+        "<span style='border-top:1px dashed #666;display:inline-block;width:24px;vertical-align:middle;'></span> Département",
+        "<div style='font-size:10px;color:#666;margin-top:5px;max-width:330px;'>Sources : fichiers locaux projets/acteurs ; contours administratifs ; INSEE/ANCT (grid7).</div></div>",
+        "Densité communale — 7 classes ordonnées<br><small>Forte → faible</small>"
       ),
-      position = "bottomright"
+      group = population_density_layer, layerId = "density-legend"
     )
 }
 
 make_cluster_options <- function(hue) {
-  # Echelle logarithmique : la couleur et le diametre evoluent meme lorsque
-  # quelques grappes contiennent beaucoup plus de marqueurs que les autres.
+  # Badge de navigation : effectif exact ecrit, teinte reservee au role.
   cluster_icon_function <- JS(
     paste0(
       "function(cluster) {",
       "  var count = cluster.getChildCount();",
-      "  var strength = Math.log(count + 1) / Math.log(2);",
-      "  var lightness = Math.max(25, 72 - Math.min(47, strength * 6));",
-      "  var size = Math.round(34 + Math.min(22, strength * 3));",
+      "  var lightness = 40;",
+      "  var size = 38;",
       "  var color = 'hsl(", hue, ", 72%, ' + lightness + '%)';",
       "  var textColor = lightness < 52 ? '#FFFFFF' : '#17202A';",
       "  var html = '<div style=\"width:' + size + 'px;height:' + size + 'px;",
@@ -3385,11 +3390,7 @@ add_cluster_legend <- function(widget, title, symbol_rows, bottom_text) {
           "<div style='font-size:18px;margin-bottom:7px;'>", htmlEscape(title), "</div>",
           symbol_rows,
           "<div style='margin-top:8px;font-weight:600;'>Nombre dans une grappe</div>",
-          "<div role='img' aria-label='La couleur devient plus foncée lorsque le nombre augmente' ",
-          "style='height:13px;border-radius:7px;border:1px solid rgba(0,0,0,0.18);",
-          "background:linear-gradient(to right,hsl(216,72%,68%),hsl(216,72%,25%));'></div>",
-          "<div style='display:flex;justify-content:space-between;font-size:11px;color:#555;'>",
-          "<span>Peu</span><span>Beaucoup</span></div>",
+          "<div>Le chiffre indique l’effectif exact ; regroupement selon le zoom.</div>",
           "<div style='margin-top:7px;'>", htmlEscape(bottom_text), "</div>",
           "</div>"
         )
@@ -3670,14 +3671,13 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
     ) %>%
     mutate(
       is_intradepartement = (flow_stage_source != "Provenance") & (dept_source == dept_target),
-      flow_strength = sqrt(nb_participations) / sqrt(max(nb_participations)),
-      line_weight = 1 + 11 * flow_strength,
-      line_opacity = 0.48 + 0.42 * flow_strength,
+      line_weight = flow_line_width(nb_participations),
+      line_opacity = 0.8,
       route_rank = dense_rank(paste(segment, dept_source, dept_target, sep = "|")),
       curve_side = if_else(route_rank %% 2 == 0, -1, 1),
       curve_bend = 0.10 + 0.015 * (route_rank %% 4),
       segment_rank = dense_rank(segment),
-      loop_radius = 0.055 + 0.012 * pmin(segment_rank, 3),
+      loop_radius = 2.5 * (0.055 + 0.012 * pmin(segment_rank, 3)),
       loop_start_angle = (segment_rank - 1) * pi / 3,
       line_color = unname(segment_colors[segment]),
       popup = paste0(
@@ -3698,6 +3698,7 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
   # "stage-rotate-N", cf. le onRender plus bas), pour rester coherent entre
   # toutes les cartes de flux.
   marker_data <- node_locations %>%
+    semi_join(connected_flow_nodes(lines), by = c("flow_stage", "latitude", "longitude")) %>%
     left_join(nodes %>% select(name, node_value, count_unit), by = "name") %>%
     mutate(
       stage_order = match(flow_stage, role_styles$stage),
@@ -3721,20 +3722,18 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
                            "<br>", node_value, " ", htmlEscape(count_unit)))
 
   widget <- leaflet(width = "100%", height = height) %>%
-    addProviderTiles(providers$CartoDB.Positron)
+    addTiles(
+    urlTemplate = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    attribution = "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ", group = "Fond gris clair",
+    options = tileOptions(maxZoom = 19, maxNativeZoom = 16)
+  )
 
-  if (!is.na(region_boundaries_geojson)) {
-    widget <- widget %>%
-      addGeoJSON(
-        geojson = region_boundaries_geojson,
-        group = "Limites regions",
-        stroke = TRUE, color = "#2F2F2F", weight = 1.6, opacity = 0.85,
-        fill = TRUE, fillColor = "#FFFFFF", fillOpacity = 0.02
-      )
-  }
+  widget <- add_administrative_boundaries(widget)
 
+  flow_geometries <- vector("list", nrow(lines))
   if (nrow(lines) > 0) {
     for (i in seq_len(nrow(lines))) {
+      if (lines$nb_participations[i] < 5) next
       flow_points <- if (isTRUE(lines$is_intradepartement[i])) {
         make_flow_loop(
           lines$longitude_source[i], lines$latitude_source[i],
@@ -3747,6 +3746,7 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
           bend = lines$curve_bend[i], side = lines$curve_side[i]
         )
       }
+      flow_geometries[[i]] <- flow_points
       widget <- widget %>%
         leaflet.extras2::addArrowhead(
           lng = flow_points$longitude, lat = flow_points$latitude,
@@ -3767,6 +3767,8 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
         )
     }
   }
+
+  widget <- fit_flow_bounds(widget, flow_geometries)
 
   for (stage_type in unique(marker_data$flow_stage)) {
     stage_points <- marker_data %>% filter(flow_stage == stage_type)
@@ -3793,29 +3795,12 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
 
   # Memes deux legendes que map_widget (carte agregee) : epaisseur des flux
   # (participations entreprises) et etape du flux (couleur par segment).
-  flow_max_projects <- if (nrow(lines) > 0) max(lines$nb_participations) else 0
-  flow_legend_values <- if (flow_max_projects > 0) {
-    unique(sort(pmax(1, round(c(1, flow_max_projects / 4, flow_max_projects / 2, flow_max_projects)))))
-  } else {
-    integer()
-  }
-  flow_legend_rows <- paste0(
-    vapply(flow_legend_values, function(project_count) {
-      legend_weight <- 1 + 11 * sqrt(project_count) / sqrt(flow_max_projects)
-      paste0(
-        "<div style='display:flex;align-items:center;gap:8px;height:22px'>",
-        "<span style='display:inline-block;width:48px;border-top:",
-        round(legend_weight, 1), "px solid #555'></span>",
-        project_count, " participations</div>"
-      )
-    }, character(1)),
-    collapse = ""
-  )
+  flow_legend_rows <- flow_width_legend()
 
   flow_stage_legend_rows <- paste0(
     vapply(flow_segments_present, function(seg) {
       paste0(
-        "<div style='display:flex;align-items:center;gap:7px;margin:4px 0;white-space:nowrap;'>",
+        "<div style='display:flex;align-items:center;gap:7px;margin:4px 0;'>",
         "<span style='display:inline-block;flex:0 0 14px;width:14px;height:14px;background:",
         unname(segment_colors[seg]), ";'></span>",
         htmlEscape(seg),
@@ -3834,34 +3819,13 @@ build_role_flow_map <- function(pair_data, source_locations, target_locations,
   widget <- widget %>%
     addLayersControl(
       overlayGroups = c(
-        "Limites regions",
+        "Limites departements", "Limites regions",
         role_styles$stage
       ),
       options = layersControlOptions(collapsed = FALSE)
     ) %>%
     hideGroup(paste0("Flux : ", flow_segments_present)) %>%
-    addControl(
-      html = HTML(
-        paste0(
-          "<div class='info legend' style='max-width:260px;'>",
-          "<b>Épaisseur des liens — participations entreprises</b><br>",
-          flow_legend_rows,
-          "</div>"
-        )
-      ),
-      position = "bottomleft"
-    ) %>%
-    addControl(
-      html = HTML(
-        paste0(
-          "<div class='info legend' style='max-width:280px;white-space:nowrap;'>",
-          "<b>Etape du flux</b>",
-          flow_stage_legend_rows,
-          "</div>"
-        )
-      ),
-      position = "bottomright"
-    )
+    add_flow_legend(flow_legend_rows, flow_stage_legend_rows)
 
   # Meme comportement interactif que map_widget (carte agregee) : les flux
   # restent masques par defaut, mais des qu'on coche a la fois le role source
@@ -4028,7 +3992,7 @@ flow_actor_locations_scierie_industriel <- stage_scierie_industriel_source %>%
   select(name, flow_stage, commune, dept, latitude, longitude)
 
 segment_colors_scierie_industriel <- c(
-  "Provenance -> Scierie" = "#2474B5",
+  "Provenance -> Scierie" = "#E67E22",
   "Provenance -> Industriel" = "#3E7C8C"
 )
 
@@ -4142,7 +4106,7 @@ page <- browsable(
     tags$div(
       style = "font-family:Arial, sans-serif; margin:26px 0 8px 0;",
       tags$h2(
-        "Carte des flux — Provenance vers 1ʳᵉ Transformation",
+        "Carte des flux — Provenance vers entreprises de transformation",
         style = "margin:0 0 6px 0; font-size:22px; font-weight:600;"
       )
     ),
@@ -4150,7 +4114,7 @@ page <- browsable(
     tags$div(
       style = "font-family:Arial, sans-serif; margin:26px 0 8px 0;",
       tags$h2(
-        "Carte des flux — 2ᵉ Transformation vers Projet",
+        "Carte des flux — entreprise de construction vers Projet",
         style = "margin:0 0 6px 0; font-size:22px; font-weight:600;"
       )
     ),
@@ -4158,7 +4122,7 @@ page <- browsable(
     tags$div(
       style = "font-family:Arial, sans-serif; margin:26px 0 8px 0;",
       tags$h2(
-        "Carte des flux — 1ʳᵉ Transformation vers 2ᵉ Transformation",
+        "Carte des flux — entreprises de transformation vers entreprise de construction",
         style = "margin:0 0 6px 0; font-size:22px; font-weight:600;"
       )
     ),
@@ -4376,20 +4340,15 @@ write_csv(
   output_file("correlation_proximite_acteurs_projets.csv")
 )
 
-write_csv(
-  correlation_systemes_essences$table,
-  output_file("correlation_systemes_constructifs_essences.csv")
-)
 
-write_csv(
-  correlation_types_batiments_systemes$table,
-  output_file("correlation_types_batiments_systemes_constructifs.csv")
-)
+write_csv(khi2_systemes_essences$summary, output_file("khi2_systemes_constructifs_essences_global.csv"))
+write_csv(khi2_types_batiments_systemes$summary, output_file("khi2_types_batiments_systemes_constructifs_global.csv"))
+write_csv(khi2_essences_provenances$summary, output_file("khi2_essences_provenances_global.csv"))
+write_csv(khi2_systemes_essences$contingency, output_file("contingence_systemes_essences.csv"))
+write_csv(khi2_types_batiments_systemes$contingency, output_file("contingence_types_batiments_systemes.csv"))
+write_csv(khi2_essences_provenances$contingency, output_file("contingence_essences_provenances.csv"))
 
-write_csv(
-  correlation_essences_provenances$table,
-  output_file("correlation_essences_provenances.csv")
-)
+
 
 write_csv(
   acteurs_projets_regions,
@@ -4438,47 +4397,51 @@ write_csv(participations_par_role_departement, output_file("participations_entre
 # 5. Export des figures PNG
 # ============================================================================
 
+
+
+
+# Tableaux de contingence : nombre de projets distincts par cellule.
 save_correlation_plot(
-  correlation_systemes_essences$plot_matrix,
+  addmargins(khi2_systemes_essences$table, FUN = list(Total = sum)),
   output_file("correlation_systemes_constructifs_essences.png"),
-  "Systèmes constructifs et essences de bois",
-  subtitle = paste0(
-    "n = ",
-    correlation_systemes_essences$n_projets
-  ),
-  x_axis_title = "Essence de bois",
-  y_axis_title = "Système constructif"
+  "Tableau de contingence — Parties d'ouvrage et essences",
+  subtitle = khi2_systemes_essences$subtitle,
+  x_axis_title = "Essence de bois", y_axis_title = "Parties d'ouvrage",
+  is_corr = FALSE, number_digits = 0, strip_axis_prefix = FALSE,
+  show_color_legend = FALSE, plain_numbers = TRUE,
+  value_limits = c(0, max(1, sum(khi2_systemes_essences$table))),
+  legend_title = "Nombre de projets",
+  color_palette = colorRampPalette(c("#DCEAF5", "#689BC5"))(200)
 )
-
 save_correlation_plot(
-  t(correlation_types_batiments_systemes$plot_matrix),
+  addmargins(t(khi2_types_batiments_systemes$table), FUN = list(Total = sum)),
   output_file("correlation_types_batiments_systemes_constructifs.png"),
-  "Types de bâtiment et systèmes constructifs",
-  subtitle = paste0(
-    "n = ",
-    correlation_types_batiments_systemes$n_projets
-  ),
-  x_axis_title = "Type de bâtiment",
-  y_axis_title = "Système constructif"
+  "Tableau de contingence — Types de bâtiment et parties d'ouvrage",
+  subtitle = khi2_types_batiments_systemes$subtitle,
+  x_axis_title = "Type de bâtiment", y_axis_title = "Parties d'ouvrage",
+  is_corr = FALSE, number_digits = 0, strip_axis_prefix = FALSE,
+  show_color_legend = FALSE, plain_numbers = TRUE,
+  value_limits = c(0, max(1, sum(khi2_types_batiments_systemes$table))),
+  legend_title = "Nombre de projets", text_scale = 1.3,
+  color_palette = colorRampPalette(c("#DCEAF5", "#689BC5"))(200)
 )
-
 save_correlation_plot(
-  correlation_essences_provenances$plot_matrix,
+  addmargins(khi2_essences_provenances$table, FUN = list(Total = sum)),
   output_file("correlation_essences_provenances.png"),
-  "Essences et provenances du bois",
-  subtitle = paste0(
-    "n = ",
-    correlation_essences_provenances$n_projets
-  ),
-  x_axis_title = "Provenance du bois",
-  y_axis_title = "Essence de bois"
+  "Tableau de contingence — Essences et provenances du bois",
+  subtitle = khi2_essences_provenances$subtitle,
+  x_axis_title = "Provenance du bois", y_axis_title = "Essence de bois",
+  is_corr = FALSE, number_digits = 0, strip_axis_prefix = FALSE,
+  show_color_legend = FALSE, plain_numbers = TRUE,
+  value_limits = c(0, max(1, sum(khi2_essences_provenances$table))),
+  legend_title = "Nombre de projets", text_scale = 1.3,
+  color_palette = colorRampPalette(c("#DCEAF5", "#689BC5"))(200)
 )
 
 save_correlation_plot(
   distance_group_matrix,
   output_file("distances_acteurs_entre_groupes.png"),
   "Distances entre groupes d'acteurs d'un même projet",
-  subtitle = paste0("n = ", length(sankey_project_ids)),
   x_axis_title = "Groupe d'acteurs",
   y_axis_title = "Groupe d'acteurs",
   sample_size_matrix = distance_group_n_matrix,
@@ -4494,7 +4457,6 @@ save_correlation_plot(
   correlation_proximite,
   output_file("correlation_proximite_acteurs_projets.png"),
   "Proximité des acteurs entre eux et par rapport au projet",
-  subtitle = paste0("n = ", length(sankey_project_ids)),
   x_axis_title = "Distance médiane entre chaque groupe d'acteurs et le projet",
   y_axis_title = "Distance médiane entre deux groupes d'acteurs du même projet",
   sample_size_matrix = correlation_proximite_n
@@ -4502,13 +4464,12 @@ save_correlation_plot(
 
 save_correlation_plot(
   localite_color_matrix,
-  output_file("localite_acteurs_par_groupe.png"),
+  output_file("localite_de_acteur.png"),
   "Localité des acteurs par groupe, par rapport au projet",
-  subtitle = paste0("n = ", length(sankey_project_ids)),
   cell_labels = localite_labels_matrix,
+  show_color_legend = FALSE,
   is_corr = FALSE,
-  value_limits = c(0, 1),
-  legend_title = "Indice",
+  value_limits = c(0, 100),
   color_palette = colorRampPalette(c("#F0F5FA", "#A6C8E2", "#245A81"))(200)
 )
 # ============================================================================
@@ -4594,3 +4555,6 @@ save_html(
   file = output_file("sankey_aura_filiere_bois_provenance_projets_carte.html"),
   libdir = output_file("sankey_aura_filiere_bois_assets")
 )
+write_csv(khi2_systemes_essences$counts, output_file("comptages_projets_systemes_essences.csv"))
+write_csv(khi2_types_batiments_systemes$counts, output_file("comptages_projets_types_batiments_systemes.csv"))
+write_csv(khi2_essences_provenances$counts, output_file("comptages_projets_essences_provenances.csv"))

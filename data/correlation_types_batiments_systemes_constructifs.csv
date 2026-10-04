@@ -1,91 +1,91 @@
 variable_gauche,variable_droite,correlation_pearson,n_projets
-Type de bâtiment | Service institutionnel et public,Système constructif | Structure verticale,-0.25,156
-Type de bâtiment | Culture,Système constructif | Structure horizontale,-0.206,156
-Type de bâtiment | Lieu d'entreprise,Système constructif | Menuiserie extérieure,-0.185,156
-Type de bâtiment | Logement collectif,Système constructif | Charpente,-0.181,156
-Type de bâtiment | Culture,Système constructif | Menuiserie intérieure,0.181,156
-Type de bâtiment | Lieu d'entreprise,Système constructif | Structure horizontale,0.17,156
-Type de bâtiment | Logement individuel inférieur 120 m²,Système constructif | Menuiserie extérieure,0.16,156
-Type de bâtiment | Enseignement ou éducation,Système constructif | Structure horizontale,-0.154,156
-Type de bâtiment | Lieu d'entreprise,Système constructif | Revêtement bois ou dérivés,-0.151,156
-Type de bâtiment | Santé,Système constructif | Revêtement bois ou dérivés,-0.147,156
-Type de bâtiment | Hébergement,Système constructif | Structure verticale,-0.145,156
-Type de bâtiment | Culture,Système constructif | Revêtement bois ou dérivés,0.133,156
-Type de bâtiment | Lieu d'entreprise,Système constructif | Structure verticale,0.129,156
-Type de bâtiment | Logement individuel supérieur à 120 m²,Système constructif | Charpente,-0.118,156
-Type de bâtiment | Restauration,Système constructif | Structure horizontale,-0.112,156
-Type de bâtiment | Logement individuel supérieur à 120 m²,Système constructif | Structure horizontale,0.111,156
-Type de bâtiment | Culture,Système constructif | Charpente,-0.11,156
-Type de bâtiment | Industrie et commerce,Système constructif | Revêtement bois ou dérivés,0.11,156
-Type de bâtiment | Logement individuel inférieur 120 m²,Système constructif | Revêtement bois ou dérivés,0.11,156
-Type de bâtiment | Logement individuel supérieur à 120 m²,Système constructif | Structure verticale,0.101,156
-Type de bâtiment | Agriculture,Système constructif | Revêtement bois ou dérivés,-0.098,156
-Type de bâtiment | Industrie et commerce,Système constructif | Menuiserie extérieure,0.098,156
-Type de bâtiment | Industrie et commerce,Système constructif | Structure verticale,0.097,156
-Type de bâtiment | Hébergement,Système constructif | Structure horizontale,0.095,156
-Type de bâtiment | Culture,Système constructif | Structure verticale,-0.094,156
-Type de bâtiment | Logement individuel supérieur à 120 m²,Système constructif | Menuiserie extérieure,-0.094,156
-Type de bâtiment | Hébergement,Système constructif | Menuiserie extérieure,0.085,156
-Type de bâtiment | Hébergement,Système constructif | Revêtement bois ou dérivés,0.082,156
-Type de bâtiment | Service institutionnel et public,Système constructif | Structure horizontale,-0.081,156
-Type de bâtiment | Service institutionnel et public,Système constructif | Menuiserie intérieure,0.081,156
-Type de bâtiment | Sport,Système constructif | Structure verticale,-0.078,156
-Type de bâtiment | Sport,Système constructif | Revêtement bois ou dérivés,0.078,156
-Type de bâtiment | Service institutionnel et public,Système constructif | Charpente,0.077,156
-Type de bâtiment | Logement individuel supérieur à 120 m²,Système constructif | Revêtement bois ou dérivés,0.076,156
-Type de bâtiment | Santé,Système constructif | Menuiserie extérieure,-0.076,156
-Type de bâtiment | Agriculture,Système constructif | Menuiserie intérieure,-0.076,156
-Type de bâtiment | Santé,Système constructif | Charpente,0.075,156
-Type de bâtiment | Service institutionnel et public,Système constructif | Menuiserie extérieure,-0.073,156
-Type de bâtiment | Logement collectif,Système constructif | Menuiserie extérieure,0.072,156
-Type de bâtiment | Logement individuel inférieur 120 m²,Système constructif | Menuiserie intérieure,-0.071,156
-Type de bâtiment | Sport,Système constructif | Structure horizontale,-0.068,156
-Type de bâtiment | Industrie et commerce,Système constructif | Charpente,0.065,156
-Type de bâtiment | Logement individuel inférieur 120 m²,Système constructif | Charpente,0.065,156
-Type de bâtiment | Restauration,Système constructif | Menuiserie intérieure,-0.065,156
-Type de bâtiment | Logements de vacances ou de loisirs,Système constructif | Structure horizontale,-0.064,156
-Type de bâtiment | Loisirs,Système constructif | Menuiserie extérieure,-0.063,156
-Type de bâtiment | Restauration,Système constructif | Menuiserie extérieure,-0.062,156
-Type de bâtiment | Service institutionnel et public,Système constructif | Revêtement bois ou dérivés,-0.061,156
-Type de bâtiment | Restauration,Système constructif | Charpente,0.06,156
-Type de bâtiment | Enseignement ou éducation,Système constructif | Menuiserie intérieure,-0.059,156
-Type de bâtiment | Logements de vacances ou de loisirs,Système constructif | Revêtement bois ou dérivés,0.058,156
-Type de bâtiment | Industrie et commerce,Système constructif | Structure horizontale,0.056,156
-Type de bâtiment | Loisirs,Système constructif | Charpente,0.056,156
-Type de bâtiment | Loisirs,Système constructif | Menuiserie intérieure,0.055,156
-Type de bâtiment | Hébergement,Système constructif | Menuiserie intérieure,-0.053,156
-Type de bâtiment | Agriculture,Système constructif | Structure verticale,-0.052,156
-Type de bâtiment | Enseignement ou éducation,Système constructif | Structure verticale,0.051,156
-Type de bâtiment | Logements de vacances ou de loisirs,Système constructif | Structure verticale,0.051,156
-Type de bâtiment | Hébergement,Système constructif | Charpente,0.049,156
-Type de bâtiment | Logement collectif,Système constructif | Menuiserie intérieure,0.048,156
-Type de bâtiment | Enseignement ou éducation,Système constructif | Menuiserie extérieure,0.045,156
-Type de bâtiment | Logement collectif,Système constructif | Structure horizontale,0.041,156
-Type de bâtiment | Santé,Système constructif | Structure verticale,-0.037,156
-Type de bâtiment | Logements de vacances ou de loisirs,Système constructif | Menuiserie intérieure,-0.037,156
-Type de bâtiment | Agriculture,Système constructif | Charpente,-0.035,156
-Type de bâtiment | Enseignement ou éducation,Système constructif | Charpente,0.034,156
-Type de bâtiment | Logements de vacances ou de loisirs,Système constructif | Charpente,0.034,156
-Type de bâtiment | Industrie et commerce,Système constructif | Menuiserie intérieure,0.034,156
-Type de bâtiment | Loisirs,Système constructif | Structure verticale,0.033,156
-Type de bâtiment | Loisirs,Système constructif | Structure horizontale,0.027,156
-Type de bâtiment | Logement individuel supérieur à 120 m²,Système constructif | Menuiserie intérieure,0.025,156
-Type de bâtiment | Loisirs,Système constructif | Revêtement bois ou dérivés,0.023,156
-Type de bâtiment | Santé,Système constructif | Structure horizontale,0.019,156
-Type de bâtiment | Restauration,Système constructif | Revêtement bois ou dérivés,0.019,156
-Type de bâtiment | Logement collectif,Système constructif | Revêtement bois ou dérivés,0.019,156
-Type de bâtiment | Sport,Système constructif | Menuiserie extérieure,-0.018,156
-Type de bâtiment | Logement individuel inférieur 120 m²,Système constructif | Structure horizontale,-0.015,156
-Type de bâtiment | Logement individuel inférieur 120 m²,Système constructif | Structure verticale,0.014,156
-Type de bâtiment | Santé,Système constructif | Menuiserie intérieure,0.013,156
-Type de bâtiment | Lieu d'entreprise,Système constructif | Menuiserie intérieure,-0.013,156
-Type de bâtiment | Sport,Système constructif | Charpente,-0.008,156
-Type de bâtiment | Culture,Système constructif | Menuiserie extérieure,0.007,156
-Type de bâtiment | Agriculture,Système constructif | Menuiserie extérieure,0.006,156
-Type de bâtiment | Sport,Système constructif | Menuiserie intérieure,-0.005,156
-Type de bâtiment | Agriculture,Système constructif | Structure horizontale,0.003,156
-Type de bâtiment | Logements de vacances ou de loisirs,Système constructif | Menuiserie extérieure,0.003,156
-Type de bâtiment | Enseignement ou éducation,Système constructif | Revêtement bois ou dérivés,0.001,156
-Type de bâtiment | Restauration,Système constructif | Structure verticale,-0,156
-Type de bâtiment | Logement collectif,Système constructif | Structure verticale,0,156
-Type de bâtiment | Lieu d'entreprise,Système constructif | Charpente,0,156
+Type de bâtiment | Service institutionnel et public,Parties d'ouvrage | Structure verticale,-0.25,156
+Type de bâtiment | Culture,Parties d'ouvrage | Structure horizontale,-0.206,156
+Type de bâtiment | Lieu d'entreprise,Parties d'ouvrage | Menuiserie extérieure,-0.185,156
+Type de bâtiment | Logement collectif,Parties d'ouvrage | Charpente,-0.181,156
+Type de bâtiment | Culture,Parties d'ouvrage | Menuiserie intérieure,0.181,156
+Type de bâtiment | Lieu d'entreprise,Parties d'ouvrage | Structure horizontale,0.17,156
+Type de bâtiment | Logement individuel inférieur 120 m²,Parties d'ouvrage | Menuiserie extérieure,0.16,156
+Type de bâtiment | Enseignement ou éducation,Parties d'ouvrage | Structure horizontale,-0.154,156
+Type de bâtiment | Lieu d'entreprise,Parties d'ouvrage | Revêtement bois ou dérivés,-0.151,156
+Type de bâtiment | Santé,Parties d'ouvrage | Revêtement bois ou dérivés,-0.147,156
+Type de bâtiment | Hébergement,Parties d'ouvrage | Structure verticale,-0.145,156
+Type de bâtiment | Culture,Parties d'ouvrage | Revêtement bois ou dérivés,0.133,156
+Type de bâtiment | Lieu d'entreprise,Parties d'ouvrage | Structure verticale,0.129,156
+Type de bâtiment | Logement individuel supérieur à 120 m²,Parties d'ouvrage | Charpente,-0.118,156
+Type de bâtiment | Restauration,Parties d'ouvrage | Structure horizontale,-0.112,156
+Type de bâtiment | Logement individuel supérieur à 120 m²,Parties d'ouvrage | Structure horizontale,0.111,156
+Type de bâtiment | Culture,Parties d'ouvrage | Charpente,-0.11,156
+Type de bâtiment | Industrie et commerce,Parties d'ouvrage | Revêtement bois ou dérivés,0.11,156
+Type de bâtiment | Logement individuel inférieur 120 m²,Parties d'ouvrage | Revêtement bois ou dérivés,0.11,156
+Type de bâtiment | Logement individuel supérieur à 120 m²,Parties d'ouvrage | Structure verticale,0.101,156
+Type de bâtiment | Agriculture,Parties d'ouvrage | Revêtement bois ou dérivés,-0.098,156
+Type de bâtiment | Industrie et commerce,Parties d'ouvrage | Menuiserie extérieure,0.098,156
+Type de bâtiment | Industrie et commerce,Parties d'ouvrage | Structure verticale,0.097,156
+Type de bâtiment | Hébergement,Parties d'ouvrage | Structure horizontale,0.095,156
+Type de bâtiment | Culture,Parties d'ouvrage | Structure verticale,-0.094,156
+Type de bâtiment | Logement individuel supérieur à 120 m²,Parties d'ouvrage | Menuiserie extérieure,-0.094,156
+Type de bâtiment | Hébergement,Parties d'ouvrage | Menuiserie extérieure,0.085,156
+Type de bâtiment | Hébergement,Parties d'ouvrage | Revêtement bois ou dérivés,0.082,156
+Type de bâtiment | Service institutionnel et public,Parties d'ouvrage | Structure horizontale,-0.081,156
+Type de bâtiment | Service institutionnel et public,Parties d'ouvrage | Menuiserie intérieure,0.081,156
+Type de bâtiment | Sport,Parties d'ouvrage | Structure verticale,-0.078,156
+Type de bâtiment | Sport,Parties d'ouvrage | Revêtement bois ou dérivés,0.078,156
+Type de bâtiment | Service institutionnel et public,Parties d'ouvrage | Charpente,0.077,156
+Type de bâtiment | Logement individuel supérieur à 120 m²,Parties d'ouvrage | Revêtement bois ou dérivés,0.076,156
+Type de bâtiment | Santé,Parties d'ouvrage | Menuiserie extérieure,-0.076,156
+Type de bâtiment | Agriculture,Parties d'ouvrage | Menuiserie intérieure,-0.076,156
+Type de bâtiment | Santé,Parties d'ouvrage | Charpente,0.075,156
+Type de bâtiment | Service institutionnel et public,Parties d'ouvrage | Menuiserie extérieure,-0.073,156
+Type de bâtiment | Logement collectif,Parties d'ouvrage | Menuiserie extérieure,0.072,156
+Type de bâtiment | Logement individuel inférieur 120 m²,Parties d'ouvrage | Menuiserie intérieure,-0.071,156
+Type de bâtiment | Sport,Parties d'ouvrage | Structure horizontale,-0.068,156
+Type de bâtiment | Industrie et commerce,Parties d'ouvrage | Charpente,0.065,156
+Type de bâtiment | Logement individuel inférieur 120 m²,Parties d'ouvrage | Charpente,0.065,156
+Type de bâtiment | Restauration,Parties d'ouvrage | Menuiserie intérieure,-0.065,156
+Type de bâtiment | Logements de vacances ou de loisirs,Parties d'ouvrage | Structure horizontale,-0.064,156
+Type de bâtiment | Loisirs,Parties d'ouvrage | Menuiserie extérieure,-0.063,156
+Type de bâtiment | Restauration,Parties d'ouvrage | Menuiserie extérieure,-0.062,156
+Type de bâtiment | Service institutionnel et public,Parties d'ouvrage | Revêtement bois ou dérivés,-0.061,156
+Type de bâtiment | Restauration,Parties d'ouvrage | Charpente,0.06,156
+Type de bâtiment | Enseignement ou éducation,Parties d'ouvrage | Menuiserie intérieure,-0.059,156
+Type de bâtiment | Logements de vacances ou de loisirs,Parties d'ouvrage | Revêtement bois ou dérivés,0.058,156
+Type de bâtiment | Industrie et commerce,Parties d'ouvrage | Structure horizontale,0.056,156
+Type de bâtiment | Loisirs,Parties d'ouvrage | Charpente,0.056,156
+Type de bâtiment | Loisirs,Parties d'ouvrage | Menuiserie intérieure,0.055,156
+Type de bâtiment | Hébergement,Parties d'ouvrage | Menuiserie intérieure,-0.053,156
+Type de bâtiment | Agriculture,Parties d'ouvrage | Structure verticale,-0.052,156
+Type de bâtiment | Enseignement ou éducation,Parties d'ouvrage | Structure verticale,0.051,156
+Type de bâtiment | Logements de vacances ou de loisirs,Parties d'ouvrage | Structure verticale,0.051,156
+Type de bâtiment | Hébergement,Parties d'ouvrage | Charpente,0.049,156
+Type de bâtiment | Logement collectif,Parties d'ouvrage | Menuiserie intérieure,0.048,156
+Type de bâtiment | Enseignement ou éducation,Parties d'ouvrage | Menuiserie extérieure,0.045,156
+Type de bâtiment | Logement collectif,Parties d'ouvrage | Structure horizontale,0.041,156
+Type de bâtiment | Santé,Parties d'ouvrage | Structure verticale,-0.037,156
+Type de bâtiment | Logements de vacances ou de loisirs,Parties d'ouvrage | Menuiserie intérieure,-0.037,156
+Type de bâtiment | Agriculture,Parties d'ouvrage | Charpente,-0.035,156
+Type de bâtiment | Enseignement ou éducation,Parties d'ouvrage | Charpente,0.034,156
+Type de bâtiment | Logements de vacances ou de loisirs,Parties d'ouvrage | Charpente,0.034,156
+Type de bâtiment | Industrie et commerce,Parties d'ouvrage | Menuiserie intérieure,0.034,156
+Type de bâtiment | Loisirs,Parties d'ouvrage | Structure verticale,0.033,156
+Type de bâtiment | Loisirs,Parties d'ouvrage | Structure horizontale,0.027,156
+Type de bâtiment | Logement individuel supérieur à 120 m²,Parties d'ouvrage | Menuiserie intérieure,0.025,156
+Type de bâtiment | Loisirs,Parties d'ouvrage | Revêtement bois ou dérivés,0.023,156
+Type de bâtiment | Santé,Parties d'ouvrage | Structure horizontale,0.019,156
+Type de bâtiment | Restauration,Parties d'ouvrage | Revêtement bois ou dérivés,0.019,156
+Type de bâtiment | Logement collectif,Parties d'ouvrage | Revêtement bois ou dérivés,0.019,156
+Type de bâtiment | Sport,Parties d'ouvrage | Menuiserie extérieure,-0.018,156
+Type de bâtiment | Logement individuel inférieur 120 m²,Parties d'ouvrage | Structure horizontale,-0.015,156
+Type de bâtiment | Logement individuel inférieur 120 m²,Parties d'ouvrage | Structure verticale,0.014,156
+Type de bâtiment | Santé,Parties d'ouvrage | Menuiserie intérieure,0.013,156
+Type de bâtiment | Lieu d'entreprise,Parties d'ouvrage | Menuiserie intérieure,-0.013,156
+Type de bâtiment | Sport,Parties d'ouvrage | Charpente,-0.008,156
+Type de bâtiment | Culture,Parties d'ouvrage | Menuiserie extérieure,0.007,156
+Type de bâtiment | Agriculture,Parties d'ouvrage | Menuiserie extérieure,0.006,156
+Type de bâtiment | Sport,Parties d'ouvrage | Menuiserie intérieure,-0.005,156
+Type de bâtiment | Agriculture,Parties d'ouvrage | Structure horizontale,0.003,156
+Type de bâtiment | Logements de vacances ou de loisirs,Parties d'ouvrage | Menuiserie extérieure,0.003,156
+Type de bâtiment | Enseignement ou éducation,Parties d'ouvrage | Revêtement bois ou dérivés,0.001,156
+Type de bâtiment | Restauration,Parties d'ouvrage | Structure verticale,-0,156
+Type de bâtiment | Logement collectif,Parties d'ouvrage | Structure verticale,0,156
+Type de bâtiment | Lieu d'entreprise,Parties d'ouvrage | Charpente,0,156
